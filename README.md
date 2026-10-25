@@ -20,20 +20,28 @@ $K_{k+1}$ is $k = 8$. The minimum number of edges at treewidth eight is 34.**
 | 7 | 28 | 28 |
 | 8 | 36 | **34** |
 
+For every $k \le 7$, the clique is optimal. This repository contains the
+[proof](proof.md), the code for its computer-assisted step, and the saved
+certificates. The results have not yet been externally reviewed.
+
+## A 34-edge graph of treewidth eight
+
 <p align="center">
   <img src="sources/witness34.svg" width="360"
        alt="A 17-vertex, 4-regular graph with 34 edges and treewidth 8">
 </p>
 
-*A 34-edge graph of treewidth eight. The 12 outer vertices form a Möbius
-ladder: a 12-cycle plus its six diameters (dashed). Each of the four inner
-vertices is joined to every fourth outer vertex, and the centre vertex is
-joined to all four inner vertices.*
+*The 12 outer vertices form a Möbius ladder: a 12-cycle plus its six
+diameters (dashed). Each of the four inner vertices is joined to every fourth
+outer vertex, and the centre vertex is joined to all four inner vertices.*
 
-For every $k \le 7$, the clique is optimal. This repository contains the
-[proof](proof.md), the code for its computer-assisted step, and the saved
-certificates. The results have not yet been externally reviewed. The 34-edge
-graph comes from House of Graphs' quartic archive and is not claimed as a new
+Its graph6 code is
+
+```text
+Ps`aa?aGOgAGBCA`@L?@K?ES
+```
+
+It comes from House of Graphs' quartic archive and is not claimed as a new
 construction.
 
 ## Proof outline
@@ -53,8 +61,8 @@ edges and treewidth at least seven is $K_8$ or one 12-vertex graph $F$.**
    a smallest counterexample with at most 33 edges leaves a connected
    28-edge graph of treewidth at least seven on 13–15 vertices, which the
    classification rules out.
-4. **34 edges suffice:** a 17-vertex, 4-regular graph has treewidth exactly
-   eight.
+4. **34 edges suffice:** the 17-vertex, 4-regular graph pictured above has
+   treewidth exactly eight.
 
 ### How the results are certified
 
