@@ -20,6 +20,16 @@ $K_{k+1}$ is $k = 8$. The minimum number of edges at treewidth eight is 34.**
 | 7 | 28 | 28 |
 | 8 | 36 | **34** |
 
+<p align="center">
+  <img src="sources/witness34.svg" width="360"
+       alt="A 17-vertex, 4-regular graph with 34 edges and treewidth 8">
+</p>
+
+*A 34-edge graph of treewidth eight. The 12 outer vertices form a Möbius
+ladder: a 12-cycle plus its six diameters (dashed). Each of the four inner
+vertices is joined to every fourth outer vertex, and the centre vertex is
+joined to all four inner vertices.*
+
 For every $k \le 7$, the clique is optimal. This repository contains the
 [proof](proof.md), the code for its computer-assisted step, and the saved
 certificates. The results have not yet been externally reviewed. The 34-edge
@@ -128,8 +138,9 @@ It does **not** repeat the exhaustive enumeration; use the full run for that.
   algorithms.
 - [sources/results.json](sources/results.json): enumeration counts, source
   hashes, and certificates for $K_8$ and $F$ and all their reductions.
-- [sources/witness34.json](sources/witness34.json) and
-  [graph6 file](sources/witness34.g6): the 34-edge graph and its certificates.
+- [sources/witness34.json](sources/witness34.json),
+  [graph6 file](sources/witness34.g6), and [drawing](sources/witness34.svg):
+  the 34-edge graph and its certificates.
 
 ## References and attribution
 
