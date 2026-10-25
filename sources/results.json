@@ -1,0 +1,3027 @@
+{
+ "date": "2026-10-25",
+ "nauty_version": "2.8.8",
+ "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+ "sha256": {
+  "scripts/reproduce.py": "871b480d22c86d456dd53dd046fc6025721358caa81f8929f5953a8397dd4711",
+  "scripts/reference.py": "51ff9c5191dda7c25ec429f17560f0ed020a7357b3ba2d2fc73f827ec91cc200",
+  "scripts/treewidth.c": "ddd9867ea4dcce73e194fb814ae7576f97802bc1a2e77713d0045e963fc974b6",
+  "sources/witness34.json": "ae84fec818004ee75e2fdd33b7a6d5b9bddcdfe67fe662c39c692280c9379410"
+ },
+ "geng_sha256": "c52ea36a688968d571a3e3572cb55542b6b9f1cf0144de49238aebaf86d596b8",
+ "checker_audit": {
+  "all_unlabeled_graphs_n1_through7": 1252,
+  "seeded_random_graphs_n8_through11": 48,
+  "decision_comparisons": 2600
+ },
+ "cores": [
+  {
+   "n": 8,
+   "width": 6,
+   "total": 1,
+   "greedy": 0,
+   "search": 0,
+   "verified": 0,
+   "counterexamples": 1,
+   "cpu_seconds": 0.0,
+   "edges": {
+    "28": 1
+   },
+   "arguments": [
+    "-c",
+    "-d4",
+    "-D7",
+    "8",
+    "28:28"
+   ],
+   "exceptions": [
+    "G~~~~{"
+   ],
+   "unmodified_generator_count": 1,
+   "nongreedy_orders_verified_in_python": 0
+  },
+  {
+   "n": 9,
+   "width": 6,
+   "total": 106,
+   "greedy": 104,
+   "search": 2,
+   "verified": 106,
+   "counterexamples": 0,
+   "cpu_seconds": 0.001,
+   "edges": {
+    "28": 106
+   },
+   "arguments": [
+    "-c",
+    "-d4",
+    "-D7",
+    "9",
+    "28:28"
+   ],
+   "exceptions": [],
+   "unmodified_generator_count": 106,
+   "nongreedy_orders_verified_in_python": 2
+  },
+  {
+   "n": 10,
+   "width": 6,
+   "total": 101336,
+   "greedy": 101309,
+   "search": 27,
+   "verified": 101336,
+   "counterexamples": 0,
+   "cpu_seconds": 0.099,
+   "edges": {
+    "28": 101336
+   },
+   "arguments": [
+    "-c",
+    "-d4",
+    "-D7",
+    "10",
+    "28:28"
+   ],
+   "exceptions": [],
+   "unmodified_generator_count": 101336,
+   "nongreedy_orders_verified_in_python": 27
+  },
+  {
+   "n": 11,
+   "width": 6,
+   "total": 9555744,
+   "greedy": 9554752,
+   "search": 992,
+   "verified": 9555744,
+   "counterexamples": 0,
+   "cpu_seconds": 8.568,
+   "edges": {
+    "28": 9555744
+   },
+   "arguments": [
+    "-c",
+    "-d4",
+    "-D7",
+    "11",
+    "28:28"
+   ],
+   "exceptions": [],
+   "unmodified_generator_count": 9555744,
+   "nongreedy_orders_verified_in_python": 992
+  },
+  {
+   "n": 12,
+   "width": 6,
+   "total": 62893242,
+   "greedy": 62881147,
+   "search": 12094,
+   "verified": 62893241,
+   "counterexamples": 1,
+   "cpu_seconds": 67.288,
+   "edges": {
+    "28": 62893242
+   },
+   "arguments": [
+    "-c",
+    "-d4",
+    "-D7",
+    "12",
+    "28:28"
+   ],
+   "exceptions": [
+    "K?bFBO{}?}Ug"
+   ],
+   "unmodified_generator_count": 62893242,
+   "nongreedy_orders_verified_in_python": 12094
+  },
+  {
+   "n": 13,
+   "width": 6,
+   "total": 24203296,
+   "greedy": 24185620,
+   "search": 17676,
+   "verified": 24203296,
+   "counterexamples": 0,
+   "cpu_seconds": 51.096,
+   "edges": {
+    "28": 24203296
+   },
+   "arguments": [
+    "-c",
+    "-d4",
+    "-D7",
+    "13",
+    "28:28"
+   ],
+   "exceptions": [],
+   "unmodified_generator_count": 24203296,
+   "nongreedy_orders_verified_in_python": 17676
+  },
+  {
+   "n": 14,
+   "width": 6,
+   "total": 88168,
+   "greedy": 87819,
+   "search": 349,
+   "verified": 88168,
+   "counterexamples": 0,
+   "cpu_seconds": 4.099,
+   "edges": {
+    "28": 88168
+   },
+   "arguments": [
+    "-c",
+    "-d4",
+    "-D7",
+    "14",
+    "28:28"
+   ],
+   "exceptions": [],
+   "unmodified_generator_count": 88168,
+   "nongreedy_orders_verified_in_python": 349
+  }
+ ],
+ "total_cores": 96841893,
+ "exceptional_cores": [
+  {
+   "graph6": "G~~~~{",
+   "adjacency_lists": [
+    [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    [
+     0,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    [
+     0,
+     1,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    [
+     0,
+     1,
+     2,
+     4,
+     5,
+     6,
+     7
+    ],
+    [
+     0,
+     1,
+     2,
+     3,
+     5,
+     6,
+     7
+    ],
+    [
+     0,
+     1,
+     2,
+     3,
+     4,
+     6,
+     7
+    ],
+    [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   ],
+   "triangles": [
+    [
+     0,
+     1,
+     2
+    ],
+    [
+     0,
+     1,
+     3
+    ],
+    [
+     0,
+     1,
+     4
+    ],
+    [
+     0,
+     1,
+     5
+    ],
+    [
+     0,
+     1,
+     6
+    ],
+    [
+     0,
+     1,
+     7
+    ],
+    [
+     0,
+     2,
+     3
+    ],
+    [
+     0,
+     2,
+     4
+    ],
+    [
+     0,
+     2,
+     5
+    ],
+    [
+     0,
+     2,
+     6
+    ],
+    [
+     0,
+     2,
+     7
+    ],
+    [
+     0,
+     3,
+     4
+    ],
+    [
+     0,
+     3,
+     5
+    ],
+    [
+     0,
+     3,
+     6
+    ],
+    [
+     0,
+     3,
+     7
+    ],
+    [
+     0,
+     4,
+     5
+    ],
+    [
+     0,
+     4,
+     6
+    ],
+    [
+     0,
+     4,
+     7
+    ],
+    [
+     0,
+     5,
+     6
+    ],
+    [
+     0,
+     5,
+     7
+    ],
+    [
+     0,
+     6,
+     7
+    ],
+    [
+     1,
+     2,
+     3
+    ],
+    [
+     1,
+     2,
+     4
+    ],
+    [
+     1,
+     2,
+     5
+    ],
+    [
+     1,
+     2,
+     6
+    ],
+    [
+     1,
+     2,
+     7
+    ],
+    [
+     1,
+     3,
+     4
+    ],
+    [
+     1,
+     3,
+     5
+    ],
+    [
+     1,
+     3,
+     6
+    ],
+    [
+     1,
+     3,
+     7
+    ],
+    [
+     1,
+     4,
+     5
+    ],
+    [
+     1,
+     4,
+     6
+    ],
+    [
+     1,
+     4,
+     7
+    ],
+    [
+     1,
+     5,
+     6
+    ],
+    [
+     1,
+     5,
+     7
+    ],
+    [
+     1,
+     6,
+     7
+    ],
+    [
+     2,
+     3,
+     4
+    ],
+    [
+     2,
+     3,
+     5
+    ],
+    [
+     2,
+     3,
+     6
+    ],
+    [
+     2,
+     3,
+     7
+    ],
+    [
+     2,
+     4,
+     5
+    ],
+    [
+     2,
+     4,
+     6
+    ],
+    [
+     2,
+     4,
+     7
+    ],
+    [
+     2,
+     5,
+     6
+    ],
+    [
+     2,
+     5,
+     7
+    ],
+    [
+     2,
+     6,
+     7
+    ],
+    [
+     3,
+     4,
+     5
+    ],
+    [
+     3,
+     4,
+     6
+    ],
+    [
+     3,
+     4,
+     7
+    ],
+    [
+     3,
+     5,
+     6
+    ],
+    [
+     3,
+     5,
+     7
+    ],
+    [
+     3,
+     6,
+     7
+    ],
+    [
+     4,
+     5,
+     6
+    ],
+    [
+     4,
+     5,
+     7
+    ],
+    [
+     4,
+     6,
+     7
+    ],
+    [
+     5,
+     6,
+     7
+    ]
+   ],
+   "width_six_closed_prefixes": [
+    0
+   ],
+   "width_seven_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "reductions": [
+    {
+     "deleted_edge": [
+      0,
+      1
+     ],
+     "graph6": "G^~~~{",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      2
+     ],
+     "graph6": "Gn~~~{",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      2
+     ],
+     "graph6": "Gv~~~{",
+     "width_six_order": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      3
+     ],
+     "graph6": "Gz~~~{",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      3
+     ],
+     "graph6": "G|~~~{",
+     "width_six_order": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      3
+     ],
+     "graph6": "G}~~~{",
+     "width_six_order": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      4
+     ],
+     "graph6": "G~^~~{",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      4
+     ],
+     "graph6": "G~n~~{",
+     "width_six_order": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      4
+     ],
+     "graph6": "G~v~~{",
+     "width_six_order": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      4
+     ],
+     "graph6": "G~z~~{",
+     "width_six_order": [
+      3,
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      5
+     ],
+     "graph6": "G~|~~{",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      5
+     ],
+     "graph6": "G~}~~{",
+     "width_six_order": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      5
+     ],
+     "graph6": "G~~^~{",
+     "width_six_order": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      5
+     ],
+     "graph6": "G~~n~{",
+     "width_six_order": [
+      3,
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      4,
+      5
+     ],
+     "graph6": "G~~v~{",
+     "width_six_order": [
+      4,
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      6
+     ],
+     "graph6": "G~~z~{",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      6
+     ],
+     "graph6": "G~~|~{",
+     "width_six_order": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      6
+     ],
+     "graph6": "G~~}~{",
+     "width_six_order": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      6
+     ],
+     "graph6": "G~~~^{",
+     "width_six_order": [
+      3,
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      4,
+      6
+     ],
+     "graph6": "G~~~n{",
+     "width_six_order": [
+      4,
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      5,
+      6
+     ],
+     "graph6": "G~~~v{",
+     "width_six_order": [
+      5,
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      7
+     ],
+     "graph6": "G~~~z{",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      7
+     ],
+     "graph6": "G~~~|{",
+     "width_six_order": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      7
+     ],
+     "graph6": "G~~~}{",
+     "width_six_order": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      7
+     ],
+     "graph6": "G~~~~[",
+     "width_six_order": [
+      3,
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      4,
+      7
+     ],
+     "graph6": "G~~~~k",
+     "width_six_order": [
+      4,
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      5,
+      7
+     ],
+     "graph6": "G~~~~s",
+     "width_six_order": [
+      5,
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+     ]
+    },
+    {
+     "deleted_edge": [
+      6,
+      7
+     ],
+     "graph6": "G~~~~w",
+     "width_six_order": [
+      6,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      1,
+      2
+     ],
+     "graph6": "HF~~~~_",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      1,
+      3
+     ],
+     "graph6": "HX~~~~O",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      1,
+      4
+     ],
+     "graph6": "H^N~~~G",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      1,
+      5
+     ],
+     "graph6": "H^{~~~C",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      1,
+      6
+     ],
+     "graph6": "H^~x~~A",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      1,
+      7
+     ],
+     "graph6": "H^~~x~@",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      2,
+      3
+     ],
+     "graph6": "Hi~~~}o",
+     "width_six_order": [
+      0,
+      2,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      2,
+      4
+     ],
+     "graph6": "HnV~~}g",
+     "width_six_order": [
+      0,
+      2,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      2,
+      5
+     ],
+     "graph6": "Hn|^~}c",
+     "width_six_order": [
+      0,
+      2,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      2,
+      6
+     ],
+     "graph6": "Hn~y~}a",
+     "width_six_order": [
+      0,
+      2,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      2,
+      7
+     ],
+     "graph6": "Hn~~y}`",
+     "width_six_order": [
+      0,
+      2,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      3,
+      4
+     ],
+     "graph6": "HzZ~~}W",
+     "width_six_order": [
+      0,
+      3,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      3,
+      5
+     ],
+     "graph6": "Hz|n~}S",
+     "width_six_order": [
+      0,
+      3,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      3,
+      6
+     ],
+     "graph6": "Hz~z^}Q",
+     "width_six_order": [
+      0,
+      3,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      3,
+      7
+     ],
+     "graph6": "Hz~~z]P",
+     "width_six_order": [
+      0,
+      3,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      4,
+      5
+     ],
+     "graph6": "H~\\v~}K",
+     "width_six_order": [
+      0,
+      4,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      4,
+      6
+     ],
+     "graph6": "H~^zn}I",
+     "width_six_order": [
+      0,
+      4,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      4,
+      7
+     ],
+     "graph6": "H~^~zmH",
+     "width_six_order": [
+      0,
+      4,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      5,
+      6
+     ],
+     "graph6": "H~|zv}E",
+     "width_six_order": [
+      0,
+      5,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      5,
+      7
+     ],
+     "graph6": "H~|~zuD",
+     "width_six_order": [
+      0,
+      5,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      6,
+      7
+     ],
+     "graph6": "H~~zzyB",
+     "width_six_order": [
+      0,
+      6,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      2,
+      3
+     ],
+     "graph6": "Hs~~~|o",
+     "width_six_order": [
+      1,
+      2,
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      2,
+      4
+     ],
+     "graph6": "Hvf~~|g",
+     "width_six_order": [
+      1,
+      2,
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      2,
+      5
+     ],
+     "graph6": "Hv}^~|c",
+     "width_six_order": [
+      1,
+      2,
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      2,
+      6
+     ],
+     "graph6": "Hv~{~|a",
+     "width_six_order": [
+      1,
+      2,
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      2,
+      7
+     ],
+     "graph6": "Hv~~{|`",
+     "width_six_order": [
+      1,
+      2,
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      3,
+      4
+     ],
+     "graph6": "H|j~~|W",
+     "width_six_order": [
+      1,
+      3,
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      3,
+      5
+     ],
+     "graph6": "H|}n~|S",
+     "width_six_order": [
+      1,
+      3,
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      3,
+      6
+     ],
+     "graph6": "H|~|^|Q",
+     "width_six_order": [
+      1,
+      3,
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      3,
+      7
+     ],
+     "graph6": "H|~~|\\P",
+     "width_six_order": [
+      1,
+      3,
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      4,
+      5
+     ],
+     "graph6": "H~mv~|K",
+     "width_six_order": [
+      1,
+      4,
+      0,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      4,
+      6
+     ],
+     "graph6": "H~n|n|I",
+     "width_six_order": [
+      1,
+      4,
+      0,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      4,
+      7
+     ],
+     "graph6": "H~n~|lH",
+     "width_six_order": [
+      1,
+      4,
+      0,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      5,
+      6
+     ],
+     "graph6": "H~}|v|E",
+     "width_six_order": [
+      1,
+      5,
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      5,
+      7
+     ],
+     "graph6": "H~}~|tD",
+     "width_six_order": [
+      1,
+      5,
+      0,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      1,
+      6,
+      7
+     ],
+     "graph6": "H~~||xB",
+     "width_six_order": [
+      1,
+      6,
+      0,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      3,
+      4
+     ],
+     "graph6": "H}r~~{w",
+     "width_six_order": [
+      2,
+      3,
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      3,
+      5
+     ],
+     "graph6": "H}~N~{s",
+     "width_six_order": [
+      2,
+      3,
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      3,
+      6
+     ],
+     "graph6": "H}~}^{q",
+     "width_six_order": [
+      2,
+      3,
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      3,
+      7
+     ],
+     "graph6": "H}~~}[p",
+     "width_six_order": [
+      2,
+      3,
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      4,
+      5
+     ],
+     "graph6": "H~vV~{k",
+     "width_six_order": [
+      2,
+      4,
+      0,
+      1,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      4,
+      6
+     ],
+     "graph6": "H~v}n{i",
+     "width_six_order": [
+      2,
+      4,
+      0,
+      1,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      4,
+      7
+     ],
+     "graph6": "H~v~}kh",
+     "width_six_order": [
+      2,
+      4,
+      0,
+      1,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      5,
+      6
+     ],
+     "graph6": "H~~]v{e",
+     "width_six_order": [
+      2,
+      5,
+      0,
+      1,
+      3,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      5,
+      7
+     ],
+     "graph6": "H~~^}sd",
+     "width_six_order": [
+      2,
+      5,
+      0,
+      1,
+      3,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      6,
+      7
+     ],
+     "graph6": "H~~}}wb",
+     "width_six_order": [
+      2,
+      6,
+      0,
+      1,
+      3,
+      4,
+      5,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      3,
+      4,
+      5
+     ],
+     "graph6": "H~zf~{[",
+     "width_six_order": [
+      3,
+      4,
+      0,
+      1,
+      2,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      3,
+      4,
+      6
+     ],
+     "graph6": "H~z~N{Y",
+     "width_six_order": [
+      3,
+      4,
+      0,
+      1,
+      2,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      3,
+      4,
+      7
+     ],
+     "graph6": "H~z~~KX",
+     "width_six_order": [
+      3,
+      4,
+      0,
+      1,
+      2,
+      5,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      3,
+      5,
+      6
+     ],
+     "graph6": "H~~nV{U",
+     "width_six_order": [
+      3,
+      5,
+      0,
+      1,
+      2,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      3,
+      5,
+      7
+     ],
+     "graph6": "H~~n~ST",
+     "width_six_order": [
+      3,
+      5,
+      0,
+      1,
+      2,
+      4,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      3,
+      6,
+      7
+     ],
+     "graph6": "H~~~^WR",
+     "width_six_order": [
+      3,
+      6,
+      0,
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      4,
+      5,
+      6
+     ],
+     "graph6": "H~~vf{M",
+     "width_six_order": [
+      4,
+      5,
+      0,
+      1,
+      2,
+      3,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      4,
+      5,
+      7
+     ],
+     "graph6": "H~~v~cL",
+     "width_six_order": [
+      4,
+      5,
+      0,
+      1,
+      2,
+      3,
+      6,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      4,
+      6,
+      7
+     ],
+     "graph6": "H~~~ngJ",
+     "width_six_order": [
+      4,
+      6,
+      0,
+      1,
+      2,
+      3,
+      5,
+      7,
+      8
+     ]
+    },
+    {
+     "replaced_triangle": [
+      5,
+      6,
+      7
+     ],
+     "graph6": "H~~~voF",
+     "width_six_order": [
+      5,
+      6,
+      0,
+      1,
+      2,
+      3,
+      4,
+      7,
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "graph6": "K?bFBO{}?}Ug",
+   "adjacency_lists": [
+    [
+     4,
+     5,
+     6,
+     9,
+     11
+    ],
+    [
+     5,
+     6,
+     7,
+     9
+    ],
+    [
+     6,
+     7,
+     8,
+     9,
+     11
+    ],
+    [
+     8,
+     9,
+     10,
+     11
+    ],
+    [
+     0,
+     7,
+     8,
+     9,
+     10
+    ],
+    [
+     0,
+     1,
+     8,
+     10,
+     11
+    ],
+    [
+     0,
+     1,
+     2,
+     10
+    ],
+    [
+     1,
+     2,
+     4,
+     10,
+     11
+    ],
+    [
+     2,
+     3,
+     4,
+     5
+    ],
+    [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    [
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    [
+     0,
+     2,
+     3,
+     5,
+     7
+    ]
+   ],
+   "triangles": [
+    [
+     0,
+     4,
+     9
+    ],
+    [
+     0,
+     5,
+     11
+    ],
+    [
+     2,
+     7,
+     11
+    ],
+    [
+     4,
+     7,
+     10
+    ]
+   ],
+   "width_six_closed_prefixes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    66,
+    72,
+    74,
+    80,
+    82,
+    88,
+    90,
+    96,
+    104,
+    112,
+    120,
+    128,
+    129,
+    136,
+    137,
+    160,
+    168,
+    192,
+    200,
+    224,
+    232,
+    256,
+    257,
+    258,
+    259,
+    264,
+    265,
+    266,
+    267,
+    320,
+    322,
+    328,
+    330,
+    384,
+    385,
+    392,
+    393,
+    448,
+    456,
+    512,
+    544,
+    576,
+    608,
+    640,
+    672,
+    704,
+    736,
+    768,
+    832,
+    896,
+    960,
+    1024,
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    1031,
+    1280,
+    1281,
+    1282,
+    1283,
+    1536,
+    1792,
+    2048,
+    2050,
+    2064,
+    2066,
+    2112,
+    2114,
+    2128,
+    2130,
+    2304,
+    2306,
+    2368,
+    2370,
+    2560,
+    2624,
+    2816,
+    2880,
+    3072,
+    3074,
+    3328,
+    3330,
+    3584,
+    3840
+   ],
+   "width_seven_order": [
+    1,
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "reductions": [
+    {
+     "deleted_edge": [
+      0,
+      4
+     ],
+     "graph6": "K?BFBO{}?}Ug",
+     "width_six_order": [
+      0,
+      1,
+      4,
+      3,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      5
+     ],
+     "graph6": "K?`FBO{}?}Ug",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      5
+     ],
+     "graph6": "K?aFBO{}?}Ug",
+     "width_six_order": [
+      1,
+      5,
+      3,
+      4,
+      2,
+      0,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      6
+     ],
+     "graph6": "K?bBBO{}?}Ug",
+     "width_six_order": [
+      6,
+      0,
+      1,
+      7,
+      3,
+      2,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      6
+     ],
+     "graph6": "K?bDBO{}?}Ug",
+     "width_six_order": [
+      1,
+      6,
+      3,
+      4,
+      2,
+      0,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      6
+     ],
+     "graph6": "K?bEBO{}?}Ug",
+     "width_six_order": [
+      6,
+      2,
+      3,
+      4,
+      1,
+      0,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      7
+     ],
+     "graph6": "K?bF@O{}?}Ug",
+     "width_six_order": [
+      1,
+      7,
+      0,
+      6,
+      3,
+      2,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      7
+     ],
+     "graph6": "K?bFAO{}?}Ug",
+     "width_six_order": [
+      7,
+      3,
+      2,
+      0,
+      1,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      4,
+      7
+     ],
+     "graph6": "K?bFB?{}?}Ug",
+     "width_six_order": [
+      4,
+      3,
+      7,
+      6,
+      5,
+      0,
+      1,
+      2,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      8
+     ],
+     "graph6": "K?bFBO[}?}Ug",
+     "width_six_order": [
+      8,
+      2,
+      1,
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      8
+     ],
+     "graph6": "K?bFBOk}?}Ug",
+     "width_six_order": [
+      3,
+      8,
+      1,
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      4,
+      8
+     ],
+     "graph6": "K?bFBOs}?}Ug",
+     "width_six_order": [
+      8,
+      4,
+      3,
+      11,
+      1,
+      0,
+      2,
+      5,
+      6,
+      7,
+      9,
+      10
+     ]
+    },
+    {
+     "deleted_edge": [
+      5,
+      8
+     ],
+     "graph6": "K?bFBOw}?}Ug",
+     "width_six_order": [
+      8,
+      5,
+      6,
+      7,
+      3,
+      0,
+      1,
+      2,
+      4,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      9
+     ],
+     "graph6": "K?bFBO{]?}Ug",
+     "width_six_order": [
+      0,
+      1,
+      10,
+      8,
+      9,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      1,
+      9
+     ],
+     "graph6": "K?bFBO{m?}Ug",
+     "width_six_order": [
+      1,
+      9,
+      8,
+      11,
+      6,
+      0,
+      2,
+      3,
+      4,
+      5,
+      7,
+      10
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      9
+     ],
+     "graph6": "K?bFBO{u?}Ug",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      8,
+      9,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      9
+     ],
+     "graph6": "K?bFBO{y?}Ug",
+     "width_six_order": [
+      3,
+      9,
+      6,
+      7,
+      5,
+      0,
+      1,
+      2,
+      4,
+      8,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      4,
+      9
+     ],
+     "graph6": "K?bFBO{{?}Ug",
+     "width_six_order": [
+      4,
+      3,
+      5,
+      6,
+      7,
+      0,
+      1,
+      2,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      10
+     ],
+     "graph6": "K?bFBO{}?]Ug",
+     "width_six_order": [
+      3,
+      10,
+      1,
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      4,
+      10
+     ],
+     "graph6": "K?bFBO{}?mUg",
+     "width_six_order": [
+      4,
+      1,
+      10,
+      2,
+      0,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      5,
+      10
+     ],
+     "graph6": "K?bFBO{}?uUg",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      6,
+      10
+     ],
+     "graph6": "K?bFBO{}?yUg",
+     "width_six_order": [
+      6,
+      10,
+      8,
+      11,
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9
+     ]
+    },
+    {
+     "deleted_edge": [
+      7,
+      10
+     ],
+     "graph6": "K?bFBO{}?{Ug",
+     "width_six_order": [
+      7,
+      6,
+      9,
+      8,
+      10,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      11
+     ]
+    },
+    {
+     "deleted_edge": [
+      0,
+      11
+     ],
+     "graph6": "K?bFBO{}?}Eg",
+     "width_six_order": [
+      0,
+      1,
+      11,
+      8,
+      10,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9
+     ]
+    },
+    {
+     "deleted_edge": [
+      2,
+      11
+     ],
+     "graph6": "K?bFBO{}?}Qg",
+     "width_six_order": [
+      11,
+      1,
+      2,
+      4,
+      3,
+      0,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "deleted_edge": [
+      3,
+      11
+     ],
+     "graph6": "K?bFBO{}?}Sg",
+     "width_six_order": [
+      3,
+      11,
+      4,
+      8,
+      1,
+      0,
+      2,
+      5,
+      6,
+      7,
+      9,
+      10
+     ]
+    },
+    {
+     "deleted_edge": [
+      5,
+      11
+     ],
+     "graph6": "K?bFBO{}?}UG",
+     "width_six_order": [
+      11,
+      6,
+      5,
+      4,
+      1,
+      0,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "deleted_edge": [
+      7,
+      11
+     ],
+     "graph6": "K?bFBO{}?}U_",
+     "width_six_order": [
+      7,
+      6,
+      11,
+      8,
+      9,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      10
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      4,
+      9
+     ],
+     "graph6": "L?BFBO{[?}UgaC",
+     "width_six_order": [
+      0,
+      1,
+      4,
+      8,
+      9,
+      10,
+      2,
+      3,
+      5,
+      6,
+      7,
+      11,
+      12
+     ]
+    },
+    {
+     "replaced_triangle": [
+      0,
+      5,
+      11
+     ],
+     "graph6": "L?`FBO{}?}EG`@",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "replaced_triangle": [
+      2,
+      7,
+      11
+     ],
+     "graph6": "L?bFAO{}?}Q_GP",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      7,
+      8,
+      10,
+      3,
+      4,
+      5,
+      6,
+      9,
+      11,
+      12
+     ]
+    },
+    {
+     "replaced_triangle": [
+      4,
+      7,
+      10
+     ],
+     "graph6": "L?bFB?{}?kUgAQ",
+     "width_six_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  }
+ ],
+ "witness34_graph6": "Ps`aa?aGOgAGBCA`@L?@K?ES"
+}
