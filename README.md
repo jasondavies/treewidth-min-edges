@@ -290,8 +290,9 @@ The complete argument is in [proof.md](proof.md).
   verifier, used as a `geng` plugin or standalone graph6 checker.
 - [scripts/reference.py](scripts/reference.py): separate Python reference
   algorithms.
-- [scripts/draw_witness16.py](scripts/draw_witness16.py): generate the SVG
-  drawing of the 16-vertex graph.
+- [scripts/draw_witness16.py](scripts/draw_witness16.py) and
+  [scripts/draw_witness17.py](scripts/draw_witness17.py): generate the SVG
+  drawings of the 16- and 17-vertex graphs.
 
 ### Graphs and saved results
 
