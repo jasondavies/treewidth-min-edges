@@ -15,8 +15,8 @@
 $K_{k+1}$ is $k = 8$. The minimum number of edges at treewidth eight is 34.**
 
 There are exactly **two connected 34-edge graphs of treewidth eight**, up to
-isomorphism, on 16 and 17 vertices.
-Both are triangle-free. See [the classification](proof.md#8-classification-at-34-edges-exactly-two-connected-graphs).
+isomorphism, on 16 and 17 vertices. See
+[the classification](proof.md#8-classification-at-34-edges-exactly-two-connected-graphs).
 
 | Treewidth $k$ | Edges of $K_{k+1}$ | Minimum number of edges |
 | ---: | ---: | ---: |
@@ -24,9 +24,12 @@ Both are triangle-free. See [the classification](proof.md#8-classification-at-34
 | 7 | 28 | 28 |
 | 8 | 36 | **34** |
 
-For every $k \le 7$, the clique is optimal. This repository contains the
-[proof](proof.md), the code for its computer-assisted steps, and the saved
-certificates. The results have not yet been externally reviewed.
+For every $k \le 7$, the clique is optimal for the number of edges. At $k=7$,
+the 12-vertex graph $F$ also attains the minimum of 28 edges.
+
+This repository contains the [proof](proof.md), the code for its
+computer-assisted steps, and the saved certificates. The results have not yet
+been externally reviewed.
 
 ## Exactly two connected 34-edge graphs of treewidth eight
 
@@ -43,9 +46,9 @@ Twelve vertices have degree four and four have degree five.
        alt="A 16-vertex graph with 34 edges and treewidth 8; twelve vertices have degree four and four have degree five">
 </p>
 
-*The twelve white ring vertices form a cycle with six additional matching
-edges drawn outside. The four blue vertices form an inner four-cycle, and
-each joins three ring vertices.*
+*The twelve white ring vertices form a 12-cycle with six additional matching
+edges drawn outside. The four blue inner vertices form a four-cycle, and
+each is joined to three ring vertices.*
 
 Its graph6 code is
 
@@ -55,7 +58,9 @@ O?qbF_WF_cA__IOBCC_Af
 
 Its [adjacency lists](proof.md#the-second-graph) and
 [certificates](sources/witness34-16.json) give a width-eight elimination order
-and exclude width seven, establishing treewidth exactly eight.
+and exclude width seven, establishing treewidth exactly eight. This graph
+was found by the classification in
+[Section 8](proof.md#8-classification-at-34-edges-exactly-two-connected-graphs).
 
 ### 17 vertices
 
@@ -66,10 +71,10 @@ All seventeen vertices have degree four.
        alt="A 17-vertex, 4-regular graph with 34 edges and treewidth 8">
 </p>
 
-*The twelve ring vertices form a Möbius ladder: a 12-cycle plus its six
-diameters, drawn as loops outside the ring. Each of the four inner vertices is
-joined to every fourth ring vertex, and the centre vertex is joined to all four
-inner vertices.*
+*The twelve white ring vertices form a Möbius ladder: a 12-cycle plus its six
+diameters, drawn as loops outside the ring. Each of the four blue inner
+vertices is joined to every fourth ring vertex, and the dark-blue centre
+vertex is joined to all four inner vertices.*
 
 Its graph6 code is
 
@@ -79,8 +84,7 @@ Ps`aa?aGOgAGBCA`@L?@K?ES
 
 Its [adjacency lists](proof.md#6-a-34-edge-graph-of-treewidth-eight) and
 [certificates](sources/witness34.json) likewise establish treewidth exactly
-eight. It comes from House of Graphs' quartic archive and is not claimed as a
-new construction.
+eight. It is from House of Graphs' quartic archive.
 
 ## Proof outline
 
@@ -101,14 +105,14 @@ edges and treewidth at least seven is $K_8$ or one 12-vertex graph $F$.**
    classification rules out.
 4. **34 edges suffice:** each graph pictured above has a certificate proving
    treewidth exactly eight.
-5. **Only these two connected graphs attain the minimum.** Elimination
-   reduces any extremal graph to a core of minimum degree four. The 28-edge
-   bound rules out degrees above six. The degree-six case reduces to 924
-   attachments to $F$, all of treewidth at most seven. Deleting a degree-five vertex leaves
-   a 29-edge graph, allowing a smaller exhaustive search and reconstruction.
-   The remaining case is a 17-vertex, 4-regular graph. These searches leave
-   exactly the two graphs above. Both are triangle-free, so neither admits
-   the reverse of a degree-three elimination. See
+5. **Only these two connected graphs attain the minimum.** Eliminating
+   vertices of degree at most three leaves a graph with degrees 4–6.
+   Deleting a degree-six vertex would leave $K_8$ or $F$. The degree bound
+   excludes $K_8$, and all 924 ways of adjoining a degree-six vertex to $F$
+   give treewidth at most seven. Deleting a degree-five vertex leaves 29
+   edges; exhaustive enumeration and reconstruction cover this case.
+   Otherwise, the graph is 4-regular on 17 vertices. Only the two graphs above
+   survive, and neither has a triangle to replace by a star. See
    [Section 8](proof.md#8-classification-at-34-edges-exactly-two-connected-graphs).
 
 ### How the results are certified
@@ -196,19 +200,19 @@ set `PKG_CONFIG_PATH` if necessary. Nauty is installed separately, not bundled.
 ## Reproduce the classification at 34 edges
 
 The classification uses a smaller search than directly enumerating all
-34-edge degree sequences: it classifies **518,071,774** cores with 29 edges,
-reconstructs **15,091** possible graphs with a degree-five vertex, and checks
-all **86,221,634** connected quartic graphs on 17 vertices. Exactly two
-nonisomorphic graphs survive.
+34-edge degree sequences: it classifies **518,071,774** connected 29-edge
+graphs with degrees 4–8, checks **15,091** reconstructed 34-edge candidates,
+and checks all **86,221,634** connected quartic graphs on 17 vertices.
+Exactly two nonisomorphic graphs survive.
 
 Run `scripts/reproduce.py` first for the minimum-edge results and 28-edge
 classification used in the reduction. The following command verifies the
 additional computation in Section 8; it does not repeat that earlier search.
 
+Some development packages install `geng.c` but omit `genquarticg.c`.
 In addition to the requirements above, obtain the full
 [nauty 2.8.8 source distribution](https://users.cecs.anu.edu.au/~bdm/nauty/nauty2_8_8.tar.gz),
-including `genquarticg.c` and `quarticirred28.h`.
-Some development packages install `geng.c` but omit `genquarticg.c`. Then run:
+including `genquarticg.c` and `quarticirred28.h`. Then run:
 
 ```sh
 python3 scripts/reproduce_uniqueness.py \
@@ -243,8 +247,8 @@ python3 scripts/reproduce_uniqueness.py \
 
 Alternatively, select `--quartic-generator genreg --genreg-source /path/to/genreg`,
 or `--quartic-generator geng` to use the general nauty generator throughout.
-The latter needs no additional generator source but is substantially slower
-in our quartic pilot. All choices cover the same connected quartic family.
+The latter needs no additional generator source. All choices cover the same
+connected quartic family.
 
 ### Why genquarticg?
 
@@ -269,32 +273,37 @@ These are local measurements, not a general ranking of the software. The
 
 ## Files
 
-- [proof.md](proof.md): the complete proof.
+The complete argument is in [proof.md](proof.md).
+
+### Scripts
+
 - [scripts/reproduce.py](scripts/reproduce.py): reproduce the minimum-edge proof.
+- [scripts/reproduce_uniqueness.py](scripts/reproduce_uniqueness.py): full
+  classification, using [extend29.py](scripts/extend29.py) for reconstruction,
+  [quartic_plugin.c](scripts/quartic_plugin.c) for genquarticg, and
+  [check_quartic.c](scripts/check_quartic.c) for the GENREG stream.
 - [scripts/verify_certificates.py](scripts/verify_certificates.py): Python-only
   check of the saved certificates.
-- [scripts/treewidth.c](scripts/treewidth.c): C search and independent order
+- [scripts/verify_uniqueness.py](scripts/verify_uniqueness.py): Python-only
+  certificate check and reconstruction replay.
+- [scripts/treewidth.c](scripts/treewidth.c): C search and separate order
   verifier, used as a `geng` plugin or standalone graph6 checker.
-- [scripts/reference.py](scripts/reference.py): independent Python reference
+- [scripts/reference.py](scripts/reference.py): separate Python reference
   algorithms.
+
+### Graphs and saved results
+
 - [sources/results.json](sources/results.json): enumeration counts, source
   hashes, and certificates for $K_8$ and $F$ and all their reductions.
+- [sources/uniqueness.json](sources/uniqueness.json) and
+  [reconstruction certificates](sources/uniqueness-reconstruction.json.gz):
+  enumeration counts, survivors, hashes, and checked elimination orders.
 - [sources/witness34.json](sources/witness34.json),
   [graph6 file](sources/witness34.g6), and [drawing](sources/witness34.svg):
   the 17-vertex extremal graph and its certificates.
 - [sources/witness34-16.json](sources/witness34-16.json) and
   [graph6 file](sources/witness34-16.g6), plus the
   [drawing](sources/witness34-16.svg): the 16-vertex extremal graph and certificates.
-  Regenerate the SVG with `python3 scripts/draw_witness16.py`.
-- [scripts/reproduce_uniqueness.py](scripts/reproduce_uniqueness.py): full
-  classification, using [extend29.py](scripts/extend29.py) for reconstruction,
-  [quartic_plugin.c](scripts/quartic_plugin.c) for genquarticg, and
-  [check_quartic.c](scripts/check_quartic.c) for the GENREG stream.
-- [scripts/verify_uniqueness.py](scripts/verify_uniqueness.py): Python-only
-  certificate check and reconstruction replay.
-- [sources/uniqueness.json](sources/uniqueness.json) and
-  [reconstruction certificates](sources/uniqueness-reconstruction.json.gz):
-  enumeration counts, survivors, hashes, and checked elimination orders.
 
 ## References and attribution
 
@@ -306,8 +315,8 @@ These are local measurements, not a general ranking of the software. The
 - [House of Graphs' quartic archives](https://houseofgraphs.org/meta-directory/quartic),
   specifically [17 vertices, girth at least four](https://houseofgraphs.org/data/quartics/17_4_4.g6.gz),
   supply the 17-vertex extremal graph. The archive is not needed to verify it.
-- Devon's November 2025 comment on the original question supplies the earlier
-  35-edge circulant example.
+- Devon's November 2025 comment on the original question gives an earlier
+  35-edge example below the clique bound.
 - [Nauty and Traces](https://pallini.di.uniroma1.it/) supply the `geng` and
   `genquarticg` generators used for exhaustive enumeration.
 - Markus Meringer, *Fast Generation of Regular Graphs and Construction of

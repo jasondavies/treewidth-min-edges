@@ -361,14 +361,14 @@ created. There are two possible outcomes:
    $K_8$ or $F$, by Section 4, so it has minimum degree at least four and the
    process stops.
 
-All cores in the first case are covered by
+All graphs in the first case are covered by
 
 ```text
 geng -c -d4 -D8 n 29:29        (n = 9, ..., 14)
 ```
 
 Every generated graph except the following survivors has a width-six order
-checked by the independent C verifier:
+checked by the separate C order verifier:
 
 | Vertices | Graphs | Survivors |
 | ---: | ---: | ---: |
@@ -435,7 +435,7 @@ Brendan McKay and S. Narjess Afzaly, enumerates **86,221,634** connected graphs
 with `genquarticg -c 17`, agreeing with the
 [published count](https://www.mathe2.uni-bayreuth.de/markus/reggraphs.html).
 All are checked, including graphs with triangles. `scripts/quartic_plugin.c`
-uses the generator's `OUTPROC` hook to call the search and independent order
+uses the generator's `OUTPROC` hook to call the search and separate order
 verifier from Section 7 directly, and compares the checker count with the
 generator's own counter. Exactly one graph lacks a width-seven order: a
 graph isomorphic to the 17-vertex witness of Section 6. The explicit
@@ -446,7 +446,7 @@ The complete quartic check was independently repeated using the unmodified
 [GENREG generator](https://sourceforge.net/p/genreg/code/HEAD/tree/trunk/).
 It gives the same count and the same sole survivor up to isomorphism.
 `scripts/check_quartic.c` reads its shortcode stream, checks simplicity,
-degrees and connectivity, and calls the same search and independent order
+degrees and connectivity, and calls the same search and separate order
 verifier. Both generators' results and source hashes are recorded in
 `sources/uniqueness.json`. The default reproduction uses `genquarticg`;
 `--cross-check-genreg` also repeats the independent generation. The general
