@@ -31,9 +31,10 @@ certificates. The results have not yet been externally reviewed.
        alt="A 17-vertex, 4-regular graph with 34 edges and treewidth 8">
 </p>
 
-*The 12 outer vertices form a Möbius ladder: a 12-cycle plus its six
-diameters (dashed). Each of the four inner vertices is joined to every fourth
-outer vertex, and the centre vertex is joined to all four inner vertices.*
+*The 12 ring vertices form a Möbius ladder: a 12-cycle plus its six
+diameters, drawn as loops outside the ring. Each of the four inner vertices is
+joined to every fourth ring vertex, and the centre vertex is joined to all four
+inner vertices.*
 
 Its graph6 code is
 

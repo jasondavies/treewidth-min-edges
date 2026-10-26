@@ -1,61 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="A 17-vertex 4-regular graph with 34 edges and treewidth 8">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="29.5 42.4 528.1 528.1" width="528" height="528" role="img" aria-label="A 17-vertex 4-regular graph with 34 edges and treewidth 8">
 <title>A 34-edge graph of treewidth 8</title>
 <style>
-  .e { fill: none; stroke: #7d8590; stroke-width: 1.7; stroke-linecap: round; }
-  .e.d { stroke-width: 1.3; stroke-dasharray: 5 4; }
-  .v { fill: #ffffff; stroke: #57606a; stroke-width: 2; }
+  .e { fill: none; stroke: #7d8590; stroke-width: 1.5; stroke-linecap: round; }
+  .v { fill: #ffffff; stroke: #57606a; stroke-width: 1.8; }
   .v.in { fill: #54aeff; stroke: #0550ae; }
   .v.hub { fill: #0969da; stroke: #033d8b; }
 </style>
-<path class="e d" d="M300.0,50.0 Q140.0,300.0 300.0,550.0"/>
-<path class="e" d="M300.0,50.0 L425.0,83.5"/>
-<path class="e" d="M300.0,50.0 L175.0,83.5"/>
-<path class="e" d="M300.0,50.0 L300.0,120.0"/>
-<path class="e" d="M300.0,550.0 L175.0,516.5"/>
-<path class="e" d="M300.0,550.0 L425.0,516.5"/>
-<path class="e" d="M300.0,550.0 L300.0,480.0"/>
-<path class="e d" d="M425.0,83.5 Q161.4,220.0 175.0,516.5"/>
-<path class="e" d="M425.0,83.5 L120.0,300.0"/>
-<path class="e" d="M425.0,83.5 L516.5,175.0"/>
-<path class="e d" d="M425.0,516.5 Q438.6,220.0 175.0,83.5"/>
-<path class="e" d="M175.0,83.5 L480.0,300.0"/>
-<path class="e" d="M175.0,83.5 L83.5,175.0"/>
-<path class="e" d="M300.0,120.0 L83.5,425.0"/>
-<path class="e" d="M300.0,120.0 L516.5,425.0"/>
-<path class="e" d="M300.0,120.0 L300.0,300.0"/>
-<path class="e" d="M175.0,516.5 L480.0,300.0"/>
-<path class="e" d="M175.0,516.5 L83.5,425.0"/>
-<path class="e" d="M425.0,516.5 L120.0,300.0"/>
-<path class="e" d="M425.0,516.5 L516.5,425.0"/>
-<path class="e" d="M300.0,480.0 L516.5,175.0"/>
-<path class="e" d="M300.0,480.0 L83.5,175.0"/>
-<path class="e" d="M300.0,480.0 L300.0,300.0"/>
-<path class="e" d="M120.0,300.0 L300.0,300.0"/>
-<path class="e" d="M120.0,300.0 L50.0,300.0"/>
-<path class="e d" d="M516.5,175.0 Q220.0,161.4 83.5,425.0"/>
-<path class="e" d="M516.5,175.0 L550.0,300.0"/>
-<path class="e" d="M480.0,300.0 L300.0,300.0"/>
-<path class="e" d="M480.0,300.0 L550.0,300.0"/>
-<path class="e d" d="M516.5,425.0 Q380.0,161.4 83.5,175.0"/>
-<path class="e" d="M83.5,175.0 L50.0,300.0"/>
-<path class="e" d="M83.5,425.0 L50.0,300.0"/>
-<path class="e" d="M516.5,425.0 L550.0,300.0"/>
-<path class="e d" d="M550.0,300.0 Q300.0,140.0 50.0,300.0"/>
-<circle class="v" cx="300.0" cy="50.0" r="9"/>
-<circle class="v" cx="300.0" cy="550.0" r="9"/>
-<circle class="v" cx="425.0" cy="83.5" r="9"/>
-<circle class="v" cx="175.0" cy="83.5" r="9"/>
-<circle class="v in" cx="300.0" cy="120.0" r="9"/>
-<circle class="v" cx="175.0" cy="516.5" r="9"/>
-<circle class="v" cx="425.0" cy="516.5" r="9"/>
-<circle class="v in" cx="300.0" cy="480.0" r="9"/>
-<circle class="v in" cx="120.0" cy="300.0" r="9"/>
-<circle class="v" cx="516.5" cy="175.0" r="9"/>
-<circle class="v in" cx="480.0" cy="300.0" r="9"/>
-<circle class="v" cx="83.5" cy="175.0" r="9"/>
-<circle class="v" cx="83.5" cy="425.0" r="9"/>
-<circle class="v" cx="516.5" cy="425.0" r="9"/>
-<circle class="v hub" cx="300.0" cy="300.0" r="9"/>
-<circle class="v" cx="50.0" cy="300.0" r="9"/>
-<circle class="v" cx="550.0" cy="300.0" r="9"/>
+<path class="e" d="M300.0,110.0 C-42.0,110.0 -42.0,490.0 300.0,490.0"/>
+<path class="e" d="M300.0,110.0 L395.0,135.5"/>
+<path class="e" d="M300.0,110.0 L205.0,135.5"/>
+<path class="e" d="M300.0,110.0 L300.0,160.0"/>
+<path class="e" d="M300.0,490.0 L205.0,464.5"/>
+<path class="e" d="M300.0,490.0 L395.0,464.5"/>
+<path class="e" d="M300.0,490.0 L300.0,440.0"/>
+<path class="e" d="M395.0,135.5 C98.8,-35.5 -91.2,293.5 205.0,464.5"/>
+<path class="e" d="M395.0,135.5 L160.0,300.0"/>
+<path class="e" d="M395.0,135.5 L464.5,205.0"/>
+<path class="e" d="M205.0,135.5 C501.2,-35.5 691.2,293.5 395.0,464.5"/>
+<path class="e" d="M205.0,135.5 L440.0,300.0"/>
+<path class="e" d="M205.0,135.5 L135.5,205.0"/>
+<path class="e" d="M300.0,160.0 L135.5,395.0"/>
+<path class="e" d="M300.0,160.0 L464.5,395.0"/>
+<path class="e" d="M300.0,160.0 L300.0,300.0"/>
+<path class="e" d="M205.0,464.5 L440.0,300.0"/>
+<path class="e" d="M205.0,464.5 L135.5,395.0"/>
+<path class="e" d="M395.0,464.5 L160.0,300.0"/>
+<path class="e" d="M395.0,464.5 L464.5,395.0"/>
+<path class="e" d="M300.0,440.0 L464.5,205.0"/>
+<path class="e" d="M300.0,440.0 L135.5,205.0"/>
+<path class="e" d="M300.0,440.0 L300.0,300.0"/>
+<path class="e" d="M160.0,300.0 L300.0,300.0"/>
+<path class="e" d="M160.0,300.0 L110.0,300.0"/>
+<path class="e" d="M464.5,205.0 C635.5,501.2 306.5,691.2 135.5,395.0"/>
+<path class="e" d="M464.5,205.0 L490.0,300.0"/>
+<path class="e" d="M440.0,300.0 L300.0,300.0"/>
+<path class="e" d="M440.0,300.0 L490.0,300.0"/>
+<path class="e" d="M135.5,205.0 C306.5,-91.2 635.5,98.8 464.5,395.0"/>
+<path class="e" d="M135.5,205.0 L110.0,300.0"/>
+<path class="e" d="M135.5,395.0 L110.0,300.0"/>
+<path class="e" d="M464.5,395.0 L490.0,300.0"/>
+<path class="e" d="M110.0,300.0 C110.0,642.0 490.0,642.0 490.0,300.0"/>
+<circle class="v" cx="300.0" cy="110.0" r="7.5"/>
+<circle class="v" cx="300.0" cy="490.0" r="7.5"/>
+<circle class="v" cx="395.0" cy="135.5" r="7.5"/>
+<circle class="v" cx="205.0" cy="135.5" r="7.5"/>
+<circle class="v in" cx="300.0" cy="160.0" r="7.5"/>
+<circle class="v" cx="205.0" cy="464.5" r="7.5"/>
+<circle class="v" cx="395.0" cy="464.5" r="7.5"/>
+<circle class="v in" cx="300.0" cy="440.0" r="7.5"/>
+<circle class="v in" cx="160.0" cy="300.0" r="7.5"/>
+<circle class="v" cx="464.5" cy="205.0" r="7.5"/>
+<circle class="v in" cx="440.0" cy="300.0" r="7.5"/>
+<circle class="v" cx="135.5" cy="205.0" r="7.5"/>
+<circle class="v" cx="135.5" cy="395.0" r="7.5"/>
+<circle class="v" cx="464.5" cy="395.0" r="7.5"/>
+<circle class="v hub" cx="300.0" cy="300.0" r="7.5"/>
+<circle class="v" cx="110.0" cy="300.0" r="7.5"/>
+<circle class="v" cx="490.0" cy="300.0" r="7.5"/>
 </svg>
