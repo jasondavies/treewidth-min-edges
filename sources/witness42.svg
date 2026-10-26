@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 540" width="540" height="540" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -11.6 540 540" width="540" height="540" role="img" aria-labelledby="title description">
 <title id="title">A 21-vertex, 42-edge graph of treewidth nine</title>
 <desc id="description">Seven white vertices form an outer cycle. Each is joined to a pair of blue inner vertices. The fourteen inner vertices each have three further neighbors on the inner ring. The drawing has sevenfold rotational symmetry. All vertices have degree four. Edge crossings are not vertices.</desc>
 <style>
