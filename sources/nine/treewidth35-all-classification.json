@@ -1,0 +1,55 @@
+{
+  "status": "complete",
+  "cores": 95,
+  "family": 130,
+  "family_by_order": {
+    "16": 57,
+    "15": 26,
+    "17": 28,
+    "18": 9,
+    "14": 7,
+    "13": 3
+  },
+  "stages": [
+    {
+      "label": "35 all cores",
+      "tested": 2701005,
+      "retained": 95,
+      "width": 7
+    },
+    {
+      "label": "35 all min3 initial",
+      "tested": 95,
+      "retained": 95,
+      "width": 7
+    },
+    {
+      "label": "35 all min3 step 0",
+      "tested": 169,
+      "retained": 32,
+      "width": 7
+    },
+    {
+      "label": "35 all min3 step 1",
+      "tested": 29,
+      "retained": 3,
+      "width": 7
+    },
+    {
+      "label": "35 all min3 step 2",
+      "tested": 2,
+      "retained": 0,
+      "width": 7
+    }
+  ],
+  "inputs": {
+    "/home/ttuser/open-problems/sources/treewidth34-family29.g6": "5af8bc17af1607e50cd1e3a338ba80789d3fa1c97284644c180a49d540c8dbe4",
+    "/home/ttuser/open-problems/sources/treewidth35-family30.g6": "670411fea1d0811c0a19423856703175f073bc2304da7db457876784e4cd3121",
+    "/home/ttuser/open-problems/sources/treewidth34-family34.g6": "4f0f5209e9a3cf10c88b151649742ca5485b24b56204b47a62f9e0d99a41503f"
+  },
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/classify_treewidth35_all.py": "794752a15d05e22a9538460def512299c3c131ffb2300ff4152dc93941869193",
+    "/home/ttuser/open-problems/scripts/treewidth_classification_support.py": "8e159fe61a5519f830058bd5e6a2322c0fc3df9817128fc7fb2f2d9508e16ce4",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

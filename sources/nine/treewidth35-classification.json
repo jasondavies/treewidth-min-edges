@@ -1,0 +1,107 @@
+{
+  "status": "complete",
+  "core_dependency": "/tmp/treewidth40/core30",
+  "stages": [
+    {
+      "label": "29 order sixteen",
+      "tested": 2,
+      "retained": 0,
+      "width": 6
+    },
+    {
+      "label": "30 min3 initial",
+      "tested": 16353,
+      "retained": 16353,
+      "width": 6
+    },
+    {
+      "label": "30 min3 step 0",
+      "tested": 89201,
+      "retained": 29936,
+      "width": 6
+    },
+    {
+      "label": "30 min3 step 1",
+      "tested": 111796,
+      "retained": 21149,
+      "width": 6
+    },
+    {
+      "label": "30 min3 step 2",
+      "tested": 50698,
+      "retained": 5532,
+      "width": 6
+    },
+    {
+      "label": "30 min3 step 3",
+      "tested": 6040,
+      "retained": 511,
+      "width": 6
+    },
+    {
+      "label": "30 min3 step 4",
+      "tested": 125,
+      "retained": 5,
+      "width": 6
+    },
+    {
+      "label": "30 min3 step 5",
+      "tested": 0,
+      "retained": 0,
+      "width": 6
+    },
+    {
+      "label": "35 cores",
+      "tested": 2701005,
+      "retained": 95,
+      "width": 7
+    },
+    {
+      "label": "35 min3 initial",
+      "tested": 95,
+      "retained": 95,
+      "width": 7
+    },
+    {
+      "label": "35 min3 step 0",
+      "tested": 169,
+      "retained": 32,
+      "width": 7
+    },
+    {
+      "label": "35 min3 step 1",
+      "tested": 29,
+      "retained": 3,
+      "width": 7
+    },
+    {
+      "label": "35 min3 step 2",
+      "tested": 2,
+      "retained": 0,
+      "width": 7
+    }
+  ],
+  "family30_by_order": {
+    "13": 4885,
+    "14": 22446,
+    "15": 12959,
+    "16": 1235
+  },
+  "cores35_by_order": {
+    "16": 41,
+    "15": 26,
+    "17": 18,
+    "14": 7,
+    "13": 3
+  },
+  "family35_by_order": {
+    "15": 7,
+    "16": 49,
+    "17": 28,
+    "18": 9
+  },
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/classify_treewidth35.py": "73a66b4e2eb51172cc2f22eb0b287b1b8ff545e120d68bc952af4a6198bdabaf",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

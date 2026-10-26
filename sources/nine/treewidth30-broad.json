@@ -1,0 +1,67 @@
+{
+  "status": "complete",
+  "family": 73517,
+  "by_order": {
+    "13": 22810,
+    "15": 13029,
+    "12": 3747,
+    "14": 32464,
+    "16": 1263,
+    "10": 39,
+    "11": 159,
+    "9": 6
+  },
+  "stages": [
+    {
+      "label": "30 broad initial",
+      "tested": 16353,
+      "retained": 16353,
+      "width": 6
+    },
+    {
+      "label": "30 broad step 0",
+      "tested": 89298,
+      "retained": 29936,
+      "width": 6
+    },
+    {
+      "label": "30 broad step 1",
+      "tested": 112286,
+      "retained": 21163,
+      "width": 6
+    },
+    {
+      "label": "30 broad step 2",
+      "tested": 53209,
+      "retained": 5549,
+      "width": 6
+    },
+    {
+      "label": "30 broad step 3",
+      "tested": 8081,
+      "retained": 511,
+      "width": 6
+    },
+    {
+      "label": "30 broad step 4",
+      "tested": 189,
+      "retained": 5,
+      "width": 6
+    },
+    {
+      "label": "30 broad step 5",
+      "tested": 0,
+      "retained": 0,
+      "width": 6
+    }
+  ],
+  "inputs": {
+    "/home/ttuser/open-problems/sources/treewidth30-cores.g6": "f534350d0e171cca893b4a7c91ddc3ba5ebb47df741a87d6df41df8e04e8b2a2",
+    "/home/ttuser/open-problems/sources/treewidth34-family29.g6": "5af8bc17af1607e50cd1e3a338ba80789d3fa1c97284644c180a49d540c8dbe4"
+  },
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/classify_treewidth30_broad.py": "75e155d5583d5db07cd28413543fb570bd283a15b0e124f13c7b51b64db61d9a",
+    "/home/ttuser/open-problems/scripts/treewidth_classification_support.py": "8e159fe61a5519f830058bd5e6a2322c0fc3df9817128fc7fb2f2d9508e16ce4",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

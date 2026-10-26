@@ -1,0 +1,28 @@
+{
+  "vertices": 20,
+  "degree": 4,
+  "girth": 3,
+  "parts": 64,
+  "runner_sha256": "0cfc3a535050b29ce96da6dd7ae6d8fd13eaf1a862fe7137291a005eb8c4ce0e",
+  "build": {
+    "width": 8,
+    "cap": 1,
+    "cover": true,
+    "stop": true,
+    "upstream": "https://svn.code.sf.net/p/genreg/code/trunk/ (r5)",
+    "upstream_sha256": {
+      "gendef.h": "8cf36cf5d0d0a550c1c2c749945036705b850a4213e56b52a04fb3e2ce6fc893",
+      "genreg.c": "5831e836d010ceef51ef8e3ae69c2476dfde838b89e66b2a509ec692739a06fd",
+      "main.c": "45ab087ef5be42055353d0f0e552313f46f143f5b87e7b208c44025ec53d5516",
+      "optmid.c": "5671e82f319d9c398e94460297c20570ab3f302b81631766b1e7b25c5048efbb"
+    },
+    "source_sha256": {
+      "/home/ttuser/open-problems/scripts/build_genreg_treewidth.py": "feabb91fbfd28f8c5a95c1b721ad2e779cbeda3b8344a39295e81a6300366a10",
+      "/home/ttuser/open-problems/scripts/genreg_treewidth_adapter.c": "7ca0cbe155215980e0e2306665bd086ff44044a84243ecea90be031fb5c11bd8",
+      "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba",
+      "/home/ttuser/open-problems/scripts/build_genreg_no_four_cycles.py": "95aab4ab9281043ec0730ee0e9c0448e9af9abdd55b085ee09c70917029b7b9c",
+      "/home/ttuser/open-problems/scripts/genreg_treewidth_no_four_cycles.c": "f3ea5b5d1f35627b58b78fb92ebcfbef621d71d999ca08aa90939a7ba7199d35"
+    },
+    "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0"
+  }
+}

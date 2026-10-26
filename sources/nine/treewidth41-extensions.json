@@ -1,0 +1,138 @@
+{
+  "status": "no_counterexample",
+  "residues": 53898,
+  "candidates": 0,
+  "stages": [
+    {
+      "label": "extensions",
+      "inputs": 53898,
+      "graphs": 22489604,
+      "verified": 22489604,
+      "raw_retained": 0,
+      "nonisomorphic_retained": 0,
+      "parts": [
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1390311,
+          "verified": 1390311,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1406370,
+          "verified": 1406370,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1406309,
+          "verified": 1406309,
+          "retained": 0
+        },
+        {
+          "inputs": 3368,
+          "eligible_inputs": 3368,
+          "graphs": 1410479,
+          "verified": 1410479,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1406709,
+          "verified": 1406709,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1393862,
+          "verified": 1393862,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1406404,
+          "verified": 1406404,
+          "retained": 0
+        },
+        {
+          "inputs": 3368,
+          "eligible_inputs": 3368,
+          "graphs": 1412526,
+          "verified": 1412526,
+          "retained": 0
+        },
+        {
+          "inputs": 3368,
+          "eligible_inputs": 3368,
+          "graphs": 1415595,
+          "verified": 1415595,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1406107,
+          "verified": 1406107,
+          "retained": 0
+        },
+        {
+          "inputs": 3368,
+          "eligible_inputs": 3368,
+          "graphs": 1405604,
+          "verified": 1405604,
+          "retained": 0
+        },
+        {
+          "inputs": 3368,
+          "eligible_inputs": 3368,
+          "graphs": 1411875,
+          "verified": 1411875,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1396993,
+          "verified": 1396993,
+          "retained": 0
+        },
+        {
+          "inputs": 3368,
+          "eligible_inputs": 3368,
+          "graphs": 1406287,
+          "verified": 1406287,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3369,
+          "graphs": 1398396,
+          "verified": 1398396,
+          "retained": 0
+        },
+        {
+          "inputs": 3369,
+          "eligible_inputs": 3368,
+          "graphs": 1415777,
+          "verified": 1415777,
+          "retained": 0
+        }
+      ]
+    }
+  ],
+  "inputs": {
+    "/tmp/treewidth41/classify36/family.g6": "0f62f3d14d543515b12567c1d650d290a9a5369ab9931220e5d398a9d3999214",
+    "/tmp/treewidth41/classify36/summary.json": "106773e7d7c503eec8016be3570b4bdcf58d0e998d5d89f388df6402fcc3540c"
+  },
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/check_treewidth41_extensions.py": "8653a55b5d92f9fc3a9d508d1a74c3d2b375529b23484085e4bbb0f6d9e1f257",
+    "/home/ttuser/open-problems/scripts/treewidth_core_extensions.c": "40b187bca8fc7ec10d1231a7398e6f0bee0f330f08facfda351624172006e06c",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

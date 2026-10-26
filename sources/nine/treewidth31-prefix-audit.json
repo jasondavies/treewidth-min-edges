@@ -1,0 +1,23 @@
+[
+  {
+    "n": 9,
+    "retained": 5,
+    "unpruned_match": true
+  },
+  {
+    "n": 10,
+    "retained": 215,
+    "unpruned_match": true
+  },
+  {
+    "n": 11,
+    "retained": 3920,
+    "unpruned_match": true,
+    "sixteen_partitions_match": true
+  },
+  {
+    "n": 12,
+    "retained": 88963,
+    "unpruned_match": true
+  }
+]

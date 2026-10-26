@@ -1,0 +1,11 @@
+{
+  "status": "complete",
+  "residues": 53898,
+  "extensions": 22489604,
+  "input_sha256": "0f62f3d14d543515b12567c1d650d290a9a5369ab9931220e5d398a9d3999214",
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/audit_treewidth41_extensions.py": "cce491cc39c8cfa578ae86ca5a01caa7098886ff0d4f19f0290d47e859a3865a",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba",
+    "/home/ttuser/open-problems/scripts/run_treewidth_edge_checks.py": "78f0c19bcdcc7fbbafa11c1a43bf50cb0edcb3aea5916c05cde7a0773c74757e"
+  }
+}

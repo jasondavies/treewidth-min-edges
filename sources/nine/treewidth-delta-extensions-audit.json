@@ -1,0 +1,29 @@
+{
+  "complete35_closure_matches": true,
+  "cases": [
+    {
+      "keep": 0,
+      "candidates": 99,
+      "retained": 16
+    },
+    {
+      "keep": 1,
+      "candidates": 297,
+      "retained": 114
+    },
+    {
+      "keep": 2,
+      "candidates": 297,
+      "retained": 114
+    },
+    {
+      "keep": 3,
+      "candidates": 99,
+      "retained": 40
+    }
+  ],
+  "source_sha256": {
+    "scripts/treewidth_delta_extensions.c": "6ce5a7ce1bc27f350e1978fadbbac47d5d7f2531f6751f538d2b4ba81d34e0be",
+    "scripts/treewidth_parallel_classification.py": "cbae113503efdd3e7268eb28a64e3bcf8813cf5624c5346c49e23671341091b1"
+  }
+}

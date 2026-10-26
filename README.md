@@ -23,9 +23,13 @@ isomorphism, on 16 and 17 vertices. See
 | 6 | 21 | 21 |
 | 7 | 28 | 28 |
 | 8 | 36 | **34** |
+| 9 | 45 | **42** |
 
 For every $k \le 7$, the clique is optimal for the number of edges. At $k=7$,
 the 12-vertex graph $F$ also attains the minimum of 28 edges.
+
+The extension to treewidth nine gives **42 edges**, with a separate
+[proof and full reproduction pipeline](proof-nine.md).
 
 This repository contains the [proof](proof.md), the code for its
 computer-assisted steps, and the saved certificates. The results have not yet
@@ -85,6 +89,48 @@ Ps`aa?aGOgAGBCA`@L?@K?ES
 Its [adjacency lists](proof.md#6-a-34-edge-graph-of-treewidth-eight) and
 [certificates](sources/witness34-17.json) likewise establish treewidth exactly
 eight. It is from House of Graphs' quartic archive.
+
+## Treewidth nine: 42 edges are necessary and sufficient
+
+<p align="center">
+  <img src="sources/witness42.svg" width="360"
+       alt="A sevenfold symmetric, 21-vertex, 4-regular graph with 42 edges and treewidth nine">
+</p>
+
+*The seven white vertices form a cycle. Each is joined to two blue inner
+vertices, which each have three further neighbors among the blue vertices.
+The seven diameters curve to avoid a misleading central crossing.*
+
+The [certificate](sources/witness42.json) proves that this graph has treewidth
+exactly nine. The [lower-bound proof](proof-nine.md) rules out every graph
+with at most 41 edges. Its final step checks all **22,489,604** extensions
+of a complete family of **53,898** residues. This does not claim that the
+42-edge witness is unique.
+
+Check the witness or regenerate its drawing using only Python:
+
+```sh
+python3 scripts/nine/check_treewidth_nine_witness.py
+python3 scripts/draw_witness42.py
+```
+
+To rerun the final certificate checks with 16 workers:
+
+```sh
+python3 scripts/reproduce_nine.py --output /tmp/treewidth-nine-check --workers 16
+```
+
+To regenerate every classification as well, including the prerequisites:
+
+```sh
+python3 scripts/reproduce_nine.py --full \
+  --genreg-source /path/to/genreg \
+  --output /tmp/treewidth-nine-full --workers 16
+```
+
+The full run needs nauty, a C compiler, and the external GENREG sources.
+It is a substantial computation. See [requirements, checkpoints, and the
+distinction between these two modes](proof-nine.md#reproduction).
 
 ## Proof outline
 
@@ -273,10 +319,16 @@ These are local measurements, not a general ranking of the software. The
 
 ## Files
 
-The complete argument is in [proof.md](proof.md).
+The arguments are in [proof.md](proof.md) for treewidth eight and
+[proof-nine.md](proof-nine.md) for treewidth nine.
 
 ### Scripts
 
+- [scripts/reproduce_nine.py](scripts/reproduce_nine.py): isolated, checkpointed
+  reproduction of the treewidth-nine result; its classifiers and verifiers
+  are in [scripts/nine](scripts/nine).
+- [scripts/draw_witness42.py](scripts/draw_witness42.py): generate the
+  sevenfold symmetric drawing of the 42-edge witness.
 - [scripts/reproduce.py](scripts/reproduce.py): reproduce the minimum-edge proof.
 - [scripts/reproduce_uniqueness.py](scripts/reproduce_uniqueness.py): full
   classification, using [extend29.py](scripts/extend29.py) for reconstruction,
@@ -296,6 +348,11 @@ The complete argument is in [proof.md](proof.md).
 
 ### Graphs and saved results
 
+- [sources/witness42.json](sources/witness42.json),
+  [graph6 file](sources/witness42.g6), and [drawing](sources/witness42.svg):
+  the 21-vertex witness of treewidth nine.
+- [sources/nine](sources/nine/README.md): residue families, counts, and audit
+  reports for the exclusion through 41 edges.
 - [sources/results.json](sources/results.json): enumeration counts, source
   hashes, and certificates for $K_8$ and $F$ and all their reductions.
 - [sources/uniqueness.json](sources/uniqueness.json) and

@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-26",
+  "lower_bound_for_treewidth_nine": 39,
+  "dependencies_sha256": {
+    "sources/results.json": "b8f129771f738b881b87bc0b21e6209627d0907b4caae230a888e3366286de4f",
+    "sources/uniqueness.json": "b0db00544fbec40d7d0bb2d08614dcedfc161a26a1209e48aa3adaad161cd5a2"
+  },
+  "source_sha256": {
+    "/tmp/treewidth-nine-package/scripts/nine/check_treewidth_nine_girth5.py": "2bf26090dbcbc3a7d80e443931244538fbf01d9a57e8b36b4e88c26c5d6822e0",
+    "/tmp/treewidth-nine-package/scripts/nine/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba",
+    "/usr/share/nauty/geng.c": "c52ea36a688968d571a3e3572cb55542b6b9f1cf0144de49238aebaf86d596b8"
+  },
+  "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+  "nauty_version": "2.8.8",
+  "generator_arguments": [
+    "-c",
+    "-t",
+    "-f",
+    "-d4",
+    "-D4",
+    "19",
+    "38:38"
+  ],
+  "generator_log": ">A /tmp/tw9-girth5-8pwe0bn4/geng -ctfd4D4 n=19 e=38\n>Z 1 graphs generated in 0.34 sec\n",
+  "generated_count": 1,
+  "graph6": "R???C@_E?KI_I`bGCi?f?ocAoGAQO?",
+  "width_eight_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "verified_order_width": 8
+}

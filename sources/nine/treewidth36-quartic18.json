@@ -1,0 +1,9227 @@
+{
+  "status": "complete",
+  "parts": 1024,
+  "completed_parts": 1024,
+  "leaves": 2039930,
+  "verified": 2039517,
+  "negative": 413,
+  "covers": 195854903,
+  "results": [
+    {
+      "part": 0,
+      "leaves": 100,
+      "verified": 100,
+      "negative": 0,
+      "covers": 141114,
+      "attempts": 262439,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1,
+      "leaves": 5390,
+      "verified": 5390,
+      "negative": 0,
+      "covers": 678635,
+      "attempts": 913240,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 2,
+      "leaves": 110,
+      "verified": 110,
+      "negative": 0,
+      "covers": 152748,
+      "attempts": 270063,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 3,
+      "leaves": 131,
+      "verified": 131,
+      "negative": 0,
+      "covers": 108096,
+      "attempts": 229639,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 4,
+      "leaves": 1136,
+      "verified": 1136,
+      "negative": 0,
+      "covers": 217317,
+      "attempts": 363159,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 5,
+      "leaves": 287,
+      "verified": 287,
+      "negative": 0,
+      "covers": 72485,
+      "attempts": 183009,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 6,
+      "leaves": 2050,
+      "verified": 2050,
+      "negative": 0,
+      "covers": 159234,
+      "attempts": 295373,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 7,
+      "leaves": 1067,
+      "verified": 1067,
+      "negative": 0,
+      "covers": 162754,
+      "attempts": 301502,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 8,
+      "leaves": 1219,
+      "verified": 1218,
+      "negative": 1,
+      "covers": 189588,
+      "attempts": 336361,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 9,
+      "leaves": 10,
+      "verified": 10,
+      "negative": 0,
+      "covers": 29421,
+      "attempts": 141269,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 10,
+      "leaves": 459,
+      "verified": 459,
+      "negative": 0,
+      "covers": 56253,
+      "attempts": 170083,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 11,
+      "leaves": 94,
+      "verified": 94,
+      "negative": 0,
+      "covers": 43165,
+      "attempts": 153427,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 12,
+      "leaves": 3121,
+      "verified": 3121,
+      "negative": 0,
+      "covers": 257528,
+      "attempts": 428650,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 13,
+      "leaves": 294,
+      "verified": 294,
+      "negative": 0,
+      "covers": 41073,
+      "attempts": 155004,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 14,
+      "leaves": 35,
+      "verified": 35,
+      "negative": 0,
+      "covers": 51004,
+      "attempts": 160079,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 15,
+      "leaves": 3233,
+      "verified": 3233,
+      "negative": 0,
+      "covers": 180852,
+      "attempts": 329057,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 16,
+      "leaves": 1722,
+      "verified": 1722,
+      "negative": 0,
+      "covers": 95560,
+      "attempts": 220867,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 17,
+      "leaves": 15578,
+      "verified": 15578,
+      "negative": 0,
+      "covers": 733125,
+      "attempts": 1060200,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 18,
+      "leaves": 9611,
+      "verified": 9611,
+      "negative": 0,
+      "covers": 496119,
+      "attempts": 743884,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 19,
+      "leaves": 44003,
+      "verified": 44003,
+      "negative": 0,
+      "covers": 1583163,
+      "attempts": 2273965,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 20,
+      "leaves": 15,
+      "verified": 15,
+      "negative": 0,
+      "covers": 45709,
+      "attempts": 152861,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 21,
+      "leaves": 750,
+      "verified": 750,
+      "negative": 0,
+      "covers": 156439,
+      "attempts": 290299,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 22,
+      "leaves": 28,
+      "verified": 28,
+      "negative": 0,
+      "covers": 113875,
+      "attempts": 233880,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 23,
+      "leaves": 3905,
+      "verified": 3905,
+      "negative": 0,
+      "covers": 324183,
+      "attempts": 505993,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 24,
+      "leaves": 3280,
+      "verified": 3280,
+      "negative": 0,
+      "covers": 302664,
+      "attempts": 475499,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 25,
+      "leaves": 15998,
+      "verified": 15998,
+      "negative": 0,
+      "covers": 913038,
+      "attempts": 1309791,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 26,
+      "leaves": 6245,
+      "verified": 6245,
+      "negative": 0,
+      "covers": 602057,
+      "attempts": 862435,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 27,
+      "leaves": 17016,
+      "verified": 17016,
+      "negative": 0,
+      "covers": 732125,
+      "attempts": 1070213,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 28,
+      "leaves": 123,
+      "verified": 123,
+      "negative": 0,
+      "covers": 58535,
+      "attempts": 170167,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 29,
+      "leaves": 79,
+      "verified": 79,
+      "negative": 0,
+      "covers": 116187,
+      "attempts": 230997,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 30,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 115649,
+      "attempts": 228679,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 31,
+      "leaves": 2647,
+      "verified": 2647,
+      "negative": 0,
+      "covers": 134710,
+      "attempts": 273508,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 32,
+      "leaves": 124,
+      "verified": 124,
+      "negative": 0,
+      "covers": 113011,
+      "attempts": 229700,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 33,
+      "leaves": 2947,
+      "verified": 2947,
+      "negative": 0,
+      "covers": 273671,
+      "attempts": 446752,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 34,
+      "leaves": 2312,
+      "verified": 2312,
+      "negative": 0,
+      "covers": 188526,
+      "attempts": 331304,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 35,
+      "leaves": 8277,
+      "verified": 8277,
+      "negative": 0,
+      "covers": 484181,
+      "attempts": 715258,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 36,
+      "leaves": 23088,
+      "verified": 23088,
+      "negative": 0,
+      "covers": 1136811,
+      "attempts": 1575634,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 37,
+      "leaves": 20,
+      "verified": 20,
+      "negative": 0,
+      "covers": 46965,
+      "attempts": 151314,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 38,
+      "leaves": 8350,
+      "verified": 8350,
+      "negative": 0,
+      "covers": 462900,
+      "attempts": 684127,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 39,
+      "leaves": 15846,
+      "verified": 15846,
+      "negative": 0,
+      "covers": 580456,
+      "attempts": 900225,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 40,
+      "leaves": 730,
+      "verified": 730,
+      "negative": 0,
+      "covers": 155411,
+      "attempts": 280826,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 41,
+      "leaves": 2529,
+      "verified": 2529,
+      "negative": 0,
+      "covers": 481925,
+      "attempts": 671119,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 42,
+      "leaves": 178,
+      "verified": 178,
+      "negative": 0,
+      "covers": 89014,
+      "attempts": 200883,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 43,
+      "leaves": 7783,
+      "verified": 7783,
+      "negative": 0,
+      "covers": 509774,
+      "attempts": 742873,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 44,
+      "leaves": 6005,
+      "verified": 6004,
+      "negative": 1,
+      "covers": 345297,
+      "attempts": 552371,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 45,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 104621,
+      "attempts": 213829,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 46,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 120118,
+      "attempts": 232311,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 47,
+      "leaves": 388,
+      "verified": 388,
+      "negative": 0,
+      "covers": 59588,
+      "attempts": 169929,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 48,
+      "leaves": 50,
+      "verified": 50,
+      "negative": 0,
+      "covers": 76169,
+      "attempts": 183929,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 49,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 19738,
+      "attempts": 120165,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 50,
+      "leaves": 95,
+      "verified": 95,
+      "negative": 0,
+      "covers": 79465,
+      "attempts": 187751,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 51,
+      "leaves": 272,
+      "verified": 272,
+      "negative": 0,
+      "covers": 234384,
+      "attempts": 360731,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 52,
+      "leaves": 37,
+      "verified": 37,
+      "negative": 0,
+      "covers": 47757,
+      "attempts": 152885,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 53,
+      "leaves": 1390,
+      "verified": 1390,
+      "negative": 0,
+      "covers": 414846,
+      "attempts": 572529,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 54,
+      "leaves": 601,
+      "verified": 601,
+      "negative": 0,
+      "covers": 338560,
+      "attempts": 482320,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 55,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 15914,
+      "attempts": 116391,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 56,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 28159,
+      "attempts": 129296,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 57,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 46765,
+      "attempts": 150481,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 58,
+      "leaves": 6,
+      "verified": 6,
+      "negative": 0,
+      "covers": 93489,
+      "attempts": 202378,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 59,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 41382,
+      "attempts": 145978,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 60,
+      "leaves": 12,
+      "verified": 12,
+      "negative": 0,
+      "covers": 103766,
+      "attempts": 212776,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 61,
+      "leaves": 84,
+      "verified": 84,
+      "negative": 0,
+      "covers": 279059,
+      "attempts": 411071,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 62,
+      "leaves": 26,
+      "verified": 26,
+      "negative": 0,
+      "covers": 41898,
+      "attempts": 145542,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 63,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2976,
+      "attempts": 101644,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 64,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 9804,
+      "attempts": 109259,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 65,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 31407,
+      "attempts": 133194,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 66,
+      "leaves": 357,
+      "verified": 357,
+      "negative": 0,
+      "covers": 112602,
+      "attempts": 227757,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 67,
+      "leaves": 440,
+      "verified": 440,
+      "negative": 0,
+      "covers": 180049,
+      "attempts": 305780,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 68,
+      "leaves": 298,
+      "verified": 298,
+      "negative": 0,
+      "covers": 53047,
+      "attempts": 162593,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 69,
+      "leaves": 852,
+      "verified": 852,
+      "negative": 0,
+      "covers": 81379,
+      "attempts": 202636,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 70,
+      "leaves": 3929,
+      "verified": 3929,
+      "negative": 0,
+      "covers": 173811,
+      "attempts": 345713,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 71,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 58044,
+      "attempts": 161344,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 72,
+      "leaves": 41,
+      "verified": 41,
+      "negative": 0,
+      "covers": 172911,
+      "attempts": 287894,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 73,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 23874,
+      "attempts": 125175,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 74,
+      "leaves": 102,
+      "verified": 102,
+      "negative": 0,
+      "covers": 53207,
+      "attempts": 158457,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 75,
+      "leaves": 280,
+      "verified": 280,
+      "negative": 0,
+      "covers": 79814,
+      "attempts": 189358,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 76,
+      "leaves": 980,
+      "verified": 980,
+      "negative": 0,
+      "covers": 130926,
+      "attempts": 254577,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 77,
+      "leaves": 3321,
+      "verified": 3321,
+      "negative": 0,
+      "covers": 447395,
+      "attempts": 649143,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 78,
+      "leaves": 6,
+      "verified": 6,
+      "negative": 0,
+      "covers": 28275,
+      "attempts": 131110,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 79,
+      "leaves": 2998,
+      "verified": 2998,
+      "negative": 0,
+      "covers": 196706,
+      "attempts": 351581,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 80,
+      "leaves": 5351,
+      "verified": 5351,
+      "negative": 0,
+      "covers": 351910,
+      "attempts": 557739,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 81,
+      "leaves": 47,
+      "verified": 47,
+      "negative": 0,
+      "covers": 140681,
+      "attempts": 258184,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 82,
+      "leaves": 5064,
+      "verified": 5064,
+      "negative": 0,
+      "covers": 573604,
+      "attempts": 802647,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 83,
+      "leaves": 8483,
+      "verified": 8483,
+      "negative": 0,
+      "covers": 358316,
+      "attempts": 590286,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 84,
+      "leaves": 2756,
+      "verified": 2756,
+      "negative": 0,
+      "covers": 663654,
+      "attempts": 867124,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 85,
+      "leaves": 3204,
+      "verified": 3204,
+      "negative": 0,
+      "covers": 986419,
+      "attempts": 1243748,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 86,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 17688,
+      "attempts": 117664,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 87,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 52516,
+      "attempts": 156511,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 88,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 78974,
+      "attempts": 183461,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 89,
+      "leaves": 36,
+      "verified": 36,
+      "negative": 0,
+      "covers": 171787,
+      "attempts": 287314,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 90,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 53836,
+      "attempts": 158048,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 91,
+      "leaves": 55,
+      "verified": 55,
+      "negative": 0,
+      "covers": 162693,
+      "attempts": 283205,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 92,
+      "leaves": 409,
+      "verified": 409,
+      "negative": 0,
+      "covers": 236710,
+      "attempts": 370245,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 93,
+      "leaves": 764,
+      "verified": 764,
+      "negative": 0,
+      "covers": 504698,
+      "attempts": 685801,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 94,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 68246,
+      "attempts": 174723,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 95,
+      "leaves": 549,
+      "verified": 549,
+      "negative": 0,
+      "covers": 377311,
+      "attempts": 532715,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 96,
+      "leaves": 973,
+      "verified": 973,
+      "negative": 0,
+      "covers": 718145,
+      "attempts": 932998,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 97,
+      "leaves": 364,
+      "verified": 364,
+      "negative": 0,
+      "covers": 333439,
+      "attempts": 479087,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 98,
+      "leaves": 6984,
+      "verified": 6984,
+      "negative": 0,
+      "covers": 1764197,
+      "attempts": 2156557,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 99,
+      "leaves": 4793,
+      "verified": 4793,
+      "negative": 0,
+      "covers": 1173411,
+      "attempts": 1481607,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 100,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 136051,
+      "attempts": 259714,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 101,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 84353,
+      "attempts": 193449,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 102,
+      "leaves": 5,
+      "verified": 5,
+      "negative": 0,
+      "covers": 124250,
+      "attempts": 240356,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 103,
+      "leaves": 100,
+      "verified": 100,
+      "negative": 0,
+      "covers": 46372,
+      "attempts": 150643,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 104,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 12760,
+      "attempts": 112567,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 105,
+      "leaves": 27,
+      "verified": 27,
+      "negative": 0,
+      "covers": 68438,
+      "attempts": 175113,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 106,
+      "leaves": 247,
+      "verified": 247,
+      "negative": 0,
+      "covers": 131733,
+      "attempts": 250504,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 107,
+      "leaves": 5,
+      "verified": 5,
+      "negative": 0,
+      "covers": 21056,
+      "attempts": 122257,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 108,
+      "leaves": 56,
+      "verified": 56,
+      "negative": 0,
+      "covers": 34188,
+      "attempts": 139246,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 109,
+      "leaves": 397,
+      "verified": 397,
+      "negative": 0,
+      "covers": 97152,
+      "attempts": 217774,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 110,
+      "leaves": 1077,
+      "verified": 1077,
+      "negative": 0,
+      "covers": 208194,
+      "attempts": 353787,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 111,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 6995,
+      "attempts": 106287,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 112,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 46965,
+      "attempts": 151665,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 113,
+      "leaves": 23,
+      "verified": 23,
+      "negative": 0,
+      "covers": 100426,
+      "attempts": 216317,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 114,
+      "leaves": 61,
+      "verified": 61,
+      "negative": 0,
+      "covers": 42175,
+      "attempts": 148464,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 115,
+      "leaves": 288,
+      "verified": 288,
+      "negative": 0,
+      "covers": 153452,
+      "attempts": 283510,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 116,
+      "leaves": 61,
+      "verified": 61,
+      "negative": 0,
+      "covers": 102232,
+      "attempts": 220671,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 117,
+      "leaves": 1287,
+      "verified": 1287,
+      "negative": 0,
+      "covers": 539217,
+      "attempts": 776059,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 118,
+      "leaves": 49,
+      "verified": 49,
+      "negative": 0,
+      "covers": 160377,
+      "attempts": 281804,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 119,
+      "leaves": 154,
+      "verified": 154,
+      "negative": 0,
+      "covers": 280218,
+      "attempts": 446286,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 120,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 8702,
+      "attempts": 107917,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 121,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 36964,
+      "attempts": 139597,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 122,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 16155,
+      "attempts": 116166,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 123,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 78927,
+      "attempts": 185933,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 124,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 118586,
+      "attempts": 228823,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 125,
+      "leaves": 145,
+      "verified": 145,
+      "negative": 0,
+      "covers": 82102,
+      "attempts": 195326,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 126,
+      "leaves": 124,
+      "verified": 124,
+      "negative": 0,
+      "covers": 78944,
+      "attempts": 190009,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 127,
+      "leaves": 1277,
+      "verified": 1277,
+      "negative": 0,
+      "covers": 245554,
+      "attempts": 399046,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 128,
+      "leaves": 82,
+      "verified": 82,
+      "negative": 0,
+      "covers": 24993,
+      "attempts": 127455,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 129,
+      "leaves": 607,
+      "verified": 607,
+      "negative": 0,
+      "covers": 58848,
+      "attempts": 169898,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 130,
+      "leaves": 201,
+      "verified": 201,
+      "negative": 0,
+      "covers": 70910,
+      "attempts": 179877,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 131,
+      "leaves": 92,
+      "verified": 92,
+      "negative": 0,
+      "covers": 54177,
+      "attempts": 160970,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 132,
+      "leaves": 188,
+      "verified": 188,
+      "negative": 0,
+      "covers": 175697,
+      "attempts": 297323,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 133,
+      "leaves": 425,
+      "verified": 425,
+      "negative": 0,
+      "covers": 285260,
+      "attempts": 425141,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 134,
+      "leaves": 928,
+      "verified": 928,
+      "negative": 0,
+      "covers": 84639,
+      "attempts": 203907,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 135,
+      "leaves": 6592,
+      "verified": 6592,
+      "negative": 0,
+      "covers": 500476,
+      "attempts": 764689,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 136,
+      "leaves": 481,
+      "verified": 481,
+      "negative": 0,
+      "covers": 46177,
+      "attempts": 156225,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 137,
+      "leaves": 6571,
+      "verified": 6571,
+      "negative": 0,
+      "covers": 374643,
+      "attempts": 589611,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 138,
+      "leaves": 1642,
+      "verified": 1642,
+      "negative": 0,
+      "covers": 252645,
+      "attempts": 404377,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 139,
+      "leaves": 24858,
+      "verified": 24856,
+      "negative": 2,
+      "covers": 1095255,
+      "attempts": 1615281,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 140,
+      "leaves": 1019,
+      "verified": 1019,
+      "negative": 0,
+      "covers": 210197,
+      "attempts": 344873,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 141,
+      "leaves": 4906,
+      "verified": 4906,
+      "negative": 0,
+      "covers": 368796,
+      "attempts": 559248,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 142,
+      "leaves": 4987,
+      "verified": 4987,
+      "negative": 0,
+      "covers": 352842,
+      "attempts": 550028,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 143,
+      "leaves": 26037,
+      "verified": 26037,
+      "negative": 0,
+      "covers": 1218386,
+      "attempts": 1792315,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 144,
+      "leaves": 11927,
+      "verified": 11927,
+      "negative": 0,
+      "covers": 937873,
+      "attempts": 1302980,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 145,
+      "leaves": 32251,
+      "verified": 32251,
+      "negative": 0,
+      "covers": 1337356,
+      "attempts": 1940069,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 146,
+      "leaves": 386,
+      "verified": 386,
+      "negative": 0,
+      "covers": 55846,
+      "attempts": 166227,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 147,
+      "leaves": 2019,
+      "verified": 2019,
+      "negative": 0,
+      "covers": 187477,
+      "attempts": 331533,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 148,
+      "leaves": 96,
+      "verified": 96,
+      "negative": 0,
+      "covers": 72667,
+      "attempts": 182079,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 149,
+      "leaves": 5188,
+      "verified": 5188,
+      "negative": 0,
+      "covers": 474792,
+      "attempts": 708386,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 150,
+      "leaves": 8288,
+      "verified": 8288,
+      "negative": 0,
+      "covers": 758872,
+      "attempts": 1061872,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 151,
+      "leaves": 1308,
+      "verified": 1308,
+      "negative": 0,
+      "covers": 211656,
+      "attempts": 356828,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 152,
+      "leaves": 16141,
+      "verified": 16141,
+      "negative": 0,
+      "covers": 934097,
+      "attempts": 1358410,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 153,
+      "leaves": 16255,
+      "verified": 16255,
+      "negative": 0,
+      "covers": 1107898,
+      "attempts": 1598416,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 154,
+      "leaves": 604,
+      "verified": 604,
+      "negative": 0,
+      "covers": 238128,
+      "attempts": 378662,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 155,
+      "leaves": 9673,
+      "verified": 9673,
+      "negative": 0,
+      "covers": 754297,
+      "attempts": 1087516,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 156,
+      "leaves": 11497,
+      "verified": 11497,
+      "negative": 0,
+      "covers": 1064617,
+      "attempts": 1462425,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 157,
+      "leaves": 40742,
+      "verified": 40741,
+      "negative": 1,
+      "covers": 2488173,
+      "attempts": 3480473,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 158,
+      "leaves": 5864,
+      "verified": 5862,
+      "negative": 2,
+      "covers": 862578,
+      "attempts": 1139866,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 159,
+      "leaves": 12483,
+      "verified": 12482,
+      "negative": 1,
+      "covers": 1306161,
+      "attempts": 1732716,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 160,
+      "leaves": 2095,
+      "verified": 2095,
+      "negative": 0,
+      "covers": 494324,
+      "attempts": 675892,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 161,
+      "leaves": 104,
+      "verified": 104,
+      "negative": 0,
+      "covers": 148707,
+      "attempts": 276561,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 162,
+      "leaves": 84,
+      "verified": 84,
+      "negative": 0,
+      "covers": 219007,
+      "attempts": 360092,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 163,
+      "leaves": 571,
+      "verified": 571,
+      "negative": 0,
+      "covers": 376598,
+      "attempts": 549321,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 164,
+      "leaves": 2358,
+      "verified": 2358,
+      "negative": 0,
+      "covers": 986659,
+      "attempts": 1353550,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 165,
+      "leaves": 422,
+      "verified": 422,
+      "negative": 0,
+      "covers": 510049,
+      "attempts": 726731,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 166,
+      "leaves": 279,
+      "verified": 279,
+      "negative": 0,
+      "covers": 256957,
+      "attempts": 400426,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 167,
+      "leaves": 957,
+      "verified": 957,
+      "negative": 0,
+      "covers": 744247,
+      "attempts": 996069,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 168,
+      "leaves": 797,
+      "verified": 797,
+      "negative": 0,
+      "covers": 873939,
+      "attempts": 1179761,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 169,
+      "leaves": 23,
+      "verified": 23,
+      "negative": 0,
+      "covers": 134666,
+      "attempts": 260793,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 170,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 25501,
+      "attempts": 127585,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 171,
+      "leaves": 157,
+      "verified": 157,
+      "negative": 0,
+      "covers": 151119,
+      "attempts": 272768,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 172,
+      "leaves": 769,
+      "verified": 769,
+      "negative": 0,
+      "covers": 294576,
+      "attempts": 446505,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 173,
+      "leaves": 5367,
+      "verified": 5367,
+      "negative": 0,
+      "covers": 759453,
+      "attempts": 1049400,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 174,
+      "leaves": 987,
+      "verified": 987,
+      "negative": 0,
+      "covers": 539511,
+      "attempts": 735633,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 175,
+      "leaves": 4254,
+      "verified": 4254,
+      "negative": 0,
+      "covers": 680226,
+      "attempts": 940196,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 176,
+      "leaves": 766,
+      "verified": 766,
+      "negative": 0,
+      "covers": 192660,
+      "attempts": 329927,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 177,
+      "leaves": 20663,
+      "verified": 20658,
+      "negative": 5,
+      "covers": 1482855,
+      "attempts": 2106377,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 178,
+      "leaves": 13027,
+      "verified": 13024,
+      "negative": 3,
+      "covers": 1306404,
+      "attempts": 1831411,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 179,
+      "leaves": 3960,
+      "verified": 3960,
+      "negative": 0,
+      "covers": 1037159,
+      "attempts": 1371330,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 180,
+      "leaves": 50566,
+      "verified": 50560,
+      "negative": 6,
+      "covers": 3679605,
+      "attempts": 5240096,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 181,
+      "leaves": 10136,
+      "verified": 10133,
+      "negative": 3,
+      "covers": 1204386,
+      "attempts": 1666436,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 182,
+      "leaves": 304,
+      "verified": 304,
+      "negative": 0,
+      "covers": 174724,
+      "attempts": 306690,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 183,
+      "leaves": 6255,
+      "verified": 6251,
+      "negative": 4,
+      "covers": 887827,
+      "attempts": 1245916,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 184,
+      "leaves": 7736,
+      "verified": 7732,
+      "negative": 4,
+      "covers": 1025805,
+      "attempts": 1424260,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 185,
+      "leaves": 595,
+      "verified": 595,
+      "negative": 0,
+      "covers": 255054,
+      "attempts": 402198,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 186,
+      "leaves": 368,
+      "verified": 368,
+      "negative": 0,
+      "covers": 244654,
+      "attempts": 386282,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 187,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 65404,
+      "attempts": 175043,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 188,
+      "leaves": 206,
+      "verified": 206,
+      "negative": 0,
+      "covers": 62593,
+      "attempts": 169906,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 189,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 6882,
+      "attempts": 105807,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 190,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 22660,
+      "attempts": 122980,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 191,
+      "leaves": 59,
+      "verified": 59,
+      "negative": 0,
+      "covers": 86642,
+      "attempts": 195771,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 192,
+      "leaves": 16,
+      "verified": 16,
+      "negative": 0,
+      "covers": 8039,
+      "attempts": 107237,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 193,
+      "leaves": 72,
+      "verified": 72,
+      "negative": 0,
+      "covers": 22500,
+      "attempts": 124521,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 194,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 30905,
+      "attempts": 131693,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 195,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 22815,
+      "attempts": 123246,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 196,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 24410,
+      "attempts": 125422,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 197,
+      "leaves": 42,
+      "verified": 42,
+      "negative": 0,
+      "covers": 128963,
+      "attempts": 241965,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 198,
+      "leaves": 379,
+      "verified": 379,
+      "negative": 0,
+      "covers": 345464,
+      "attempts": 482684,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 199,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 8483,
+      "attempts": 107822,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 200,
+      "leaves": 23,
+      "verified": 23,
+      "negative": 0,
+      "covers": 17036,
+      "attempts": 119243,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 201,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 3324,
+      "attempts": 102030,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 202,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 17217,
+      "attempts": 117941,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 203,
+      "leaves": 99,
+      "verified": 99,
+      "negative": 0,
+      "covers": 52364,
+      "attempts": 159948,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 204,
+      "leaves": 11,
+      "verified": 11,
+      "negative": 0,
+      "covers": 20803,
+      "attempts": 122326,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 205,
+      "leaves": 235,
+      "verified": 235,
+      "negative": 0,
+      "covers": 54185,
+      "attempts": 170227,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 206,
+      "leaves": 170,
+      "verified": 170,
+      "negative": 0,
+      "covers": 34424,
+      "attempts": 145143,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 207,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 8113,
+      "attempts": 107519,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 208,
+      "leaves": 177,
+      "verified": 177,
+      "negative": 0,
+      "covers": 75098,
+      "attempts": 186685,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 209,
+      "leaves": 189,
+      "verified": 189,
+      "negative": 0,
+      "covers": 39391,
+      "attempts": 152580,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 210,
+      "leaves": 7,
+      "verified": 7,
+      "negative": 0,
+      "covers": 17903,
+      "attempts": 119472,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 211,
+      "leaves": 190,
+      "verified": 190,
+      "negative": 0,
+      "covers": 52363,
+      "attempts": 158677,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 212,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 15228,
+      "attempts": 114752,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 213,
+      "leaves": 1191,
+      "verified": 1191,
+      "negative": 0,
+      "covers": 191517,
+      "attempts": 326325,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 214,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 3369,
+      "attempts": 101952,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 215,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 3181,
+      "attempts": 101876,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 216,
+      "leaves": 42,
+      "verified": 42,
+      "negative": 0,
+      "covers": 15670,
+      "attempts": 116330,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 217,
+      "leaves": 637,
+      "verified": 637,
+      "negative": 0,
+      "covers": 48161,
+      "attempts": 156577,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 218,
+      "leaves": 11,
+      "verified": 11,
+      "negative": 0,
+      "covers": 39290,
+      "attempts": 141485,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 219,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 16166,
+      "attempts": 116315,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 220,
+      "leaves": 896,
+      "verified": 896,
+      "negative": 0,
+      "covers": 161596,
+      "attempts": 284003,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 221,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 188536,
+      "attempts": 304090,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 222,
+      "leaves": 6493,
+      "verified": 6493,
+      "negative": 0,
+      "covers": 337783,
+      "attempts": 543044,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 223,
+      "leaves": 69,
+      "verified": 69,
+      "negative": 0,
+      "covers": 50185,
+      "attempts": 154605,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 224,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 4558,
+      "attempts": 103346,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 225,
+      "leaves": 92,
+      "verified": 92,
+      "negative": 0,
+      "covers": 40485,
+      "attempts": 144927,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 226,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 8385,
+      "attempts": 108282,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 227,
+      "leaves": 12,
+      "verified": 12,
+      "negative": 0,
+      "covers": 23770,
+      "attempts": 125206,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 228,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 15849,
+      "attempts": 116253,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 229,
+      "leaves": 806,
+      "verified": 806,
+      "negative": 0,
+      "covers": 88032,
+      "attempts": 203465,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 230,
+      "leaves": 173,
+      "verified": 173,
+      "negative": 0,
+      "covers": 105379,
+      "attempts": 220532,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 231,
+      "leaves": 13690,
+      "verified": 13690,
+      "negative": 0,
+      "covers": 650801,
+      "attempts": 919275,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 232,
+      "leaves": 23,
+      "verified": 23,
+      "negative": 0,
+      "covers": 50508,
+      "attempts": 156491,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 233,
+      "leaves": 325,
+      "verified": 325,
+      "negative": 0,
+      "covers": 303601,
+      "attempts": 440698,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 234,
+      "leaves": 13632,
+      "verified": 13632,
+      "negative": 0,
+      "covers": 812579,
+      "attempts": 1109248,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 235,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 6889,
+      "attempts": 105916,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 236,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 9997,
+      "attempts": 109878,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 237,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 4460,
+      "attempts": 103197,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 238,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 10686,
+      "attempts": 110538,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 239,
+      "leaves": 77,
+      "verified": 77,
+      "negative": 0,
+      "covers": 26739,
+      "attempts": 131086,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 240,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 4988,
+      "attempts": 103884,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 241,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 16861,
+      "attempts": 117113,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 242,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 19882,
+      "attempts": 120018,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 243,
+      "leaves": 76,
+      "verified": 76,
+      "negative": 0,
+      "covers": 68746,
+      "attempts": 175906,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 244,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 32497,
+      "attempts": 133789,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 245,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 106085,
+      "attempts": 213191,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 246,
+      "leaves": 833,
+      "verified": 833,
+      "negative": 0,
+      "covers": 230066,
+      "attempts": 365166,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 247,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 15226,
+      "attempts": 115796,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 248,
+      "leaves": 80,
+      "verified": 80,
+      "negative": 0,
+      "covers": 51595,
+      "attempts": 162737,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 249,
+      "leaves": 7,
+      "verified": 7,
+      "negative": 0,
+      "covers": 16795,
+      "attempts": 116926,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 250,
+      "leaves": 22,
+      "verified": 22,
+      "negative": 0,
+      "covers": 55405,
+      "attempts": 160621,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 251,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 16808,
+      "attempts": 117368,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 252,
+      "leaves": 252,
+      "verified": 252,
+      "negative": 0,
+      "covers": 75926,
+      "attempts": 194494,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 253,
+      "leaves": 238,
+      "verified": 238,
+      "negative": 0,
+      "covers": 77760,
+      "attempts": 187774,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 254,
+      "leaves": 1117,
+      "verified": 1117,
+      "negative": 0,
+      "covers": 130098,
+      "attempts": 267469,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 255,
+      "leaves": 655,
+      "verified": 655,
+      "negative": 0,
+      "covers": 127658,
+      "attempts": 257071,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 256,
+      "leaves": 966,
+      "verified": 966,
+      "negative": 0,
+      "covers": 178836,
+      "attempts": 318950,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 257,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 54356,
+      "attempts": 158982,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 258,
+      "leaves": 21,
+      "verified": 21,
+      "negative": 0,
+      "covers": 168619,
+      "attempts": 285581,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 259,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 163856,
+      "attempts": 279185,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 260,
+      "leaves": 62,
+      "verified": 62,
+      "negative": 0,
+      "covers": 60396,
+      "attempts": 177170,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 261,
+      "leaves": 100,
+      "verified": 100,
+      "negative": 0,
+      "covers": 211169,
+      "attempts": 339985,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 262,
+      "leaves": 103,
+      "verified": 103,
+      "negative": 0,
+      "covers": 471037,
+      "attempts": 623039,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 263,
+      "leaves": 605,
+      "verified": 605,
+      "negative": 0,
+      "covers": 320926,
+      "attempts": 482134,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 264,
+      "leaves": 445,
+      "verified": 445,
+      "negative": 0,
+      "covers": 57097,
+      "attempts": 166592,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 265,
+      "leaves": 2142,
+      "verified": 2142,
+      "negative": 0,
+      "covers": 246300,
+      "attempts": 431343,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 266,
+      "leaves": 3462,
+      "verified": 3462,
+      "negative": 0,
+      "covers": 374065,
+      "attempts": 587085,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 267,
+      "leaves": 22,
+      "verified": 22,
+      "negative": 0,
+      "covers": 55042,
+      "attempts": 162377,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 268,
+      "leaves": 1528,
+      "verified": 1528,
+      "negative": 0,
+      "covers": 188800,
+      "attempts": 343700,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 269,
+      "leaves": 570,
+      "verified": 570,
+      "negative": 0,
+      "covers": 75798,
+      "attempts": 197036,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 270,
+      "leaves": 635,
+      "verified": 635,
+      "negative": 0,
+      "covers": 71358,
+      "attempts": 194728,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 271,
+      "leaves": 474,
+      "verified": 474,
+      "negative": 0,
+      "covers": 56071,
+      "attempts": 173924,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 272,
+      "leaves": 401,
+      "verified": 401,
+      "negative": 0,
+      "covers": 62691,
+      "attempts": 183114,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 273,
+      "leaves": 591,
+      "verified": 591,
+      "negative": 0,
+      "covers": 57647,
+      "attempts": 175455,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 274,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 24922,
+      "attempts": 126548,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 275,
+      "leaves": 648,
+      "verified": 648,
+      "negative": 0,
+      "covers": 92011,
+      "attempts": 217031,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 276,
+      "leaves": 614,
+      "verified": 614,
+      "negative": 0,
+      "covers": 71028,
+      "attempts": 193640,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 277,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 30655,
+      "attempts": 133934,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 278,
+      "leaves": 1462,
+      "verified": 1462,
+      "negative": 0,
+      "covers": 138849,
+      "attempts": 280317,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 279,
+      "leaves": 131,
+      "verified": 131,
+      "negative": 0,
+      "covers": 39465,
+      "attempts": 147198,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 280,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 192572,
+      "attempts": 314601,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 281,
+      "leaves": 21,
+      "verified": 21,
+      "negative": 0,
+      "covers": 107282,
+      "attempts": 220482,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 282,
+      "leaves": 872,
+      "verified": 872,
+      "negative": 0,
+      "covers": 35925,
+      "attempts": 144030,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 283,
+      "leaves": 6,
+      "verified": 6,
+      "negative": 0,
+      "covers": 43278,
+      "attempts": 146469,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 284,
+      "leaves": 8835,
+      "verified": 8835,
+      "negative": 0,
+      "covers": 259652,
+      "attempts": 440721,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 285,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 23420,
+      "attempts": 124201,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 286,
+      "leaves": 44,
+      "verified": 44,
+      "negative": 0,
+      "covers": 195178,
+      "attempts": 314673,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 287,
+      "leaves": 4808,
+      "verified": 4808,
+      "negative": 0,
+      "covers": 343354,
+      "attempts": 520648,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 288,
+      "leaves": 22,
+      "verified": 22,
+      "negative": 0,
+      "covers": 20988,
+      "attempts": 123481,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 289,
+      "leaves": 343,
+      "verified": 343,
+      "negative": 0,
+      "covers": 72545,
+      "attempts": 189827,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 290,
+      "leaves": 187,
+      "verified": 187,
+      "negative": 0,
+      "covers": 97733,
+      "attempts": 212466,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 291,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 13020,
+      "attempts": 112373,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 292,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 21519,
+      "attempts": 122136,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 293,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 81659,
+      "attempts": 190672,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 294,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 174808,
+      "attempts": 292279,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 295,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 9764,
+      "attempts": 109549,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 296,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 16118,
+      "attempts": 117056,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 297,
+      "leaves": 101,
+      "verified": 101,
+      "negative": 0,
+      "covers": 72919,
+      "attempts": 195477,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 298,
+      "leaves": 151,
+      "verified": 151,
+      "negative": 0,
+      "covers": 41893,
+      "attempts": 149524,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 299,
+      "leaves": 1226,
+      "verified": 1226,
+      "negative": 0,
+      "covers": 202434,
+      "attempts": 357408,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 300,
+      "leaves": 363,
+      "verified": 363,
+      "negative": 0,
+      "covers": 109501,
+      "attempts": 235368,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 301,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 28312,
+      "attempts": 131932,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 302,
+      "leaves": 38,
+      "verified": 38,
+      "negative": 0,
+      "covers": 58719,
+      "attempts": 173137,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 303,
+      "leaves": 76,
+      "verified": 76,
+      "negative": 0,
+      "covers": 27214,
+      "attempts": 130597,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 304,
+      "leaves": 141,
+      "verified": 141,
+      "negative": 0,
+      "covers": 85101,
+      "attempts": 207886,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 305,
+      "leaves": 102,
+      "verified": 102,
+      "negative": 0,
+      "covers": 112407,
+      "attempts": 242350,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 306,
+      "leaves": 149,
+      "verified": 149,
+      "negative": 0,
+      "covers": 36549,
+      "attempts": 143649,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 307,
+      "leaves": 770,
+      "verified": 770,
+      "negative": 0,
+      "covers": 123677,
+      "attempts": 245614,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 308,
+      "leaves": 5194,
+      "verified": 5193,
+      "negative": 1,
+      "covers": 475620,
+      "attempts": 723183,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 309,
+      "leaves": 363,
+      "verified": 363,
+      "negative": 0,
+      "covers": 133533,
+      "attempts": 266241,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 310,
+      "leaves": 1964,
+      "verified": 1964,
+      "negative": 0,
+      "covers": 291390,
+      "attempts": 484783,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 311,
+      "leaves": 51,
+      "verified": 51,
+      "negative": 0,
+      "covers": 52339,
+      "attempts": 159583,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 312,
+      "leaves": 713,
+      "verified": 713,
+      "negative": 0,
+      "covers": 207750,
+      "attempts": 358633,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 313,
+      "leaves": 2078,
+      "verified": 2078,
+      "negative": 0,
+      "covers": 328451,
+      "attempts": 542760,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 314,
+      "leaves": 3962,
+      "verified": 3957,
+      "negative": 5,
+      "covers": 542053,
+      "attempts": 817424,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 315,
+      "leaves": 1624,
+      "verified": 1624,
+      "negative": 0,
+      "covers": 311745,
+      "attempts": 489656,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 316,
+      "leaves": 874,
+      "verified": 874,
+      "negative": 0,
+      "covers": 231723,
+      "attempts": 378249,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 317,
+      "leaves": 29,
+      "verified": 29,
+      "negative": 0,
+      "covers": 57666,
+      "attempts": 164635,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 318,
+      "leaves": 4900,
+      "verified": 4900,
+      "negative": 0,
+      "covers": 455197,
+      "attempts": 650002,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 319,
+      "leaves": 117,
+      "verified": 117,
+      "negative": 0,
+      "covers": 163382,
+      "attempts": 285410,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 320,
+      "leaves": 5192,
+      "verified": 5191,
+      "negative": 1,
+      "covers": 593859,
+      "attempts": 821955,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 321,
+      "leaves": 731,
+      "verified": 731,
+      "negative": 0,
+      "covers": 180674,
+      "attempts": 338015,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 322,
+      "leaves": 1767,
+      "verified": 1764,
+      "negative": 3,
+      "covers": 387501,
+      "attempts": 603155,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 323,
+      "leaves": 780,
+      "verified": 776,
+      "negative": 4,
+      "covers": 351585,
+      "attempts": 545846,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 324,
+      "leaves": 1107,
+      "verified": 1107,
+      "negative": 0,
+      "covers": 252279,
+      "attempts": 422504,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 325,
+      "leaves": 444,
+      "verified": 444,
+      "negative": 0,
+      "covers": 130003,
+      "attempts": 255401,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 326,
+      "leaves": 917,
+      "verified": 917,
+      "negative": 0,
+      "covers": 156052,
+      "attempts": 299853,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 327,
+      "leaves": 408,
+      "verified": 408,
+      "negative": 0,
+      "covers": 163023,
+      "attempts": 295085,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 328,
+      "leaves": 2125,
+      "verified": 2125,
+      "negative": 0,
+      "covers": 181150,
+      "attempts": 332296,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 329,
+      "leaves": 294,
+      "verified": 293,
+      "negative": 1,
+      "covers": 165525,
+      "attempts": 293737,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 330,
+      "leaves": 991,
+      "verified": 991,
+      "negative": 0,
+      "covers": 374341,
+      "attempts": 575583,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 331,
+      "leaves": 1001,
+      "verified": 997,
+      "negative": 4,
+      "covers": 356729,
+      "attempts": 539554,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 332,
+      "leaves": 49,
+      "verified": 49,
+      "negative": 0,
+      "covers": 211455,
+      "attempts": 336330,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 333,
+      "leaves": 225,
+      "verified": 224,
+      "negative": 1,
+      "covers": 90706,
+      "attempts": 208012,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 334,
+      "leaves": 65,
+      "verified": 65,
+      "negative": 0,
+      "covers": 58642,
+      "attempts": 168161,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 335,
+      "leaves": 2477,
+      "verified": 2463,
+      "negative": 14,
+      "covers": 247073,
+      "attempts": 414534,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 336,
+      "leaves": 192,
+      "verified": 192,
+      "negative": 0,
+      "covers": 82517,
+      "attempts": 205853,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 337,
+      "leaves": 1474,
+      "verified": 1461,
+      "negative": 13,
+      "covers": 349362,
+      "attempts": 555665,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 338,
+      "leaves": 22,
+      "verified": 22,
+      "negative": 0,
+      "covers": 103923,
+      "attempts": 217337,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 339,
+      "leaves": 9351,
+      "verified": 9350,
+      "negative": 1,
+      "covers": 384951,
+      "attempts": 587215,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 340,
+      "leaves": 548,
+      "verified": 543,
+      "negative": 5,
+      "covers": 250481,
+      "attempts": 388936,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 341,
+      "leaves": 45874,
+      "verified": 45873,
+      "negative": 1,
+      "covers": 1081350,
+      "attempts": 1543129,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 342,
+      "leaves": 84,
+      "verified": 82,
+      "negative": 2,
+      "covers": 127848,
+      "attempts": 247119,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 343,
+      "leaves": 240,
+      "verified": 240,
+      "negative": 0,
+      "covers": 532406,
+      "attempts": 695582,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 344,
+      "leaves": 12445,
+      "verified": 12445,
+      "negative": 0,
+      "covers": 481329,
+      "attempts": 710091,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 345,
+      "leaves": 39,
+      "verified": 39,
+      "negative": 0,
+      "covers": 108830,
+      "attempts": 226102,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 346,
+      "leaves": 92,
+      "verified": 92,
+      "negative": 0,
+      "covers": 122065,
+      "attempts": 244112,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 347,
+      "leaves": 10,
+      "verified": 10,
+      "negative": 0,
+      "covers": 25987,
+      "attempts": 129554,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 348,
+      "leaves": 81,
+      "verified": 68,
+      "negative": 13,
+      "covers": 31259,
+      "attempts": 139379,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 349,
+      "leaves": 998,
+      "verified": 970,
+      "negative": 28,
+      "covers": 177093,
+      "attempts": 334977,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 350,
+      "leaves": 500,
+      "verified": 498,
+      "negative": 2,
+      "covers": 122843,
+      "attempts": 260866,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 351,
+      "leaves": 263,
+      "verified": 263,
+      "negative": 0,
+      "covers": 101474,
+      "attempts": 228886,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 352,
+      "leaves": 1203,
+      "verified": 1196,
+      "negative": 7,
+      "covers": 322712,
+      "attempts": 522259,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 353,
+      "leaves": 103,
+      "verified": 102,
+      "negative": 1,
+      "covers": 73917,
+      "attempts": 189147,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 354,
+      "leaves": 57,
+      "verified": 56,
+      "negative": 1,
+      "covers": 89221,
+      "attempts": 207859,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 355,
+      "leaves": 85,
+      "verified": 85,
+      "negative": 0,
+      "covers": 99555,
+      "attempts": 221126,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 356,
+      "leaves": 124,
+      "verified": 114,
+      "negative": 10,
+      "covers": 70631,
+      "attempts": 191501,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 357,
+      "leaves": 6,
+      "verified": 5,
+      "negative": 1,
+      "covers": 58730,
+      "attempts": 170569,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 358,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 2279,
+      "attempts": 100816,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 359,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 494,
+      "attempts": 98866,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 360,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 2162,
+      "attempts": 100738,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 361,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2605,
+      "attempts": 101189,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 362,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 8491,
+      "attempts": 107886,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 363,
+      "leaves": 65,
+      "verified": 65,
+      "negative": 0,
+      "covers": 35664,
+      "attempts": 139876,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 364,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 1194,
+      "attempts": 99596,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 365,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 1205,
+      "attempts": 99648,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 366,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 6686,
+      "attempts": 105760,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 367,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 1018,
+      "attempts": 99412,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 368,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2221,
+      "attempts": 100683,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 369,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2312,
+      "attempts": 100828,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 370,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2678,
+      "attempts": 101309,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 371,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 4726,
+      "attempts": 103503,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 372,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 13816,
+      "attempts": 113680,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 373,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 9980,
+      "attempts": 109113,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 374,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 30602,
+      "attempts": 132199,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 375,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 20124,
+      "attempts": 120205,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 376,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 3313,
+      "attempts": 101935,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 377,
+      "leaves": 9,
+      "verified": 9,
+      "negative": 0,
+      "covers": 13097,
+      "attempts": 113100,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 378,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2239,
+      "attempts": 100831,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 379,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 11339,
+      "attempts": 110561,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 380,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 3159,
+      "attempts": 101900,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 381,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 5678,
+      "attempts": 104687,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 382,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 7610,
+      "attempts": 106662,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 383,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 14144,
+      "attempts": 113513,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 384,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 1301,
+      "attempts": 99782,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 385,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 5809,
+      "attempts": 104736,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 386,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 10253,
+      "attempts": 109589,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 387,
+      "leaves": 21,
+      "verified": 21,
+      "negative": 0,
+      "covers": 48666,
+      "attempts": 152358,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 388,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 64498,
+      "attempts": 167953,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 389,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2663,
+      "attempts": 101320,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 390,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 6668,
+      "attempts": 105830,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 391,
+      "leaves": 61,
+      "verified": 61,
+      "negative": 0,
+      "covers": 32175,
+      "attempts": 134862,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 392,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 4132,
+      "attempts": 102916,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 393,
+      "leaves": 17,
+      "verified": 17,
+      "negative": 0,
+      "covers": 31340,
+      "attempts": 133811,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 394,
+      "leaves": 88,
+      "verified": 88,
+      "negative": 0,
+      "covers": 35264,
+      "attempts": 138778,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 395,
+      "leaves": 658,
+      "verified": 658,
+      "negative": 0,
+      "covers": 104273,
+      "attempts": 223532,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 396,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 6738,
+      "attempts": 105826,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 397,
+      "leaves": 25,
+      "verified": 25,
+      "negative": 0,
+      "covers": 18351,
+      "attempts": 119299,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 398,
+      "leaves": 90,
+      "verified": 90,
+      "negative": 0,
+      "covers": 43873,
+      "attempts": 147695,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 399,
+      "leaves": 17,
+      "verified": 17,
+      "negative": 0,
+      "covers": 52325,
+      "attempts": 156208,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 400,
+      "leaves": 58,
+      "verified": 58,
+      "negative": 0,
+      "covers": 41701,
+      "attempts": 146284,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 401,
+      "leaves": 244,
+      "verified": 244,
+      "negative": 0,
+      "covers": 115882,
+      "attempts": 231446,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 402,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 7262,
+      "attempts": 106356,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 403,
+      "leaves": 24,
+      "verified": 24,
+      "negative": 0,
+      "covers": 29280,
+      "attempts": 131252,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 404,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 17258,
+      "attempts": 117638,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 405,
+      "leaves": 822,
+      "verified": 822,
+      "negative": 0,
+      "covers": 116435,
+      "attempts": 235851,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 406,
+      "leaves": 3118,
+      "verified": 3118,
+      "negative": 0,
+      "covers": 278271,
+      "attempts": 434474,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 407,
+      "leaves": 136,
+      "verified": 136,
+      "negative": 0,
+      "covers": 73123,
+      "attempts": 182670,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 408,
+      "leaves": 1602,
+      "verified": 1602,
+      "negative": 0,
+      "covers": 151853,
+      "attempts": 280807,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 409,
+      "leaves": 1702,
+      "verified": 1702,
+      "negative": 0,
+      "covers": 124718,
+      "attempts": 249724,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 410,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 10829,
+      "attempts": 110579,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 411,
+      "leaves": 814,
+      "verified": 814,
+      "negative": 0,
+      "covers": 93699,
+      "attempts": 210561,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 412,
+      "leaves": 218,
+      "verified": 218,
+      "negative": 0,
+      "covers": 19487,
+      "attempts": 126607,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 413,
+      "leaves": 233,
+      "verified": 233,
+      "negative": 0,
+      "covers": 73884,
+      "attempts": 184417,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 414,
+      "leaves": 886,
+      "verified": 886,
+      "negative": 0,
+      "covers": 119111,
+      "attempts": 242480,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 415,
+      "leaves": 11,
+      "verified": 11,
+      "negative": 0,
+      "covers": 5799,
+      "attempts": 105073,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 416,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 3766,
+      "attempts": 102435,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 417,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 2863,
+      "attempts": 101591,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 418,
+      "leaves": 29,
+      "verified": 29,
+      "negative": 0,
+      "covers": 5547,
+      "attempts": 105254,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 419,
+      "leaves": 388,
+      "verified": 388,
+      "negative": 0,
+      "covers": 13498,
+      "attempts": 119356,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 420,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 10083,
+      "attempts": 109437,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 421,
+      "leaves": 7,
+      "verified": 7,
+      "negative": 0,
+      "covers": 7911,
+      "attempts": 107360,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 422,
+      "leaves": 79,
+      "verified": 79,
+      "negative": 0,
+      "covers": 29162,
+      "attempts": 132497,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 423,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 7789,
+      "attempts": 107054,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 424,
+      "leaves": 181,
+      "verified": 181,
+      "negative": 0,
+      "covers": 12973,
+      "attempts": 114905,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 425,
+      "leaves": 26,
+      "verified": 26,
+      "negative": 0,
+      "covers": 29846,
+      "attempts": 131911,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 426,
+      "leaves": 757,
+      "verified": 757,
+      "negative": 0,
+      "covers": 28732,
+      "attempts": 141475,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 427,
+      "leaves": 1325,
+      "verified": 1325,
+      "negative": 0,
+      "covers": 96409,
+      "attempts": 229736,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 428,
+      "leaves": 281,
+      "verified": 281,
+      "negative": 0,
+      "covers": 129935,
+      "attempts": 244674,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 429,
+      "leaves": 39,
+      "verified": 39,
+      "negative": 0,
+      "covers": 96913,
+      "attempts": 206612,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 430,
+      "leaves": 39,
+      "verified": 39,
+      "negative": 0,
+      "covers": 17383,
+      "attempts": 119731,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 431,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 21997,
+      "attempts": 122277,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 432,
+      "leaves": 372,
+      "verified": 372,
+      "negative": 0,
+      "covers": 98376,
+      "attempts": 216076,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 433,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 17513,
+      "attempts": 121179,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 434,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 8175,
+      "attempts": 107126,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 435,
+      "leaves": 177,
+      "verified": 177,
+      "negative": 0,
+      "covers": 28430,
+      "attempts": 133443,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 436,
+      "leaves": 130,
+      "verified": 130,
+      "negative": 0,
+      "covers": 26568,
+      "attempts": 136972,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 437,
+      "leaves": 161,
+      "verified": 161,
+      "negative": 0,
+      "covers": 35372,
+      "attempts": 142135,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 438,
+      "leaves": 655,
+      "verified": 655,
+      "negative": 0,
+      "covers": 101421,
+      "attempts": 230455,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 439,
+      "leaves": 41,
+      "verified": 41,
+      "negative": 0,
+      "covers": 52974,
+      "attempts": 161713,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 440,
+      "leaves": 231,
+      "verified": 231,
+      "negative": 0,
+      "covers": 196018,
+      "attempts": 317135,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 441,
+      "leaves": 355,
+      "verified": 355,
+      "negative": 0,
+      "covers": 235181,
+      "attempts": 364844,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 442,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 967,
+      "attempts": 99449,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 443,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 4523,
+      "attempts": 104606,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 444,
+      "leaves": 26,
+      "verified": 26,
+      "negative": 0,
+      "covers": 9906,
+      "attempts": 112949,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 445,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 714,
+      "attempts": 99121,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 446,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2738,
+      "attempts": 101509,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 447,
+      "leaves": 28,
+      "verified": 28,
+      "negative": 0,
+      "covers": 33165,
+      "attempts": 137305,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 448,
+      "leaves": 49,
+      "verified": 49,
+      "negative": 0,
+      "covers": 13829,
+      "attempts": 114375,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 449,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 1992,
+      "attempts": 100588,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 450,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 4635,
+      "attempts": 103531,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 451,
+      "leaves": 30,
+      "verified": 30,
+      "negative": 0,
+      "covers": 27128,
+      "attempts": 129040,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 452,
+      "leaves": 20,
+      "verified": 20,
+      "negative": 0,
+      "covers": 2417,
+      "attempts": 101894,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 453,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 3653,
+      "attempts": 102446,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 454,
+      "leaves": 208,
+      "verified": 208,
+      "negative": 0,
+      "covers": 20752,
+      "attempts": 125231,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 455,
+      "leaves": 416,
+      "verified": 416,
+      "negative": 0,
+      "covers": 21338,
+      "attempts": 130852,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 456,
+      "leaves": 146,
+      "verified": 146,
+      "negative": 0,
+      "covers": 53509,
+      "attempts": 161152,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 457,
+      "leaves": 444,
+      "verified": 444,
+      "negative": 0,
+      "covers": 151950,
+      "attempts": 275982,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 458,
+      "leaves": 717,
+      "verified": 717,
+      "negative": 0,
+      "covers": 30373,
+      "attempts": 145072,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 459,
+      "leaves": 144,
+      "verified": 144,
+      "negative": 0,
+      "covers": 41710,
+      "attempts": 148165,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 460,
+      "leaves": 1015,
+      "verified": 1015,
+      "negative": 0,
+      "covers": 85615,
+      "attempts": 201962,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 461,
+      "leaves": 38,
+      "verified": 38,
+      "negative": 0,
+      "covers": 40361,
+      "attempts": 143298,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 462,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 7360,
+      "attempts": 106710,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 463,
+      "leaves": 56,
+      "verified": 56,
+      "negative": 0,
+      "covers": 27987,
+      "attempts": 131799,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 464,
+      "leaves": 25,
+      "verified": 25,
+      "negative": 0,
+      "covers": 38630,
+      "attempts": 142782,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 465,
+      "leaves": 56,
+      "verified": 56,
+      "negative": 0,
+      "covers": 66229,
+      "attempts": 174238,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 466,
+      "leaves": 384,
+      "verified": 384,
+      "negative": 0,
+      "covers": 221218,
+      "attempts": 354231,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 467,
+      "leaves": 1205,
+      "verified": 1205,
+      "negative": 0,
+      "covers": 349517,
+      "attempts": 507353,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 468,
+      "leaves": 176,
+      "verified": 176,
+      "negative": 0,
+      "covers": 66433,
+      "attempts": 177993,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 469,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 14531,
+      "attempts": 114478,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 470,
+      "leaves": 68,
+      "verified": 68,
+      "negative": 0,
+      "covers": 85331,
+      "attempts": 195718,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 471,
+      "leaves": 83,
+      "verified": 83,
+      "negative": 0,
+      "covers": 65197,
+      "attempts": 175156,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 472,
+      "leaves": 701,
+      "verified": 701,
+      "negative": 0,
+      "covers": 181838,
+      "attempts": 309980,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 473,
+      "leaves": 1340,
+      "verified": 1340,
+      "negative": 0,
+      "covers": 348565,
+      "attempts": 514095,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 474,
+      "leaves": 1552,
+      "verified": 1552,
+      "negative": 0,
+      "covers": 375192,
+      "attempts": 544604,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 475,
+      "leaves": 10229,
+      "verified": 10229,
+      "negative": 0,
+      "covers": 567580,
+      "attempts": 826337,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 476,
+      "leaves": 288,
+      "verified": 288,
+      "negative": 0,
+      "covers": 17360,
+      "attempts": 133381,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 477,
+      "leaves": 107,
+      "verified": 107,
+      "negative": 0,
+      "covers": 17240,
+      "attempts": 131419,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 478,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 13898,
+      "attempts": 113391,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 479,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 18600,
+      "attempts": 123942,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 480,
+      "leaves": 21,
+      "verified": 21,
+      "negative": 0,
+      "covers": 29763,
+      "attempts": 135169,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 481,
+      "leaves": 134,
+      "verified": 134,
+      "negative": 0,
+      "covers": 72848,
+      "attempts": 184928,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 482,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 16374,
+      "attempts": 119927,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 483,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 13138,
+      "attempts": 113719,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 484,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 14280,
+      "attempts": 121677,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 485,
+      "leaves": 36,
+      "verified": 36,
+      "negative": 0,
+      "covers": 30016,
+      "attempts": 144409,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 486,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 17892,
+      "attempts": 124332,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 487,
+      "leaves": 80,
+      "verified": 80,
+      "negative": 0,
+      "covers": 51279,
+      "attempts": 165525,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 488,
+      "leaves": 70,
+      "verified": 70,
+      "negative": 0,
+      "covers": 61620,
+      "attempts": 176920,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 489,
+      "leaves": 177,
+      "verified": 177,
+      "negative": 0,
+      "covers": 129440,
+      "attempts": 249989,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 490,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 12554,
+      "attempts": 112990,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 491,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 3348,
+      "attempts": 102110,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 492,
+      "leaves": 18,
+      "verified": 18,
+      "negative": 0,
+      "covers": 14682,
+      "attempts": 115174,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 493,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 11528,
+      "attempts": 111870,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 494,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 3830,
+      "attempts": 102628,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 495,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 6817,
+      "attempts": 106212,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 496,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 48688,
+      "attempts": 153906,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 497,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 14811,
+      "attempts": 115558,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 498,
+      "leaves": 20,
+      "verified": 20,
+      "negative": 0,
+      "covers": 60860,
+      "attempts": 170519,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 499,
+      "leaves": 370,
+      "verified": 370,
+      "negative": 0,
+      "covers": 127194,
+      "attempts": 253058,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 500,
+      "leaves": 205,
+      "verified": 205,
+      "negative": 0,
+      "covers": 100218,
+      "attempts": 216455,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 501,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 12845,
+      "attempts": 112744,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 502,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 9666,
+      "attempts": 109082,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 503,
+      "leaves": 89,
+      "verified": 89,
+      "negative": 0,
+      "covers": 65363,
+      "attempts": 172702,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 504,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 12030,
+      "attempts": 111609,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 505,
+      "leaves": 313,
+      "verified": 313,
+      "negative": 0,
+      "covers": 75187,
+      "attempts": 183551,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 506,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 7108,
+      "attempts": 106279,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 507,
+      "leaves": 373,
+      "verified": 373,
+      "negative": 0,
+      "covers": 90197,
+      "attempts": 204883,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 508,
+      "leaves": 1162,
+      "verified": 1162,
+      "negative": 0,
+      "covers": 214969,
+      "attempts": 351877,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 509,
+      "leaves": 43,
+      "verified": 43,
+      "negative": 0,
+      "covers": 43572,
+      "attempts": 149130,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 510,
+      "leaves": 2031,
+      "verified": 2031,
+      "negative": 0,
+      "covers": 293676,
+      "attempts": 451827,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 511,
+      "leaves": 22,
+      "verified": 22,
+      "negative": 0,
+      "covers": 6867,
+      "attempts": 106966,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 512,
+      "leaves": 68,
+      "verified": 68,
+      "negative": 0,
+      "covers": 64206,
+      "attempts": 173016,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 513,
+      "leaves": 1176,
+      "verified": 1176,
+      "negative": 0,
+      "covers": 281551,
+      "attempts": 429141,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 514,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 8020,
+      "attempts": 107401,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 515,
+      "leaves": 359,
+      "verified": 359,
+      "negative": 0,
+      "covers": 94514,
+      "attempts": 208318,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 516,
+      "leaves": 808,
+      "verified": 808,
+      "negative": 0,
+      "covers": 241404,
+      "attempts": 383644,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 517,
+      "leaves": 68,
+      "verified": 68,
+      "negative": 0,
+      "covers": 47001,
+      "attempts": 151355,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 518,
+      "leaves": 4684,
+      "verified": 4684,
+      "negative": 0,
+      "covers": 296457,
+      "attempts": 464337,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 519,
+      "leaves": 864,
+      "verified": 864,
+      "negative": 0,
+      "covers": 108894,
+      "attempts": 228441,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 520,
+      "leaves": 16,
+      "verified": 16,
+      "negative": 0,
+      "covers": 19508,
+      "attempts": 120776,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 521,
+      "leaves": 15,
+      "verified": 15,
+      "negative": 0,
+      "covers": 13956,
+      "attempts": 114206,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 522,
+      "leaves": 259,
+      "verified": 259,
+      "negative": 0,
+      "covers": 67701,
+      "attempts": 177344,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 523,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 3800,
+      "attempts": 102581,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 524,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 15133,
+      "attempts": 115382,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 525,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 18198,
+      "attempts": 118321,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 526,
+      "leaves": 2410,
+      "verified": 2410,
+      "negative": 0,
+      "covers": 166510,
+      "attempts": 301783,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 527,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 11532,
+      "attempts": 111170,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 528,
+      "leaves": 29,
+      "verified": 29,
+      "negative": 0,
+      "covers": 142705,
+      "attempts": 256121,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 529,
+      "leaves": 61,
+      "verified": 61,
+      "negative": 0,
+      "covers": 263609,
+      "attempts": 389159,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 530,
+      "leaves": 56,
+      "verified": 56,
+      "negative": 0,
+      "covers": 68423,
+      "attempts": 175730,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 531,
+      "leaves": 275,
+      "verified": 275,
+      "negative": 0,
+      "covers": 103572,
+      "attempts": 216291,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 532,
+      "leaves": 19676,
+      "verified": 19676,
+      "negative": 0,
+      "covers": 735217,
+      "attempts": 1053709,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 533,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 7277,
+      "attempts": 106502,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 534,
+      "leaves": 54,
+      "verified": 54,
+      "negative": 0,
+      "covers": 70187,
+      "attempts": 178502,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 535,
+      "leaves": 13,
+      "verified": 13,
+      "negative": 0,
+      "covers": 21980,
+      "attempts": 123819,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 536,
+      "leaves": 531,
+      "verified": 531,
+      "negative": 0,
+      "covers": 161591,
+      "attempts": 289754,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 537,
+      "leaves": 706,
+      "verified": 706,
+      "negative": 0,
+      "covers": 47800,
+      "attempts": 157656,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 538,
+      "leaves": 29,
+      "verified": 29,
+      "negative": 0,
+      "covers": 27631,
+      "attempts": 129542,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 539,
+      "leaves": 8526,
+      "verified": 8526,
+      "negative": 0,
+      "covers": 365333,
+      "attempts": 564448,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 540,
+      "leaves": 958,
+      "verified": 958,
+      "negative": 0,
+      "covers": 135224,
+      "attempts": 261810,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 541,
+      "leaves": 9239,
+      "verified": 9239,
+      "negative": 0,
+      "covers": 626884,
+      "attempts": 891762,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 542,
+      "leaves": 14,
+      "verified": 14,
+      "negative": 0,
+      "covers": 47325,
+      "attempts": 151628,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 543,
+      "leaves": 7928,
+      "verified": 7928,
+      "negative": 0,
+      "covers": 888576,
+      "attempts": 1159770,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 544,
+      "leaves": 46862,
+      "verified": 46862,
+      "negative": 0,
+      "covers": 1825283,
+      "attempts": 2465238,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 545,
+      "leaves": 422,
+      "verified": 422,
+      "negative": 0,
+      "covers": 40870,
+      "attempts": 153638,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 546,
+      "leaves": 67,
+      "verified": 67,
+      "negative": 0,
+      "covers": 72959,
+      "attempts": 185642,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 547,
+      "leaves": 62,
+      "verified": 62,
+      "negative": 0,
+      "covers": 14227,
+      "attempts": 117103,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 548,
+      "leaves": 43,
+      "verified": 43,
+      "negative": 0,
+      "covers": 26849,
+      "attempts": 133195,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 549,
+      "leaves": 255,
+      "verified": 255,
+      "negative": 0,
+      "covers": 26450,
+      "attempts": 133269,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 550,
+      "leaves": 1324,
+      "verified": 1324,
+      "negative": 0,
+      "covers": 86408,
+      "attempts": 230331,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 551,
+      "leaves": 48,
+      "verified": 48,
+      "negative": 0,
+      "covers": 37361,
+      "attempts": 146381,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 552,
+      "leaves": 9,
+      "verified": 9,
+      "negative": 0,
+      "covers": 9382,
+      "attempts": 108861,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 553,
+      "leaves": 12,
+      "verified": 12,
+      "negative": 0,
+      "covers": 33229,
+      "attempts": 134833,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 554,
+      "leaves": 36,
+      "verified": 36,
+      "negative": 0,
+      "covers": 16662,
+      "attempts": 118094,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 555,
+      "leaves": 138,
+      "verified": 138,
+      "negative": 0,
+      "covers": 23733,
+      "attempts": 131029,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 556,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 2877,
+      "attempts": 101523,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 557,
+      "leaves": 40,
+      "verified": 40,
+      "negative": 0,
+      "covers": 15311,
+      "attempts": 116142,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 558,
+      "leaves": 120,
+      "verified": 120,
+      "negative": 0,
+      "covers": 19055,
+      "attempts": 123159,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 559,
+      "leaves": 27,
+      "verified": 27,
+      "negative": 0,
+      "covers": 38452,
+      "attempts": 142271,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 560,
+      "leaves": 37,
+      "verified": 37,
+      "negative": 0,
+      "covers": 17867,
+      "attempts": 119052,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 561,
+      "leaves": 270,
+      "verified": 270,
+      "negative": 0,
+      "covers": 75618,
+      "attempts": 188071,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 562,
+      "leaves": 391,
+      "verified": 391,
+      "negative": 0,
+      "covers": 27577,
+      "attempts": 137706,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 563,
+      "leaves": 1003,
+      "verified": 1003,
+      "negative": 0,
+      "covers": 54025,
+      "attempts": 176847,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 564,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 5426,
+      "attempts": 104253,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 565,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 21707,
+      "attempts": 122544,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 566,
+      "leaves": 154,
+      "verified": 154,
+      "negative": 0,
+      "covers": 31963,
+      "attempts": 140346,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 567,
+      "leaves": 21,
+      "verified": 21,
+      "negative": 0,
+      "covers": 28342,
+      "attempts": 129551,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 568,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 30267,
+      "attempts": 132332,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 569,
+      "leaves": 208,
+      "verified": 208,
+      "negative": 0,
+      "covers": 90381,
+      "attempts": 204751,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 570,
+      "leaves": 282,
+      "verified": 282,
+      "negative": 0,
+      "covers": 27797,
+      "attempts": 135082,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 571,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 16791,
+      "attempts": 116730,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 572,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 29052,
+      "attempts": 129842,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 573,
+      "leaves": 327,
+      "verified": 327,
+      "negative": 0,
+      "covers": 68165,
+      "attempts": 179307,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 574,
+      "leaves": 89,
+      "verified": 89,
+      "negative": 0,
+      "covers": 56745,
+      "attempts": 163269,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 575,
+      "leaves": 639,
+      "verified": 639,
+      "negative": 0,
+      "covers": 137205,
+      "attempts": 262892,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 576,
+      "leaves": 1091,
+      "verified": 1091,
+      "negative": 0,
+      "covers": 62664,
+      "attempts": 187682,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 577,
+      "leaves": 4504,
+      "verified": 4504,
+      "negative": 0,
+      "covers": 183029,
+      "attempts": 374185,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 578,
+      "leaves": 13,
+      "verified": 13,
+      "negative": 0,
+      "covers": 13993,
+      "attempts": 114318,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 579,
+      "leaves": 425,
+      "verified": 425,
+      "negative": 0,
+      "covers": 30985,
+      "attempts": 135356,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 580,
+      "leaves": 289,
+      "verified": 289,
+      "negative": 0,
+      "covers": 45173,
+      "attempts": 153181,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 581,
+      "leaves": 1169,
+      "verified": 1169,
+      "negative": 0,
+      "covers": 139522,
+      "attempts": 264499,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 582,
+      "leaves": 1180,
+      "verified": 1180,
+      "negative": 0,
+      "covers": 149183,
+      "attempts": 285697,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 583,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 27752,
+      "attempts": 129545,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 584,
+      "leaves": 1083,
+      "verified": 1083,
+      "negative": 0,
+      "covers": 129870,
+      "attempts": 259091,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 585,
+      "leaves": 567,
+      "verified": 567,
+      "negative": 0,
+      "covers": 45440,
+      "attempts": 166017,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 586,
+      "leaves": 47,
+      "verified": 47,
+      "negative": 0,
+      "covers": 17791,
+      "attempts": 119259,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 587,
+      "leaves": 3861,
+      "verified": 3861,
+      "negative": 0,
+      "covers": 138657,
+      "attempts": 307090,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 588,
+      "leaves": 944,
+      "verified": 944,
+      "negative": 0,
+      "covers": 54899,
+      "attempts": 177171,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 589,
+      "leaves": 568,
+      "verified": 568,
+      "negative": 0,
+      "covers": 184190,
+      "attempts": 311310,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 590,
+      "leaves": 5,
+      "verified": 5,
+      "negative": 0,
+      "covers": 6417,
+      "attempts": 105803,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 591,
+      "leaves": 95,
+      "verified": 95,
+      "negative": 0,
+      "covers": 18207,
+      "attempts": 122454,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 592,
+      "leaves": 56,
+      "verified": 56,
+      "negative": 0,
+      "covers": 42907,
+      "attempts": 147363,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 593,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 22399,
+      "attempts": 122676,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 594,
+      "leaves": 1210,
+      "verified": 1210,
+      "negative": 0,
+      "covers": 238788,
+      "attempts": 380902,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 595,
+      "leaves": 124,
+      "verified": 124,
+      "negative": 0,
+      "covers": 27304,
+      "attempts": 134052,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 596,
+      "leaves": 914,
+      "verified": 914,
+      "negative": 0,
+      "covers": 122164,
+      "attempts": 254251,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 597,
+      "leaves": 987,
+      "verified": 987,
+      "negative": 0,
+      "covers": 147836,
+      "attempts": 274661,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 598,
+      "leaves": 5888,
+      "verified": 5888,
+      "negative": 0,
+      "covers": 763161,
+      "attempts": 1023582,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 599,
+      "leaves": 2107,
+      "verified": 2107,
+      "negative": 0,
+      "covers": 311494,
+      "attempts": 470901,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 600,
+      "leaves": 9396,
+      "verified": 9396,
+      "negative": 0,
+      "covers": 725508,
+      "attempts": 988801,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 601,
+      "leaves": 233,
+      "verified": 233,
+      "negative": 0,
+      "covers": 54479,
+      "attempts": 165461,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 602,
+      "leaves": 404,
+      "verified": 404,
+      "negative": 0,
+      "covers": 72743,
+      "attempts": 188530,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 603,
+      "leaves": 864,
+      "verified": 864,
+      "negative": 0,
+      "covers": 98975,
+      "attempts": 228495,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 604,
+      "leaves": 764,
+      "verified": 764,
+      "negative": 0,
+      "covers": 155905,
+      "attempts": 279923,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 605,
+      "leaves": 475,
+      "verified": 475,
+      "negative": 0,
+      "covers": 86472,
+      "attempts": 202067,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 606,
+      "leaves": 606,
+      "verified": 606,
+      "negative": 0,
+      "covers": 109352,
+      "attempts": 232652,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 607,
+      "leaves": 2075,
+      "verified": 2075,
+      "negative": 0,
+      "covers": 340012,
+      "attempts": 505488,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 608,
+      "leaves": 323,
+      "verified": 323,
+      "negative": 0,
+      "covers": 135370,
+      "attempts": 266284,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 609,
+      "leaves": 1938,
+      "verified": 1938,
+      "negative": 0,
+      "covers": 193191,
+      "attempts": 334900,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 610,
+      "leaves": 13766,
+      "verified": 13766,
+      "negative": 0,
+      "covers": 909202,
+      "attempts": 1249264,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 611,
+      "leaves": 895,
+      "verified": 895,
+      "negative": 0,
+      "covers": 184537,
+      "attempts": 342967,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 612,
+      "leaves": 13157,
+      "verified": 13157,
+      "negative": 0,
+      "covers": 987778,
+      "attempts": 1315018,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 613,
+      "leaves": 33026,
+      "verified": 33026,
+      "negative": 0,
+      "covers": 1824510,
+      "attempts": 2419369,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 614,
+      "leaves": 86,
+      "verified": 86,
+      "negative": 0,
+      "covers": 73887,
+      "attempts": 196776,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 615,
+      "leaves": 7,
+      "verified": 7,
+      "negative": 0,
+      "covers": 69822,
+      "attempts": 177959,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 616,
+      "leaves": 2045,
+      "verified": 2045,
+      "negative": 0,
+      "covers": 411186,
+      "attempts": 596612,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 617,
+      "leaves": 37,
+      "verified": 37,
+      "negative": 0,
+      "covers": 88581,
+      "attempts": 214185,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 618,
+      "leaves": 125,
+      "verified": 125,
+      "negative": 0,
+      "covers": 274069,
+      "attempts": 405873,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 619,
+      "leaves": 4196,
+      "verified": 4196,
+      "negative": 0,
+      "covers": 627810,
+      "attempts": 878206,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 620,
+      "leaves": 129,
+      "verified": 129,
+      "negative": 0,
+      "covers": 188623,
+      "attempts": 321441,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 621,
+      "leaves": 576,
+      "verified": 576,
+      "negative": 0,
+      "covers": 295175,
+      "attempts": 446357,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 622,
+      "leaves": 248,
+      "verified": 248,
+      "negative": 0,
+      "covers": 168878,
+      "attempts": 312785,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 623,
+      "leaves": 9404,
+      "verified": 9404,
+      "negative": 0,
+      "covers": 853041,
+      "attempts": 1140730,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 624,
+      "leaves": 28858,
+      "verified": 28858,
+      "negative": 0,
+      "covers": 1569669,
+      "attempts": 2070414,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 625,
+      "leaves": 1741,
+      "verified": 1741,
+      "negative": 0,
+      "covers": 708100,
+      "attempts": 904291,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 626,
+      "leaves": 9362,
+      "verified": 9362,
+      "negative": 0,
+      "covers": 519841,
+      "attempts": 734279,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 627,
+      "leaves": 3160,
+      "verified": 3160,
+      "negative": 0,
+      "covers": 268656,
+      "attempts": 429591,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 628,
+      "leaves": 1037,
+      "verified": 1037,
+      "negative": 0,
+      "covers": 51050,
+      "attempts": 166324,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 629,
+      "leaves": 487,
+      "verified": 487,
+      "negative": 0,
+      "covers": 90999,
+      "attempts": 204153,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 630,
+      "leaves": 2542,
+      "verified": 2542,
+      "negative": 0,
+      "covers": 303833,
+      "attempts": 466336,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 631,
+      "leaves": 549,
+      "verified": 549,
+      "negative": 0,
+      "covers": 46294,
+      "attempts": 161396,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 632,
+      "leaves": 656,
+      "verified": 656,
+      "negative": 0,
+      "covers": 64959,
+      "attempts": 184636,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 633,
+      "leaves": 1047,
+      "verified": 1047,
+      "negative": 0,
+      "covers": 254260,
+      "attempts": 403065,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 634,
+      "leaves": 800,
+      "verified": 800,
+      "negative": 0,
+      "covers": 225613,
+      "attempts": 358958,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 635,
+      "leaves": 1373,
+      "verified": 1373,
+      "negative": 0,
+      "covers": 691754,
+      "attempts": 906944,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 636,
+      "leaves": 834,
+      "verified": 834,
+      "negative": 0,
+      "covers": 356205,
+      "attempts": 502100,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 637,
+      "leaves": 2744,
+      "verified": 2744,
+      "negative": 0,
+      "covers": 95936,
+      "attempts": 231853,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 638,
+      "leaves": 14,
+      "verified": 14,
+      "negative": 0,
+      "covers": 14952,
+      "attempts": 115623,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 639,
+      "leaves": 368,
+      "verified": 368,
+      "negative": 0,
+      "covers": 46888,
+      "attempts": 154243,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 640,
+      "leaves": 1242,
+      "verified": 1242,
+      "negative": 0,
+      "covers": 52120,
+      "attempts": 172632,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 641,
+      "leaves": 3883,
+      "verified": 3883,
+      "negative": 0,
+      "covers": 128538,
+      "attempts": 281079,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 642,
+      "leaves": 780,
+      "verified": 780,
+      "negative": 0,
+      "covers": 58445,
+      "attempts": 171104,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 643,
+      "leaves": 8964,
+      "verified": 8964,
+      "negative": 0,
+      "covers": 303479,
+      "attempts": 508947,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 644,
+      "leaves": 6934,
+      "verified": 6934,
+      "negative": 0,
+      "covers": 251785,
+      "attempts": 439952,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 645,
+      "leaves": 21001,
+      "verified": 21001,
+      "negative": 0,
+      "covers": 436802,
+      "attempts": 724499,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 646,
+      "leaves": 1869,
+      "verified": 1869,
+      "negative": 0,
+      "covers": 52249,
+      "attempts": 180676,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 647,
+      "leaves": 1956,
+      "verified": 1956,
+      "negative": 0,
+      "covers": 75537,
+      "attempts": 210290,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 648,
+      "leaves": 327,
+      "verified": 327,
+      "negative": 0,
+      "covers": 106095,
+      "attempts": 219680,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 649,
+      "leaves": 698,
+      "verified": 698,
+      "negative": 0,
+      "covers": 53791,
+      "attempts": 171304,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 650,
+      "leaves": 2511,
+      "verified": 2511,
+      "negative": 0,
+      "covers": 97335,
+      "attempts": 241310,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 651,
+      "leaves": 7509,
+      "verified": 7509,
+      "negative": 0,
+      "covers": 238395,
+      "attempts": 443864,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 652,
+      "leaves": 1351,
+      "verified": 1351,
+      "negative": 0,
+      "covers": 53397,
+      "attempts": 176851,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 653,
+      "leaves": 343,
+      "verified": 343,
+      "negative": 0,
+      "covers": 80078,
+      "attempts": 191695,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 654,
+      "leaves": 352,
+      "verified": 352,
+      "negative": 0,
+      "covers": 88278,
+      "attempts": 201298,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 655,
+      "leaves": 323,
+      "verified": 323,
+      "negative": 0,
+      "covers": 95825,
+      "attempts": 208603,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 656,
+      "leaves": 1004,
+      "verified": 1004,
+      "negative": 0,
+      "covers": 276524,
+      "attempts": 414909,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 657,
+      "leaves": 1730,
+      "verified": 1730,
+      "negative": 0,
+      "covers": 93290,
+      "attempts": 215230,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 658,
+      "leaves": 2041,
+      "verified": 2041,
+      "negative": 0,
+      "covers": 171989,
+      "attempts": 312955,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 659,
+      "leaves": 4742,
+      "verified": 4742,
+      "negative": 0,
+      "covers": 303717,
+      "attempts": 475054,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 660,
+      "leaves": 2491,
+      "verified": 2491,
+      "negative": 0,
+      "covers": 198659,
+      "attempts": 349750,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 661,
+      "leaves": 1482,
+      "verified": 1482,
+      "negative": 0,
+      "covers": 212146,
+      "attempts": 365644,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 662,
+      "leaves": 2275,
+      "verified": 2275,
+      "negative": 0,
+      "covers": 297821,
+      "attempts": 454902,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 663,
+      "leaves": 96,
+      "verified": 96,
+      "negative": 0,
+      "covers": 43688,
+      "attempts": 148561,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 664,
+      "leaves": 7567,
+      "verified": 7567,
+      "negative": 0,
+      "covers": 350421,
+      "attempts": 543886,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 665,
+      "leaves": 10047,
+      "verified": 10047,
+      "negative": 0,
+      "covers": 465018,
+      "attempts": 690042,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 666,
+      "leaves": 163,
+      "verified": 163,
+      "negative": 0,
+      "covers": 97451,
+      "attempts": 215084,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 667,
+      "leaves": 1694,
+      "verified": 1694,
+      "negative": 0,
+      "covers": 177002,
+      "attempts": 308312,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 668,
+      "leaves": 2296,
+      "verified": 2296,
+      "negative": 0,
+      "covers": 202210,
+      "attempts": 342264,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 669,
+      "leaves": 56,
+      "verified": 56,
+      "negative": 0,
+      "covers": 103208,
+      "attempts": 211163,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 670,
+      "leaves": 405,
+      "verified": 405,
+      "negative": 0,
+      "covers": 95809,
+      "attempts": 212319,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 671,
+      "leaves": 786,
+      "verified": 786,
+      "negative": 0,
+      "covers": 133199,
+      "attempts": 263160,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 672,
+      "leaves": 640,
+      "verified": 640,
+      "negative": 0,
+      "covers": 171584,
+      "attempts": 299674,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 673,
+      "leaves": 837,
+      "verified": 837,
+      "negative": 0,
+      "covers": 204302,
+      "attempts": 339264,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 674,
+      "leaves": 6610,
+      "verified": 6610,
+      "negative": 0,
+      "covers": 704049,
+      "attempts": 962183,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 675,
+      "leaves": 3644,
+      "verified": 3644,
+      "negative": 0,
+      "covers": 479688,
+      "attempts": 681555,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 676,
+      "leaves": 1264,
+      "verified": 1264,
+      "negative": 0,
+      "covers": 209230,
+      "attempts": 339185,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 677,
+      "leaves": 80,
+      "verified": 80,
+      "negative": 0,
+      "covers": 151669,
+      "attempts": 269696,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 678,
+      "leaves": 586,
+      "verified": 586,
+      "negative": 0,
+      "covers": 281893,
+      "attempts": 421582,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 679,
+      "leaves": 287,
+      "verified": 287,
+      "negative": 0,
+      "covers": 302533,
+      "attempts": 445276,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 680,
+      "leaves": 214,
+      "verified": 214,
+      "negative": 0,
+      "covers": 91018,
+      "attempts": 203499,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 681,
+      "leaves": 1528,
+      "verified": 1528,
+      "negative": 0,
+      "covers": 102631,
+      "attempts": 236301,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 682,
+      "leaves": 1298,
+      "verified": 1298,
+      "negative": 0,
+      "covers": 116487,
+      "attempts": 247354,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 683,
+      "leaves": 3259,
+      "verified": 3259,
+      "negative": 0,
+      "covers": 57051,
+      "attempts": 201133,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 684,
+      "leaves": 7685,
+      "verified": 7685,
+      "negative": 0,
+      "covers": 127193,
+      "attempts": 325001,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 685,
+      "leaves": 1379,
+      "verified": 1379,
+      "negative": 0,
+      "covers": 91402,
+      "attempts": 226050,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 686,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 22689,
+      "attempts": 124223,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 687,
+      "leaves": 579,
+      "verified": 579,
+      "negative": 0,
+      "covers": 125894,
+      "attempts": 247354,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 688,
+      "leaves": 539,
+      "verified": 539,
+      "negative": 0,
+      "covers": 108790,
+      "attempts": 226860,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 689,
+      "leaves": 1676,
+      "verified": 1676,
+      "negative": 0,
+      "covers": 180859,
+      "attempts": 322867,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 690,
+      "leaves": 3600,
+      "verified": 3600,
+      "negative": 0,
+      "covers": 296568,
+      "attempts": 464529,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 691,
+      "leaves": 726,
+      "verified": 726,
+      "negative": 0,
+      "covers": 256161,
+      "attempts": 397432,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 692,
+      "leaves": 543,
+      "verified": 543,
+      "negative": 0,
+      "covers": 122899,
+      "attempts": 250124,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 693,
+      "leaves": 865,
+      "verified": 865,
+      "negative": 0,
+      "covers": 61043,
+      "attempts": 194483,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 694,
+      "leaves": 585,
+      "verified": 585,
+      "negative": 0,
+      "covers": 75828,
+      "attempts": 227259,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 695,
+      "leaves": 388,
+      "verified": 388,
+      "negative": 0,
+      "covers": 38664,
+      "attempts": 144915,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 696,
+      "leaves": 1471,
+      "verified": 1471,
+      "negative": 0,
+      "covers": 140206,
+      "attempts": 272307,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 697,
+      "leaves": 46,
+      "verified": 46,
+      "negative": 0,
+      "covers": 9878,
+      "attempts": 110551,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 698,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 7111,
+      "attempts": 106501,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 699,
+      "leaves": 99,
+      "verified": 99,
+      "negative": 0,
+      "covers": 34157,
+      "attempts": 139384,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 700,
+      "leaves": 110,
+      "verified": 110,
+      "negative": 0,
+      "covers": 52311,
+      "attempts": 159188,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 701,
+      "leaves": 244,
+      "verified": 244,
+      "negative": 0,
+      "covers": 49453,
+      "attempts": 160858,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 702,
+      "leaves": 1287,
+      "verified": 1287,
+      "negative": 0,
+      "covers": 94114,
+      "attempts": 217706,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 703,
+      "leaves": 1136,
+      "verified": 1136,
+      "negative": 0,
+      "covers": 58930,
+      "attempts": 180606,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 704,
+      "leaves": 3662,
+      "verified": 3662,
+      "negative": 0,
+      "covers": 283467,
+      "attempts": 455180,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 705,
+      "leaves": 12157,
+      "verified": 12157,
+      "negative": 0,
+      "covers": 379697,
+      "attempts": 633348,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 706,
+      "leaves": 3310,
+      "verified": 3310,
+      "negative": 0,
+      "covers": 88985,
+      "attempts": 248814,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 707,
+      "leaves": 662,
+      "verified": 662,
+      "negative": 0,
+      "covers": 61939,
+      "attempts": 180722,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 708,
+      "leaves": 1535,
+      "verified": 1535,
+      "negative": 0,
+      "covers": 82161,
+      "attempts": 220022,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 709,
+      "leaves": 1238,
+      "verified": 1238,
+      "negative": 0,
+      "covers": 150203,
+      "attempts": 282690,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 710,
+      "leaves": 6184,
+      "verified": 6184,
+      "negative": 0,
+      "covers": 324659,
+      "attempts": 558996,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 711,
+      "leaves": 9303,
+      "verified": 9303,
+      "negative": 0,
+      "covers": 442413,
+      "attempts": 734808,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 712,
+      "leaves": 1099,
+      "verified": 1099,
+      "negative": 0,
+      "covers": 217027,
+      "attempts": 364188,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 713,
+      "leaves": 5920,
+      "verified": 5920,
+      "negative": 0,
+      "covers": 421044,
+      "attempts": 657533,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 714,
+      "leaves": 9592,
+      "verified": 9592,
+      "negative": 0,
+      "covers": 326058,
+      "attempts": 696650,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 715,
+      "leaves": 3289,
+      "verified": 3289,
+      "negative": 0,
+      "covers": 169762,
+      "attempts": 412890,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 716,
+      "leaves": 55,
+      "verified": 55,
+      "negative": 0,
+      "covers": 46017,
+      "attempts": 152924,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 717,
+      "leaves": 448,
+      "verified": 448,
+      "negative": 0,
+      "covers": 112090,
+      "attempts": 240198,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 718,
+      "leaves": 283,
+      "verified": 283,
+      "negative": 0,
+      "covers": 68746,
+      "attempts": 186329,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 719,
+      "leaves": 2628,
+      "verified": 2628,
+      "negative": 0,
+      "covers": 224681,
+      "attempts": 378815,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 720,
+      "leaves": 1875,
+      "verified": 1875,
+      "negative": 0,
+      "covers": 143270,
+      "attempts": 304567,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 721,
+      "leaves": 7319,
+      "verified": 7319,
+      "negative": 0,
+      "covers": 380940,
+      "attempts": 582599,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 722,
+      "leaves": 4901,
+      "verified": 4894,
+      "negative": 7,
+      "covers": 201546,
+      "attempts": 460723,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 723,
+      "leaves": 3183,
+      "verified": 3183,
+      "negative": 0,
+      "covers": 247316,
+      "attempts": 517601,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 724,
+      "leaves": 5619,
+      "verified": 5619,
+      "negative": 0,
+      "covers": 462510,
+      "attempts": 685771,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 725,
+      "leaves": 1734,
+      "verified": 1734,
+      "negative": 0,
+      "covers": 334120,
+      "attempts": 525027,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 726,
+      "leaves": 11606,
+      "verified": 11606,
+      "negative": 0,
+      "covers": 982682,
+      "attempts": 1521703,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 727,
+      "leaves": 3449,
+      "verified": 3449,
+      "negative": 0,
+      "covers": 427251,
+      "attempts": 724267,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 728,
+      "leaves": 1809,
+      "verified": 1809,
+      "negative": 0,
+      "covers": 479658,
+      "attempts": 675586,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 729,
+      "leaves": 13182,
+      "verified": 13182,
+      "negative": 0,
+      "covers": 1271524,
+      "attempts": 1710570,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 730,
+      "leaves": 16846,
+      "verified": 16843,
+      "negative": 3,
+      "covers": 1658631,
+      "attempts": 2319481,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 731,
+      "leaves": 10857,
+      "verified": 10857,
+      "negative": 0,
+      "covers": 911230,
+      "attempts": 1467038,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 732,
+      "leaves": 5056,
+      "verified": 5056,
+      "negative": 0,
+      "covers": 497131,
+      "attempts": 745856,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 733,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 26728,
+      "attempts": 127919,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 734,
+      "leaves": 188,
+      "verified": 188,
+      "negative": 0,
+      "covers": 134552,
+      "attempts": 250491,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 735,
+      "leaves": 64,
+      "verified": 64,
+      "negative": 0,
+      "covers": 80364,
+      "attempts": 191121,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 736,
+      "leaves": 643,
+      "verified": 643,
+      "negative": 0,
+      "covers": 68973,
+      "attempts": 183586,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 737,
+      "leaves": 91,
+      "verified": 91,
+      "negative": 0,
+      "covers": 52466,
+      "attempts": 158455,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 738,
+      "leaves": 430,
+      "verified": 430,
+      "negative": 0,
+      "covers": 166341,
+      "attempts": 292049,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 739,
+      "leaves": 1876,
+      "verified": 1876,
+      "negative": 0,
+      "covers": 307826,
+      "attempts": 467918,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 740,
+      "leaves": 2899,
+      "verified": 2899,
+      "negative": 0,
+      "covers": 372205,
+      "attempts": 550661,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 741,
+      "leaves": 150,
+      "verified": 150,
+      "negative": 0,
+      "covers": 69366,
+      "attempts": 181361,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 742,
+      "leaves": 2993,
+      "verified": 2993,
+      "negative": 0,
+      "covers": 324155,
+      "attempts": 495958,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 743,
+      "leaves": 1011,
+      "verified": 1011,
+      "negative": 0,
+      "covers": 218473,
+      "attempts": 373154,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 744,
+      "leaves": 1944,
+      "verified": 1944,
+      "negative": 0,
+      "covers": 215890,
+      "attempts": 368940,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 745,
+      "leaves": 90,
+      "verified": 90,
+      "negative": 0,
+      "covers": 91666,
+      "attempts": 212417,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 746,
+      "leaves": 24,
+      "verified": 24,
+      "negative": 0,
+      "covers": 98280,
+      "attempts": 253722,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 747,
+      "leaves": 7,
+      "verified": 7,
+      "negative": 0,
+      "covers": 49062,
+      "attempts": 168921,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 748,
+      "leaves": 621,
+      "verified": 621,
+      "negative": 0,
+      "covers": 64164,
+      "attempts": 175630,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 749,
+      "leaves": 971,
+      "verified": 971,
+      "negative": 0,
+      "covers": 159513,
+      "attempts": 290312,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 750,
+      "leaves": 6023,
+      "verified": 6023,
+      "negative": 0,
+      "covers": 273919,
+      "attempts": 451956,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 751,
+      "leaves": 411,
+      "verified": 411,
+      "negative": 0,
+      "covers": 35628,
+      "attempts": 148430,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 752,
+      "leaves": 684,
+      "verified": 684,
+      "negative": 0,
+      "covers": 86668,
+      "attempts": 211134,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 753,
+      "leaves": 935,
+      "verified": 935,
+      "negative": 0,
+      "covers": 69018,
+      "attempts": 187933,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 754,
+      "leaves": 3347,
+      "verified": 3347,
+      "negative": 0,
+      "covers": 174802,
+      "attempts": 330949,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 755,
+      "leaves": 587,
+      "verified": 587,
+      "negative": 0,
+      "covers": 109455,
+      "attempts": 253076,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 756,
+      "leaves": 243,
+      "verified": 243,
+      "negative": 0,
+      "covers": 125445,
+      "attempts": 262517,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 757,
+      "leaves": 2511,
+      "verified": 2511,
+      "negative": 0,
+      "covers": 148992,
+      "attempts": 287076,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 758,
+      "leaves": 321,
+      "verified": 321,
+      "negative": 0,
+      "covers": 124212,
+      "attempts": 267760,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 759,
+      "leaves": 868,
+      "verified": 868,
+      "negative": 0,
+      "covers": 134785,
+      "attempts": 282732,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 760,
+      "leaves": 7683,
+      "verified": 7683,
+      "negative": 0,
+      "covers": 325297,
+      "attempts": 514844,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 761,
+      "leaves": 2020,
+      "verified": 2020,
+      "negative": 0,
+      "covers": 228434,
+      "attempts": 398365,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 762,
+      "leaves": 6610,
+      "verified": 6610,
+      "negative": 0,
+      "covers": 465600,
+      "attempts": 732139,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 763,
+      "leaves": 485,
+      "verified": 485,
+      "negative": 0,
+      "covers": 167822,
+      "attempts": 328166,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 764,
+      "leaves": 370,
+      "verified": 370,
+      "negative": 0,
+      "covers": 114267,
+      "attempts": 294983,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 765,
+      "leaves": 2166,
+      "verified": 2166,
+      "negative": 0,
+      "covers": 294133,
+      "attempts": 569078,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 766,
+      "leaves": 556,
+      "verified": 556,
+      "negative": 0,
+      "covers": 185780,
+      "attempts": 342814,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 767,
+      "leaves": 3184,
+      "verified": 3184,
+      "negative": 0,
+      "covers": 461686,
+      "attempts": 693183,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 768,
+      "leaves": 14885,
+      "verified": 14885,
+      "negative": 0,
+      "covers": 648687,
+      "attempts": 960531,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 769,
+      "leaves": 5758,
+      "verified": 5758,
+      "negative": 0,
+      "covers": 388461,
+      "attempts": 595444,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 770,
+      "leaves": 22619,
+      "verified": 22619,
+      "negative": 0,
+      "covers": 904517,
+      "attempts": 1367648,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 771,
+      "leaves": 322,
+      "verified": 322,
+      "negative": 0,
+      "covers": 171487,
+      "attempts": 338143,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 772,
+      "leaves": 895,
+      "verified": 890,
+      "negative": 5,
+      "covers": 276732,
+      "attempts": 466620,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 773,
+      "leaves": 7490,
+      "verified": 7489,
+      "negative": 1,
+      "covers": 868099,
+      "attempts": 1284164,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 774,
+      "leaves": 3515,
+      "verified": 3515,
+      "negative": 0,
+      "covers": 433322,
+      "attempts": 704921,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 775,
+      "leaves": 7936,
+      "verified": 7936,
+      "negative": 0,
+      "covers": 536203,
+      "attempts": 816448,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 776,
+      "leaves": 23,
+      "verified": 23,
+      "negative": 0,
+      "covers": 209058,
+      "attempts": 422405,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 777,
+      "leaves": 2580,
+      "verified": 2580,
+      "negative": 0,
+      "covers": 586840,
+      "attempts": 837652,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 778,
+      "leaves": 11124,
+      "verified": 11124,
+      "negative": 0,
+      "covers": 624117,
+      "attempts": 899569,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 779,
+      "leaves": 66727,
+      "verified": 66727,
+      "negative": 0,
+      "covers": 1531408,
+      "attempts": 2267586,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 780,
+      "leaves": 10098,
+      "verified": 10098,
+      "negative": 0,
+      "covers": 606942,
+      "attempts": 860534,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 781,
+      "leaves": 23482,
+      "verified": 23482,
+      "negative": 0,
+      "covers": 691628,
+      "attempts": 1032963,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 782,
+      "leaves": 981,
+      "verified": 981,
+      "negative": 0,
+      "covers": 176123,
+      "attempts": 310670,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 783,
+      "leaves": 963,
+      "verified": 963,
+      "negative": 0,
+      "covers": 157566,
+      "attempts": 290954,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 784,
+      "leaves": 966,
+      "verified": 966,
+      "negative": 0,
+      "covers": 120988,
+      "attempts": 245122,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 785,
+      "leaves": 1300,
+      "verified": 1300,
+      "negative": 0,
+      "covers": 134002,
+      "attempts": 260128,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 786,
+      "leaves": 1531,
+      "verified": 1531,
+      "negative": 0,
+      "covers": 238520,
+      "attempts": 376702,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 787,
+      "leaves": 2671,
+      "verified": 2671,
+      "negative": 0,
+      "covers": 235893,
+      "attempts": 388041,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 788,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 13761,
+      "attempts": 113535,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 789,
+      "leaves": 6,
+      "verified": 6,
+      "negative": 0,
+      "covers": 86838,
+      "attempts": 192862,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 790,
+      "leaves": 111,
+      "verified": 111,
+      "negative": 0,
+      "covers": 75500,
+      "attempts": 184387,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 791,
+      "leaves": 2355,
+      "verified": 2355,
+      "negative": 0,
+      "covers": 95806,
+      "attempts": 225627,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 792,
+      "leaves": 4462,
+      "verified": 4462,
+      "negative": 0,
+      "covers": 166963,
+      "attempts": 323200,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 793,
+      "leaves": 10446,
+      "verified": 10446,
+      "negative": 0,
+      "covers": 363814,
+      "attempts": 586152,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 794,
+      "leaves": 587,
+      "verified": 587,
+      "negative": 0,
+      "covers": 55362,
+      "attempts": 175847,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 795,
+      "leaves": 2344,
+      "verified": 2344,
+      "negative": 0,
+      "covers": 203386,
+      "attempts": 345493,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 796,
+      "leaves": 4427,
+      "verified": 4427,
+      "negative": 0,
+      "covers": 237178,
+      "attempts": 412871,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 797,
+      "leaves": 700,
+      "verified": 700,
+      "negative": 0,
+      "covers": 77831,
+      "attempts": 203088,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 798,
+      "leaves": 2958,
+      "verified": 2958,
+      "negative": 0,
+      "covers": 168615,
+      "attempts": 318782,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 799,
+      "leaves": 12088,
+      "verified": 12088,
+      "negative": 0,
+      "covers": 485594,
+      "attempts": 757668,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 800,
+      "leaves": 880,
+      "verified": 880,
+      "negative": 0,
+      "covers": 128319,
+      "attempts": 265958,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 801,
+      "leaves": 8950,
+      "verified": 8950,
+      "negative": 0,
+      "covers": 382087,
+      "attempts": 595557,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 802,
+      "leaves": 7277,
+      "verified": 7277,
+      "negative": 0,
+      "covers": 240331,
+      "attempts": 425302,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 803,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 32497,
+      "attempts": 134025,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 804,
+      "leaves": 453,
+      "verified": 453,
+      "negative": 0,
+      "covers": 73032,
+      "attempts": 186990,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 805,
+      "leaves": 165,
+      "verified": 165,
+      "negative": 0,
+      "covers": 19520,
+      "attempts": 122031,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 806,
+      "leaves": 137,
+      "verified": 137,
+      "negative": 0,
+      "covers": 10175,
+      "attempts": 113113,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 807,
+      "leaves": 500,
+      "verified": 500,
+      "negative": 0,
+      "covers": 23680,
+      "attempts": 137052,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 808,
+      "leaves": 1598,
+      "verified": 1598,
+      "negative": 0,
+      "covers": 67386,
+      "attempts": 213008,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 809,
+      "leaves": 14,
+      "verified": 14,
+      "negative": 0,
+      "covers": 12926,
+      "attempts": 114477,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 810,
+      "leaves": 510,
+      "verified": 510,
+      "negative": 0,
+      "covers": 40314,
+      "attempts": 152808,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 811,
+      "leaves": 226,
+      "verified": 226,
+      "negative": 0,
+      "covers": 61626,
+      "attempts": 173817,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 812,
+      "leaves": 2341,
+      "verified": 2341,
+      "negative": 0,
+      "covers": 144440,
+      "attempts": 292450,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 813,
+      "leaves": 3834,
+      "verified": 3832,
+      "negative": 2,
+      "covers": 122104,
+      "attempts": 317537,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 814,
+      "leaves": 230,
+      "verified": 230,
+      "negative": 0,
+      "covers": 29723,
+      "attempts": 143527,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 815,
+      "leaves": 3434,
+      "verified": 3433,
+      "negative": 1,
+      "covers": 130186,
+      "attempts": 325787,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 816,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 14729,
+      "attempts": 115103,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 817,
+      "leaves": 186,
+      "verified": 186,
+      "negative": 0,
+      "covers": 61890,
+      "attempts": 180194,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 818,
+      "leaves": 686,
+      "verified": 686,
+      "negative": 0,
+      "covers": 34503,
+      "attempts": 154514,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 819,
+      "leaves": 157,
+      "verified": 157,
+      "negative": 0,
+      "covers": 23867,
+      "attempts": 129888,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 820,
+      "leaves": 1310,
+      "verified": 1310,
+      "negative": 0,
+      "covers": 62079,
+      "attempts": 203388,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 821,
+      "leaves": 1644,
+      "verified": 1644,
+      "negative": 0,
+      "covers": 103030,
+      "attempts": 266391,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 822,
+      "leaves": 4297,
+      "verified": 4274,
+      "negative": 23,
+      "covers": 269527,
+      "attempts": 560769,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 823,
+      "leaves": 330,
+      "verified": 326,
+      "negative": 4,
+      "covers": 110664,
+      "attempts": 240897,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 824,
+      "leaves": 1333,
+      "verified": 1327,
+      "negative": 6,
+      "covers": 138745,
+      "attempts": 308995,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 825,
+      "leaves": 120,
+      "verified": 120,
+      "negative": 0,
+      "covers": 66024,
+      "attempts": 177360,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 826,
+      "leaves": 523,
+      "verified": 523,
+      "negative": 0,
+      "covers": 149440,
+      "attempts": 285498,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 827,
+      "leaves": 1443,
+      "verified": 1443,
+      "negative": 0,
+      "covers": 107279,
+      "attempts": 274776,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 828,
+      "leaves": 3255,
+      "verified": 3255,
+      "negative": 0,
+      "covers": 276559,
+      "attempts": 445661,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 829,
+      "leaves": 87,
+      "verified": 87,
+      "negative": 0,
+      "covers": 36086,
+      "attempts": 153587,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 830,
+      "leaves": 1015,
+      "verified": 1015,
+      "negative": 0,
+      "covers": 60661,
+      "attempts": 183056,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 831,
+      "leaves": 2708,
+      "verified": 2695,
+      "negative": 13,
+      "covers": 200216,
+      "attempts": 435421,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 832,
+      "leaves": 9828,
+      "verified": 9826,
+      "negative": 2,
+      "covers": 447307,
+      "attempts": 704130,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 833,
+      "leaves": 1133,
+      "verified": 1133,
+      "negative": 0,
+      "covers": 284088,
+      "attempts": 439357,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 834,
+      "leaves": 23821,
+      "verified": 23821,
+      "negative": 0,
+      "covers": 1006718,
+      "attempts": 1438558,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 835,
+      "leaves": 427,
+      "verified": 427,
+      "negative": 0,
+      "covers": 115462,
+      "attempts": 265624,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 836,
+      "leaves": 377,
+      "verified": 377,
+      "negative": 0,
+      "covers": 64615,
+      "attempts": 197485,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 837,
+      "leaves": 3558,
+      "verified": 3558,
+      "negative": 0,
+      "covers": 335003,
+      "attempts": 640725,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 838,
+      "leaves": 3494,
+      "verified": 3494,
+      "negative": 0,
+      "covers": 355846,
+      "attempts": 541776,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 839,
+      "leaves": 269,
+      "verified": 269,
+      "negative": 0,
+      "covers": 190349,
+      "attempts": 329236,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 840,
+      "leaves": 4945,
+      "verified": 4945,
+      "negative": 0,
+      "covers": 545954,
+      "attempts": 771502,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 841,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 27671,
+      "attempts": 130256,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 842,
+      "leaves": 544,
+      "verified": 544,
+      "negative": 0,
+      "covers": 136876,
+      "attempts": 288294,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 843,
+      "leaves": 318,
+      "verified": 318,
+      "negative": 0,
+      "covers": 225507,
+      "attempts": 390349,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 844,
+      "leaves": 3471,
+      "verified": 3471,
+      "negative": 0,
+      "covers": 190517,
+      "attempts": 340223,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 845,
+      "leaves": 12681,
+      "verified": 12680,
+      "negative": 1,
+      "covers": 770797,
+      "attempts": 1083574,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 846,
+      "leaves": 18600,
+      "verified": 18587,
+      "negative": 13,
+      "covers": 831491,
+      "attempts": 1320657,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 847,
+      "leaves": 333,
+      "verified": 329,
+      "negative": 4,
+      "covers": 129103,
+      "attempts": 280594,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 848,
+      "leaves": 38,
+      "verified": 38,
+      "negative": 0,
+      "covers": 123643,
+      "attempts": 278121,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 849,
+      "leaves": 461,
+      "verified": 460,
+      "negative": 1,
+      "covers": 233682,
+      "attempts": 373798,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 850,
+      "leaves": 59,
+      "verified": 59,
+      "negative": 0,
+      "covers": 107168,
+      "attempts": 221628,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 851,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 4962,
+      "attempts": 104655,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 852,
+      "leaves": 9,
+      "verified": 9,
+      "negative": 0,
+      "covers": 11342,
+      "attempts": 112901,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 853,
+      "leaves": 5,
+      "verified": 5,
+      "negative": 0,
+      "covers": 14867,
+      "attempts": 116927,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 854,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 15428,
+      "attempts": 117032,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 855,
+      "leaves": 64,
+      "verified": 64,
+      "negative": 0,
+      "covers": 37656,
+      "attempts": 146177,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 856,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 23730,
+      "attempts": 127657,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 857,
+      "leaves": 103,
+      "verified": 103,
+      "negative": 0,
+      "covers": 28304,
+      "attempts": 139611,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 858,
+      "leaves": 796,
+      "verified": 790,
+      "negative": 6,
+      "covers": 69349,
+      "attempts": 220258,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 859,
+      "leaves": 167,
+      "verified": 167,
+      "negative": 0,
+      "covers": 62144,
+      "attempts": 185807,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 860,
+      "leaves": 311,
+      "verified": 308,
+      "negative": 3,
+      "covers": 44450,
+      "attempts": 158377,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 861,
+      "leaves": 188,
+      "verified": 171,
+      "negative": 17,
+      "covers": 28669,
+      "attempts": 144886,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 862,
+      "leaves": 630,
+      "verified": 600,
+      "negative": 30,
+      "covers": 75914,
+      "attempts": 238866,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 863,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 10322,
+      "attempts": 110653,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 864,
+      "leaves": 70,
+      "verified": 70,
+      "negative": 0,
+      "covers": 20223,
+      "attempts": 121737,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 865,
+      "leaves": 336,
+      "verified": 336,
+      "negative": 0,
+      "covers": 52580,
+      "attempts": 160657,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 866,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 15845,
+      "attempts": 116381,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 867,
+      "leaves": 973,
+      "verified": 973,
+      "negative": 0,
+      "covers": 112324,
+      "attempts": 238379,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 868,
+      "leaves": 1253,
+      "verified": 1253,
+      "negative": 0,
+      "covers": 63697,
+      "attempts": 183592,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 869,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 7194,
+      "attempts": 107229,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 870,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 21948,
+      "attempts": 124111,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 871,
+      "leaves": 20,
+      "verified": 20,
+      "negative": 0,
+      "covers": 48427,
+      "attempts": 156616,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 872,
+      "leaves": 16,
+      "verified": 16,
+      "negative": 0,
+      "covers": 15054,
+      "attempts": 119591,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 873,
+      "leaves": 24,
+      "verified": 24,
+      "negative": 0,
+      "covers": 48422,
+      "attempts": 157815,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 874,
+      "leaves": 333,
+      "verified": 333,
+      "negative": 0,
+      "covers": 124964,
+      "attempts": 270675,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 875,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 110689,
+      "attempts": 244146,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 876,
+      "leaves": 336,
+      "verified": 335,
+      "negative": 1,
+      "covers": 63941,
+      "attempts": 202918,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 877,
+      "leaves": 58,
+      "verified": 58,
+      "negative": 0,
+      "covers": 32926,
+      "attempts": 147892,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 878,
+      "leaves": 221,
+      "verified": 221,
+      "negative": 0,
+      "covers": 72310,
+      "attempts": 205301,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 879,
+      "leaves": 304,
+      "verified": 303,
+      "negative": 1,
+      "covers": 107979,
+      "attempts": 245674,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 880,
+      "leaves": 437,
+      "verified": 436,
+      "negative": 1,
+      "covers": 103961,
+      "attempts": 270510,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 881,
+      "leaves": 619,
+      "verified": 617,
+      "negative": 2,
+      "covers": 199757,
+      "attempts": 435508,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 882,
+      "leaves": 29,
+      "verified": 29,
+      "negative": 0,
+      "covers": 35321,
+      "attempts": 152338,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 883,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 34341,
+      "attempts": 138405,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 884,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 12853,
+      "attempts": 113132,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 885,
+      "leaves": 11,
+      "verified": 11,
+      "negative": 0,
+      "covers": 40538,
+      "attempts": 151229,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 886,
+      "leaves": 13,
+      "verified": 13,
+      "negative": 0,
+      "covers": 56511,
+      "attempts": 164079,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 887,
+      "leaves": 17,
+      "verified": 17,
+      "negative": 0,
+      "covers": 70987,
+      "attempts": 192253,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 888,
+      "leaves": 6,
+      "verified": 6,
+      "negative": 0,
+      "covers": 27393,
+      "attempts": 132821,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 889,
+      "leaves": 120,
+      "verified": 120,
+      "negative": 0,
+      "covers": 142229,
+      "attempts": 292105,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 890,
+      "leaves": 73,
+      "verified": 73,
+      "negative": 0,
+      "covers": 137909,
+      "attempts": 280547,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 891,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 64863,
+      "attempts": 174069,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 892,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 12435,
+      "attempts": 114619,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 893,
+      "leaves": 98,
+      "verified": 97,
+      "negative": 1,
+      "covers": 50213,
+      "attempts": 178478,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 894,
+      "leaves": 165,
+      "verified": 165,
+      "negative": 0,
+      "covers": 31485,
+      "attempts": 149585,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 895,
+      "leaves": 732,
+      "verified": 718,
+      "negative": 14,
+      "covers": 143717,
+      "attempts": 346446,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 896,
+      "leaves": 491,
+      "verified": 482,
+      "negative": 9,
+      "covers": 123885,
+      "attempts": 306748,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 897,
+      "leaves": 321,
+      "verified": 321,
+      "negative": 0,
+      "covers": 110025,
+      "attempts": 284397,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 898,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 16078,
+      "attempts": 117611,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 899,
+      "leaves": 15,
+      "verified": 15,
+      "negative": 0,
+      "covers": 88622,
+      "attempts": 209841,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 900,
+      "leaves": 442,
+      "verified": 441,
+      "negative": 1,
+      "covers": 112593,
+      "attempts": 293978,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 901,
+      "leaves": 174,
+      "verified": 173,
+      "negative": 1,
+      "covers": 63881,
+      "attempts": 204328,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 902,
+      "leaves": 372,
+      "verified": 360,
+      "negative": 12,
+      "covers": 119556,
+      "attempts": 313984,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 903,
+      "leaves": 660,
+      "verified": 660,
+      "negative": 0,
+      "covers": 139483,
+      "attempts": 291616,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 904,
+      "leaves": 902,
+      "verified": 891,
+      "negative": 11,
+      "covers": 293748,
+      "attempts": 635483,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 905,
+      "leaves": 155,
+      "verified": 149,
+      "negative": 6,
+      "covers": 189313,
+      "attempts": 434774,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 906,
+      "leaves": 13,
+      "verified": 13,
+      "negative": 0,
+      "covers": 86860,
+      "attempts": 196238,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 907,
+      "leaves": 69,
+      "verified": 69,
+      "negative": 0,
+      "covers": 81949,
+      "attempts": 199618,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 908,
+      "leaves": 69,
+      "verified": 68,
+      "negative": 1,
+      "covers": 154581,
+      "attempts": 279931,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 909,
+      "leaves": 648,
+      "verified": 648,
+      "negative": 0,
+      "covers": 322160,
+      "attempts": 474563,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 910,
+      "leaves": 12,
+      "verified": 12,
+      "negative": 0,
+      "covers": 49823,
+      "attempts": 171627,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 911,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 45229,
+      "attempts": 159117,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 912,
+      "leaves": 33,
+      "verified": 28,
+      "negative": 5,
+      "covers": 99040,
+      "attempts": 251516,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 913,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 26928,
+      "attempts": 134239,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 914,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 25908,
+      "attempts": 136245,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 915,
+      "leaves": 23,
+      "verified": 23,
+      "negative": 0,
+      "covers": 50613,
+      "attempts": 177457,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 916,
+      "leaves": 84,
+      "verified": 84,
+      "negative": 0,
+      "covers": 67100,
+      "attempts": 188865,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 917,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 43482,
+      "attempts": 154413,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 918,
+      "leaves": 10,
+      "verified": 10,
+      "negative": 0,
+      "covers": 99057,
+      "attempts": 241168,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 919,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 36037,
+      "attempts": 146977,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 920,
+      "leaves": 59,
+      "verified": 48,
+      "negative": 11,
+      "covers": 95582,
+      "attempts": 254619,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 921,
+      "leaves": 274,
+      "verified": 263,
+      "negative": 11,
+      "covers": 150918,
+      "attempts": 380429,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 922,
+      "leaves": 1342,
+      "verified": 1342,
+      "negative": 0,
+      "covers": 247531,
+      "attempts": 415306,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 923,
+      "leaves": 721,
+      "verified": 702,
+      "negative": 19,
+      "covers": 222869,
+      "attempts": 484262,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 924,
+      "leaves": 4038,
+      "verified": 4037,
+      "negative": 1,
+      "covers": 298314,
+      "attempts": 533078,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 925,
+      "leaves": 1,
+      "verified": 1,
+      "negative": 0,
+      "covers": 26550,
+      "attempts": 143889,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 926,
+      "leaves": 8,
+      "verified": 8,
+      "negative": 0,
+      "covers": 71450,
+      "attempts": 210337,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 927,
+      "leaves": 27,
+      "verified": 23,
+      "negative": 4,
+      "covers": 63379,
+      "attempts": 225023,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 928,
+      "leaves": 124,
+      "verified": 124,
+      "negative": 0,
+      "covers": 20172,
+      "attempts": 125670,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 929,
+      "leaves": 14,
+      "verified": 14,
+      "negative": 0,
+      "covers": 104843,
+      "attempts": 241092,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 930,
+      "leaves": 604,
+      "verified": 604,
+      "negative": 0,
+      "covers": 116966,
+      "attempts": 265717,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 931,
+      "leaves": 159,
+      "verified": 153,
+      "negative": 6,
+      "covers": 97650,
+      "attempts": 261247,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 932,
+      "leaves": 227,
+      "verified": 226,
+      "negative": 1,
+      "covers": 64107,
+      "attempts": 184627,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 933,
+      "leaves": 1818,
+      "verified": 1818,
+      "negative": 0,
+      "covers": 202313,
+      "attempts": 344319,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 934,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 29806,
+      "attempts": 137000,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 935,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 39119,
+      "attempts": 152126,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 936,
+      "leaves": 152,
+      "verified": 152,
+      "negative": 0,
+      "covers": 53547,
+      "attempts": 166620,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 937,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 39724,
+      "attempts": 153384,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 938,
+      "leaves": 148,
+      "verified": 148,
+      "negative": 0,
+      "covers": 75986,
+      "attempts": 187078,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 939,
+      "leaves": 624,
+      "verified": 624,
+      "negative": 0,
+      "covers": 227066,
+      "attempts": 368179,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 940,
+      "leaves": 1356,
+      "verified": 1356,
+      "negative": 0,
+      "covers": 122407,
+      "attempts": 257098,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 941,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 15147,
+      "attempts": 117552,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 942,
+      "leaves": 287,
+      "verified": 287,
+      "negative": 0,
+      "covers": 85711,
+      "attempts": 210302,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 943,
+      "leaves": 508,
+      "verified": 508,
+      "negative": 0,
+      "covers": 81749,
+      "attempts": 200770,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 944,
+      "leaves": 5168,
+      "verified": 5168,
+      "negative": 0,
+      "covers": 281043,
+      "attempts": 467981,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 945,
+      "leaves": 13,
+      "verified": 13,
+      "negative": 0,
+      "covers": 55427,
+      "attempts": 166547,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 946,
+      "leaves": 1525,
+      "verified": 1525,
+      "negative": 0,
+      "covers": 111397,
+      "attempts": 238950,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 947,
+      "leaves": 3595,
+      "verified": 3595,
+      "negative": 0,
+      "covers": 259179,
+      "attempts": 439542,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 948,
+      "leaves": 15364,
+      "verified": 15364,
+      "negative": 0,
+      "covers": 517504,
+      "attempts": 820824,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 949,
+      "leaves": 43,
+      "verified": 43,
+      "negative": 0,
+      "covers": 40749,
+      "attempts": 160585,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 950,
+      "leaves": 63,
+      "verified": 63,
+      "negative": 0,
+      "covers": 47640,
+      "attempts": 175110,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 951,
+      "leaves": 688,
+      "verified": 688,
+      "negative": 0,
+      "covers": 126734,
+      "attempts": 278476,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 952,
+      "leaves": 318,
+      "verified": 318,
+      "negative": 0,
+      "covers": 40541,
+      "attempts": 149692,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 953,
+      "leaves": 1939,
+      "verified": 1939,
+      "negative": 0,
+      "covers": 157356,
+      "attempts": 305973,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 954,
+      "leaves": 86,
+      "verified": 86,
+      "negative": 0,
+      "covers": 81632,
+      "attempts": 216916,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 955,
+      "leaves": 2212,
+      "verified": 2212,
+      "negative": 0,
+      "covers": 269525,
+      "attempts": 451237,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 956,
+      "leaves": 269,
+      "verified": 269,
+      "negative": 0,
+      "covers": 192858,
+      "attempts": 322182,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 957,
+      "leaves": 704,
+      "verified": 704,
+      "negative": 0,
+      "covers": 168736,
+      "attempts": 298256,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 958,
+      "leaves": 69,
+      "verified": 69,
+      "negative": 0,
+      "covers": 51080,
+      "attempts": 162442,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 959,
+      "leaves": 22,
+      "verified": 22,
+      "negative": 0,
+      "covers": 103536,
+      "attempts": 226223,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 960,
+      "leaves": 646,
+      "verified": 646,
+      "negative": 0,
+      "covers": 96030,
+      "attempts": 222250,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 961,
+      "leaves": 164,
+      "verified": 164,
+      "negative": 0,
+      "covers": 107051,
+      "attempts": 232377,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 962,
+      "leaves": 811,
+      "verified": 811,
+      "negative": 0,
+      "covers": 87891,
+      "attempts": 210220,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 963,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 69035,
+      "attempts": 190245,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 964,
+      "leaves": 1823,
+      "verified": 1823,
+      "negative": 0,
+      "covers": 181155,
+      "attempts": 323060,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 965,
+      "leaves": 4946,
+      "verified": 4946,
+      "negative": 0,
+      "covers": 336698,
+      "attempts": 527618,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 966,
+      "leaves": 548,
+      "verified": 548,
+      "negative": 0,
+      "covers": 128834,
+      "attempts": 261333,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 967,
+      "leaves": 3987,
+      "verified": 3987,
+      "negative": 0,
+      "covers": 294208,
+      "attempts": 466530,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 968,
+      "leaves": 5,
+      "verified": 5,
+      "negative": 0,
+      "covers": 105040,
+      "attempts": 221876,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 969,
+      "leaves": 3867,
+      "verified": 3867,
+      "negative": 0,
+      "covers": 343562,
+      "attempts": 524209,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 970,
+      "leaves": 13426,
+      "verified": 13426,
+      "negative": 0,
+      "covers": 629496,
+      "attempts": 913345,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 971,
+      "leaves": 131,
+      "verified": 131,
+      "negative": 0,
+      "covers": 120929,
+      "attempts": 237928,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 972,
+      "leaves": 6665,
+      "verified": 6665,
+      "negative": 0,
+      "covers": 848282,
+      "attempts": 1108093,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 973,
+      "leaves": 9303,
+      "verified": 9303,
+      "negative": 0,
+      "covers": 809420,
+      "attempts": 1098598,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 974,
+      "leaves": 115,
+      "verified": 115,
+      "negative": 0,
+      "covers": 86544,
+      "attempts": 210040,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 975,
+      "leaves": 3441,
+      "verified": 3441,
+      "negative": 0,
+      "covers": 254779,
+      "attempts": 428182,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 976,
+      "leaves": 3945,
+      "verified": 3945,
+      "negative": 0,
+      "covers": 110493,
+      "attempts": 258035,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 977,
+      "leaves": 411,
+      "verified": 411,
+      "negative": 0,
+      "covers": 83701,
+      "attempts": 213325,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 978,
+      "leaves": 42,
+      "verified": 42,
+      "negative": 0,
+      "covers": 50776,
+      "attempts": 161956,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 979,
+      "leaves": 69,
+      "verified": 69,
+      "negative": 0,
+      "covers": 98886,
+      "attempts": 212636,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 980,
+      "leaves": 1496,
+      "verified": 1496,
+      "negative": 0,
+      "covers": 309141,
+      "attempts": 482885,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 981,
+      "leaves": 4,
+      "verified": 4,
+      "negative": 0,
+      "covers": 54384,
+      "attempts": 164017,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 982,
+      "leaves": 14,
+      "verified": 14,
+      "negative": 0,
+      "covers": 161329,
+      "attempts": 285606,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 983,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 69364,
+      "attempts": 183644,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 984,
+      "leaves": 24,
+      "verified": 24,
+      "negative": 0,
+      "covers": 190188,
+      "attempts": 308815,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 985,
+      "leaves": 25,
+      "verified": 25,
+      "negative": 0,
+      "covers": 250298,
+      "attempts": 385299,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 986,
+      "leaves": 38,
+      "verified": 38,
+      "negative": 0,
+      "covers": 305354,
+      "attempts": 444569,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 987,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 286276,
+      "attempts": 429400,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 988,
+      "leaves": 6,
+      "verified": 6,
+      "negative": 0,
+      "covers": 628601,
+      "attempts": 809263,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 989,
+      "leaves": 43,
+      "verified": 43,
+      "negative": 0,
+      "covers": 349856,
+      "attempts": 509120,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 990,
+      "leaves": 155,
+      "verified": 155,
+      "negative": 0,
+      "covers": 97064,
+      "attempts": 236727,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 991,
+      "leaves": 590,
+      "verified": 590,
+      "negative": 0,
+      "covers": 227819,
+      "attempts": 406658,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 992,
+      "leaves": 128,
+      "verified": 128,
+      "negative": 0,
+      "covers": 56100,
+      "attempts": 181474,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 993,
+      "leaves": 842,
+      "verified": 842,
+      "negative": 0,
+      "covers": 106872,
+      "attempts": 248256,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 994,
+      "leaves": 1735,
+      "verified": 1735,
+      "negative": 0,
+      "covers": 243135,
+      "attempts": 414476,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 995,
+      "leaves": 3442,
+      "verified": 3442,
+      "negative": 0,
+      "covers": 402512,
+      "attempts": 615558,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 996,
+      "leaves": 11,
+      "verified": 11,
+      "negative": 0,
+      "covers": 38130,
+      "attempts": 145866,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 997,
+      "leaves": 297,
+      "verified": 297,
+      "negative": 0,
+      "covers": 160277,
+      "attempts": 293631,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 998,
+      "leaves": 434,
+      "verified": 434,
+      "negative": 0,
+      "covers": 230511,
+      "attempts": 388064,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 999,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 43308,
+      "attempts": 156138,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1000,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 173353,
+      "attempts": 387495,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1001,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 61324,
+      "attempts": 197688,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1002,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 22299,
+      "attempts": 129669,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1003,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 39982,
+      "attempts": 156299,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1004,
+      "leaves": 14,
+      "verified": 14,
+      "negative": 0,
+      "covers": 76987,
+      "attempts": 192400,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1005,
+      "leaves": 20,
+      "verified": 20,
+      "negative": 0,
+      "covers": 77510,
+      "attempts": 193637,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1006,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 121508,
+      "attempts": 240851,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1007,
+      "leaves": 38,
+      "verified": 38,
+      "negative": 0,
+      "covers": 47167,
+      "attempts": 157003,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1008,
+      "leaves": 5,
+      "verified": 5,
+      "negative": 0,
+      "covers": 55167,
+      "attempts": 163533,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1009,
+      "leaves": 802,
+      "verified": 802,
+      "negative": 0,
+      "covers": 319218,
+      "attempts": 478830,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1010,
+      "leaves": 57,
+      "verified": 57,
+      "negative": 0,
+      "covers": 153377,
+      "attempts": 277044,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1011,
+      "leaves": 1590,
+      "verified": 1590,
+      "negative": 0,
+      "covers": 518438,
+      "attempts": 726373,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1012,
+      "leaves": 269,
+      "verified": 269,
+      "negative": 0,
+      "covers": 161695,
+      "attempts": 292300,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1013,
+      "leaves": 689,
+      "verified": 689,
+      "negative": 0,
+      "covers": 262412,
+      "attempts": 422570,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1014,
+      "leaves": 2351,
+      "verified": 2351,
+      "negative": 0,
+      "covers": 423437,
+      "attempts": 633142,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1015,
+      "leaves": 6629,
+      "verified": 6629,
+      "negative": 0,
+      "covers": 1024571,
+      "attempts": 1392417,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1016,
+      "leaves": 1457,
+      "verified": 1457,
+      "negative": 0,
+      "covers": 382347,
+      "attempts": 560570,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1017,
+      "leaves": 3148,
+      "verified": 3148,
+      "negative": 0,
+      "covers": 409107,
+      "attempts": 614950,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1018,
+      "leaves": 6,
+      "verified": 6,
+      "negative": 0,
+      "covers": 42469,
+      "attempts": 158741,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1019,
+      "leaves": 33,
+      "verified": 33,
+      "negative": 0,
+      "covers": 58721,
+      "attempts": 172547,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1020,
+      "leaves": 1046,
+      "verified": 1046,
+      "negative": 0,
+      "covers": 184939,
+      "attempts": 321247,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1021,
+      "leaves": 17,
+      "verified": 17,
+      "negative": 0,
+      "covers": 77560,
+      "attempts": 200706,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1022,
+      "leaves": 7366,
+      "verified": 7366,
+      "negative": 0,
+      "covers": 300463,
+      "attempts": 482805,
+      "triangle_prunes": 0
+    },
+    {
+      "part": 1023,
+      "leaves": 132,
+      "verified": 132,
+      "negative": 0,
+      "covers": 150266,
+      "attempts": 271956,
+      "triangle_prunes": 0
+    }
+  ]
+}

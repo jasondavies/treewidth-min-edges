@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "core_dependency": "/tmp/treewidth40/core30",
+  "tested": 179883,
+  "retained_by_order": {
+    "14": 29792,
+    "13": 21066,
+    "15": 11404,
+    "12": 3128,
+    "16": 814
+  },
+  "final_count": 814,
+  "source_sha256": "a70a831ff7b61ef84ec2d133a7ee79d86c0d0bc4746832d8049b5ffe8eef8af9"
+}

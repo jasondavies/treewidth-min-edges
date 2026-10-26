@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 540" width="540" height="540" role="img" aria-labelledby="title description">
+<title id="title">A 21-vertex, 42-edge graph of treewidth nine</title>
+<desc id="description">Seven white vertices form an outer cycle. Each is joined to a pair of blue inner vertices. The fourteen inner vertices each have three further neighbors on the inner ring. The drawing has sevenfold rotational symmetry. All vertices have degree four. Edge crossings are not vertices.</desc>
+<style>
+  .e { fill: none; stroke: #7d8590; stroke-width: 1.5; stroke-linecap: round; }
+  .v { fill: #ffffff; stroke: #57606a; stroke-width: 1.8; }
+  .v.in { fill: #54aeff; stroke: #0550ae; }
+</style>
+<path class="e" data-edge="0 7" d="M270.00,35.00 L237.73,128.64"/>
+<path class="e" data-edge="0 10" d="M270.00,35.00 L453.73,123.48"/>
+<path class="e" data-edge="0 17" d="M270.00,35.00 L86.27,123.48"/>
+<path class="e" data-edge="0 18" d="M270.00,35.00 L302.27,128.64"/>
+<path class="e" data-edge="1 8" d="M360.41,383.37 L371.96,481.73"/>
+<path class="e" data-edge="1 12" d="M360.41,383.37 Q215.58,313.39 179.59,156.63"/>
+<path class="e" data-edge="1 16" d="M360.41,383.37 L400.64,207.09"/>
+<path class="e" data-edge="1 19" d="M360.41,383.37 L125.00,270.00"/>
+<path class="e" data-edge="2 9" d="M40.89,322.29 L139.36,332.91"/>
+<path class="e" data-edge="2 14" d="M40.89,322.29 L168.04,481.73"/>
+<path class="e" data-edge="2 17" d="M40.89,322.29 L86.27,123.48"/>
+<path class="e" data-edge="2 19" d="M40.89,322.29 L125.00,270.00"/>
+<path class="e" data-edge="3 10" d="M360.41,156.63 L453.73,123.48"/>
+<path class="e" data-edge="3 11" d="M360.41,156.63 Q324.42,313.39 179.59,383.37"/>
+<path class="e" data-edge="3 12" d="M360.41,156.63 L179.59,156.63"/>
+<path class="e" data-edge="3 15" d="M360.41,156.63 L302.27,411.36"/>
+<path class="e" data-edge="4 11" d="M415.00,270.00 L179.59,383.37"/>
+<path class="e" data-edge="4 13" d="M415.00,270.00 L499.11,322.29"/>
+<path class="e" data-edge="4 18" d="M415.00,270.00 L302.27,128.64"/>
+<path class="e" data-edge="4 19" d="M415.00,270.00 Q270.00,339.60 125.00,270.00"/>
+<path class="e" data-edge="5 11" d="M139.36,207.09 L179.59,383.37"/>
+<path class="e" data-edge="5 16" d="M139.36,207.09 L400.64,207.09"/>
+<path class="e" data-edge="5 17" d="M139.36,207.09 L86.27,123.48"/>
+<path class="e" data-edge="5 20" d="M139.36,207.09 Q300.20,207.29 400.64,332.91"/>
+<path class="e" data-edge="6 12" d="M237.73,411.36 L179.59,156.63"/>
+<path class="e" data-edge="6 14" d="M237.73,411.36 L168.04,481.73"/>
+<path class="e" data-edge="6 18" d="M237.73,411.36 Q202.15,254.51 302.27,128.64"/>
+<path class="e" data-edge="6 20" d="M237.73,411.36 L400.64,332.91"/>
+<path class="e" data-edge="7 15" d="M237.73,128.64 Q337.85,254.51 302.27,411.36"/>
+<path class="e" data-edge="7 19" d="M237.73,128.64 L125.00,270.00"/>
+<path class="e" data-edge="7 20" d="M237.73,128.64 L400.64,332.91"/>
+<path class="e" data-edge="8 13" d="M371.96,481.73 L499.11,322.29"/>
+<path class="e" data-edge="8 14" d="M371.96,481.73 L168.04,481.73"/>
+<path class="e" data-edge="8 15" d="M371.96,481.73 L302.27,411.36"/>
+<path class="e" data-edge="9 15" d="M139.36,332.91 L302.27,411.36"/>
+<path class="e" data-edge="9 16" d="M139.36,332.91 Q239.80,207.29 400.64,207.09"/>
+<path class="e" data-edge="9 18" d="M139.36,332.91 L302.27,128.64"/>
+<path class="e" data-edge="10 13" d="M453.73,123.48 L499.11,322.29"/>
+<path class="e" data-edge="10 16" d="M453.73,123.48 L400.64,207.09"/>
+<path class="e" data-edge="11 14" d="M179.59,383.37 L168.04,481.73"/>
+<path class="e" data-edge="12 17" d="M179.59,156.63 L86.27,123.48"/>
+<path class="e" data-edge="13 20" d="M499.11,322.29 L400.64,332.91"/>
+<circle id="v0" class="v" cx="270.00" cy="35.00" r="7.5"><title>Vertex 0, degree 4</title></circle>
+<circle id="v10" class="v" cx="453.73" cy="123.48" r="7.5"><title>Vertex 10, degree 4</title></circle>
+<circle id="v13" class="v" cx="499.11" cy="322.29" r="7.5"><title>Vertex 13, degree 4</title></circle>
+<circle id="v8" class="v" cx="371.96" cy="481.73" r="7.5"><title>Vertex 8, degree 4</title></circle>
+<circle id="v14" class="v" cx="168.04" cy="481.73" r="7.5"><title>Vertex 14, degree 4</title></circle>
+<circle id="v2" class="v" cx="40.89" cy="322.29" r="7.5"><title>Vertex 2, degree 4</title></circle>
+<circle id="v17" class="v" cx="86.27" cy="123.48" r="7.5"><title>Vertex 17, degree 4</title></circle>
+<circle id="v7" class="v in" cx="237.73" cy="128.64" r="7.5"><title>Vertex 7, degree 4</title></circle>
+<circle id="v3" class="v in" cx="360.41" cy="156.63" r="7.5"><title>Vertex 3, degree 4</title></circle>
+<circle id="v4" class="v in" cx="415.00" cy="270.00" r="7.5"><title>Vertex 4, degree 4</title></circle>
+<circle id="v1" class="v in" cx="360.41" cy="383.37" r="7.5"><title>Vertex 1, degree 4</title></circle>
+<circle id="v6" class="v in" cx="237.73" cy="411.36" r="7.5"><title>Vertex 6, degree 4</title></circle>
+<circle id="v9" class="v in" cx="139.36" cy="332.91" r="7.5"><title>Vertex 9, degree 4</title></circle>
+<circle id="v5" class="v in" cx="139.36" cy="207.09" r="7.5"><title>Vertex 5, degree 4</title></circle>
+<circle id="v18" class="v in" cx="302.27" cy="128.64" r="7.5"><title>Vertex 18, degree 4</title></circle>
+<circle id="v16" class="v in" cx="400.64" cy="207.09" r="7.5"><title>Vertex 16, degree 4</title></circle>
+<circle id="v20" class="v in" cx="400.64" cy="332.91" r="7.5"><title>Vertex 20, degree 4</title></circle>
+<circle id="v15" class="v in" cx="302.27" cy="411.36" r="7.5"><title>Vertex 15, degree 4</title></circle>
+<circle id="v11" class="v in" cx="179.59" cy="383.37" r="7.5"><title>Vertex 11, degree 4</title></circle>
+<circle id="v19" class="v in" cx="125.00" cy="270.00" r="7.5"><title>Vertex 19, degree 4</title></circle>
+<circle id="v12" class="v in" cx="179.59" cy="156.63" r="7.5"><title>Vertex 12, degree 4</title></circle>
+</svg>

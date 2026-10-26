@@ -1,0 +1,587 @@
+{
+  "status": "complete",
+  "parts": 64,
+  "completed_parts": 64,
+  "leaves": 7,
+  "verified": 7,
+  "negative": 0,
+  "covers": 1622068,
+  "results": [
+    {
+      "part": 0,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 1,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 635696,
+      "attempts": 979389,
+      "triangle_prunes": 2849683
+    },
+    {
+      "part": 2,
+      "leaves": 3,
+      "verified": 3,
+      "negative": 0,
+      "covers": 659147,
+      "attempts": 1063190,
+      "triangle_prunes": 3245695
+    },
+    {
+      "part": 3,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 124364,
+      "attempts": 202929,
+      "triangle_prunes": 763820
+    },
+    {
+      "part": 4,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 171370,
+      "attempts": 293068,
+      "triangle_prunes": 983812
+    },
+    {
+      "part": 5,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 24634,
+      "attempts": 41308,
+      "triangle_prunes": 173897
+    },
+    {
+      "part": 6,
+      "leaves": 2,
+      "verified": 2,
+      "negative": 0,
+      "covers": 2047,
+      "attempts": 11687,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 7,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 1855,
+      "attempts": 12296,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 8,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 773,
+      "attempts": 6403,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 9,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 61,
+      "attempts": 366,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 10,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 1269,
+      "attempts": 7429,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 11,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 686,
+      "attempts": 5199,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 12,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 162,
+      "attempts": 1359,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 13,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 4,
+      "attempts": 51,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 14,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 15,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 16,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 17,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 18,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 19,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 20,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 21,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 22,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 23,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 24,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 25,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 26,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 27,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 28,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 29,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 30,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 31,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 32,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 33,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 34,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 35,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 36,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 37,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 38,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 39,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 40,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 41,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 42,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 43,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 44,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 45,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 46,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 47,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 48,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 49,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 50,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 51,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 52,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 53,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 54,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 55,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 56,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 57,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 58,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 59,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 60,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 61,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 62,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    },
+    {
+      "part": 63,
+      "leaves": 0,
+      "verified": 0,
+      "negative": 0,
+      "covers": 0,
+      "attempts": 0,
+      "triangle_prunes": 237
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cases": [
+    {
+      "n": 12,
+      "degree": 4,
+      "width": 5,
+      "cap": 1,
+      "full_count": 1544,
+      "negative_graphs": 24,
+      "complete_and_pruned_agree": true,
+      "independent_geng_agrees": true,
+      "eight_parts_agree": true
+    },
+    {
+      "n": 12,
+      "degree": 5,
+      "width": 6,
+      "cap": 4,
+      "full_count": 7848,
+      "negative_graphs": 21,
+      "complete_and_pruned_agree": true,
+      "independent_geng_agrees": true,
+      "eight_parts_agree": true
+    }
+  ],
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/audit_genreg_treewidth.py": "19da5d2c464cdd110d130311802248fbf4250b1d6d76c2eb0c1c8e52a20c2156",
+    "/home/ttuser/open-problems/scripts/build_genreg_treewidth.py": "feabb91fbfd28f8c5a95c1b721ad2e779cbeda3b8344a39295e81a6300366a10",
+    "/home/ttuser/open-problems/scripts/genreg_treewidth_adapter.c": "7ca0cbe155215980e0e2306665bd086ff44044a84243ecea90be031fb5c11bd8",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

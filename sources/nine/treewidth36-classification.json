@@ -1,0 +1,932 @@
+{
+  "status": "complete",
+  "cores": 45484,
+  "family": 53898,
+  "family_by_order": {
+    "16": 14143,
+    "17": 29945,
+    "18": 9345,
+    "19": 465
+  },
+  "stages": [
+    {
+      "label": "degree8",
+      "inputs": 2,
+      "graphs": 496,
+      "verified": 435,
+      "raw_retained": 61,
+      "nonisomorphic_retained": 13,
+      "parts": [
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 1,
+          "eligible_inputs": 1,
+          "graphs": 1,
+          "verified": 0,
+          "retained": 1
+        },
+        {
+          "inputs": 1,
+          "eligible_inputs": 1,
+          "graphs": 495,
+          "verified": 435,
+          "retained": 60
+        }
+      ]
+    },
+    {
+      "label": "degree7",
+      "inputs": 280,
+      "graphs": 303303,
+      "verified": 301618,
+      "raw_retained": 1685,
+      "nonisomorphic_retained": 1286,
+      "parts": [
+        {
+          "inputs": 70,
+          "eligible_inputs": 70,
+          "graphs": 75966,
+          "verified": 75621,
+          "retained": 345
+        },
+        {
+          "inputs": 70,
+          "eligible_inputs": 70,
+          "graphs": 74382,
+          "verified": 73918,
+          "retained": 464
+        },
+        {
+          "inputs": 70,
+          "eligible_inputs": 69,
+          "graphs": 75306,
+          "verified": 74918,
+          "retained": 388
+        },
+        {
+          "inputs": 70,
+          "eligible_inputs": 69,
+          "graphs": 77649,
+          "verified": 77161,
+          "retained": 488
+        }
+      ]
+    },
+    {
+      "label": "degree6",
+      "inputs": 73517,
+      "graphs": 47094094,
+      "verified": 47038444,
+      "raw_retained": 55650,
+      "nonisomorphic_retained": 28108,
+      "parts": [
+        {
+          "inputs": 18379,
+          "eligible_inputs": 17631,
+          "graphs": 11722250,
+          "verified": 11708665,
+          "retained": 13585
+        },
+        {
+          "inputs": 18379,
+          "eligible_inputs": 17661,
+          "graphs": 11820557,
+          "verified": 11806734,
+          "retained": 13823
+        },
+        {
+          "inputs": 18379,
+          "eligible_inputs": 17672,
+          "graphs": 11769222,
+          "verified": 11755293,
+          "retained": 13929
+        },
+        {
+          "inputs": 18380,
+          "eligible_inputs": 17649,
+          "graphs": 11782065,
+          "verified": 11767752,
+          "retained": 14313
+        }
+      ]
+    },
+    {
+      "label": "degree5",
+      "inputs": 4539644,
+      "graphs": 239939299,
+      "verified": 239841555,
+      "raw_retained": 97744,
+      "nonisomorphic_retained": 15665,
+      "parts": [
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283712,
+          "graphs": 14999391,
+          "verified": 14993466,
+          "retained": 5925
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283713,
+          "graphs": 14986849,
+          "verified": 14980681,
+          "retained": 6168
+        },
+        {
+          "inputs": 283727,
+          "eligible_inputs": 283711,
+          "graphs": 14979395,
+          "verified": 14973261,
+          "retained": 6134
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283711,
+          "graphs": 15013743,
+          "verified": 15007629,
+          "retained": 6114
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283713,
+          "graphs": 15008134,
+          "verified": 15001965,
+          "retained": 6169
+        },
+        {
+          "inputs": 283727,
+          "eligible_inputs": 283708,
+          "graphs": 14989726,
+          "verified": 14983566,
+          "retained": 6160
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283713,
+          "graphs": 14980595,
+          "verified": 14974441,
+          "retained": 6154
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283711,
+          "graphs": 15016520,
+          "verified": 15010378,
+          "retained": 6142
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283710,
+          "graphs": 14974916,
+          "verified": 14968840,
+          "retained": 6076
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283710,
+          "graphs": 15013215,
+          "verified": 15007155,
+          "retained": 6060
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283714,
+          "graphs": 15019512,
+          "verified": 15013389,
+          "retained": 6123
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283713,
+          "graphs": 14978685,
+          "verified": 14972739,
+          "retained": 5946
+        },
+        {
+          "inputs": 283727,
+          "eligible_inputs": 283712,
+          "graphs": 14983877,
+          "verified": 14977679,
+          "retained": 6198
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283712,
+          "graphs": 15009650,
+          "verified": 15003569,
+          "retained": 6081
+        },
+        {
+          "inputs": 283728,
+          "eligible_inputs": 283712,
+          "graphs": 15000107,
+          "verified": 14993997,
+          "retained": 6110
+        },
+        {
+          "inputs": 283727,
+          "eligible_inputs": 283711,
+          "graphs": 14984984,
+          "verified": 14978800,
+          "retained": 6184
+        }
+      ]
+    },
+    {
+      "label": "from35",
+      "inputs": 130,
+      "graphs": 798,
+      "verified": 0,
+      "raw_retained": 798,
+      "nonisomorphic_retained": 563,
+      "parts": [
+        {
+          "inputs": 33,
+          "graphs": 198,
+          "verified": 0,
+          "retained": 198
+        },
+        {
+          "inputs": 33,
+          "graphs": 219,
+          "verified": 0,
+          "retained": 219
+        },
+        {
+          "inputs": 32,
+          "graphs": 201,
+          "verified": 0,
+          "retained": 201
+        },
+        {
+          "inputs": 32,
+          "graphs": 180,
+          "verified": 0,
+          "retained": 180
+        }
+      ]
+    },
+    {
+      "label": "full-0",
+      "inputs": 46047,
+      "graphs": 180507,
+      "verified": 124738,
+      "raw_retained": 55769,
+      "nonisomorphic_retained": 49277,
+      "parts": [
+        {
+          "inputs": 2878,
+          "graphs": 11274,
+          "verified": 7907,
+          "retained": 3367
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11274,
+          "verified": 7873,
+          "retained": 3401
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11208,
+          "verified": 7843,
+          "retained": 3365
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11266,
+          "verified": 7770,
+          "retained": 3496
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11357,
+          "verified": 7851,
+          "retained": 3506
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11325,
+          "verified": 7911,
+          "retained": 3414
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11336,
+          "verified": 7851,
+          "retained": 3485
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11318,
+          "verified": 7765,
+          "retained": 3553
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11209,
+          "verified": 7717,
+          "retained": 3492
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11233,
+          "verified": 7678,
+          "retained": 3555
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11319,
+          "verified": 7764,
+          "retained": 3555
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11228,
+          "verified": 7713,
+          "retained": 3515
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11332,
+          "verified": 7757,
+          "retained": 3575
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11354,
+          "verified": 7821,
+          "retained": 3533
+        },
+        {
+          "inputs": 2878,
+          "graphs": 11308,
+          "verified": 7762,
+          "retained": 3546
+        },
+        {
+          "inputs": 2877,
+          "graphs": 11166,
+          "verified": 7755,
+          "retained": 3411
+        }
+      ]
+    },
+    {
+      "label": "full-1",
+      "inputs": 49121,
+      "graphs": 148940,
+      "verified": 111788,
+      "raw_retained": 37152,
+      "nonisomorphic_retained": 17540,
+      "parts": [
+        {
+          "inputs": 3070,
+          "graphs": 9308,
+          "verified": 7052,
+          "retained": 2256
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9251,
+          "verified": 6999,
+          "retained": 2252
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9292,
+          "verified": 6998,
+          "retained": 2294
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9322,
+          "verified": 6999,
+          "retained": 2323
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9311,
+          "verified": 6956,
+          "retained": 2355
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9263,
+          "verified": 6940,
+          "retained": 2323
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9270,
+          "verified": 6978,
+          "retained": 2292
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9306,
+          "verified": 6939,
+          "retained": 2367
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9311,
+          "verified": 7059,
+          "retained": 2252
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9322,
+          "verified": 6993,
+          "retained": 2329
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9309,
+          "verified": 6976,
+          "retained": 2333
+        },
+        {
+          "inputs": 3071,
+          "graphs": 9318,
+          "verified": 6964,
+          "retained": 2354
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9279,
+          "verified": 6951,
+          "retained": 2328
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9336,
+          "verified": 6981,
+          "retained": 2355
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9385,
+          "verified": 7021,
+          "retained": 2364
+        },
+        {
+          "inputs": 3070,
+          "graphs": 9357,
+          "verified": 6982,
+          "retained": 2375
+        }
+      ]
+    },
+    {
+      "label": "full-2",
+      "inputs": 17182,
+      "graphs": 37796,
+      "verified": 30179,
+      "raw_retained": 7617,
+      "nonisomorphic_retained": 2507,
+      "parts": [
+        {
+          "inputs": 1074,
+          "graphs": 2327,
+          "verified": 1869,
+          "retained": 458
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2349,
+          "verified": 1893,
+          "retained": 456
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2371,
+          "verified": 1913,
+          "retained": 458
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2359,
+          "verified": 1886,
+          "retained": 473
+        },
+        {
+          "inputs": 1073,
+          "graphs": 2332,
+          "verified": 1849,
+          "retained": 483
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2393,
+          "verified": 1904,
+          "retained": 489
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2358,
+          "verified": 1888,
+          "retained": 470
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2355,
+          "verified": 1857,
+          "retained": 498
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2368,
+          "verified": 1880,
+          "retained": 488
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2384,
+          "verified": 1894,
+          "retained": 490
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2364,
+          "verified": 1895,
+          "retained": 469
+        },
+        {
+          "inputs": 1073,
+          "graphs": 2371,
+          "verified": 1884,
+          "retained": 487
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2370,
+          "verified": 1894,
+          "retained": 476
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2401,
+          "verified": 1921,
+          "retained": 480
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2360,
+          "verified": 1868,
+          "retained": 492
+        },
+        {
+          "inputs": 1074,
+          "graphs": 2334,
+          "verified": 1884,
+          "retained": 450
+        }
+      ]
+    },
+    {
+      "label": "full-3",
+      "inputs": 2355,
+      "graphs": 3027,
+      "verified": 2418,
+      "raw_retained": 609,
+      "nonisomorphic_retained": 173,
+      "parts": [
+        {
+          "inputs": 148,
+          "graphs": 202,
+          "verified": 165,
+          "retained": 37
+        },
+        {
+          "inputs": 147,
+          "graphs": 197,
+          "verified": 167,
+          "retained": 30
+        },
+        {
+          "inputs": 148,
+          "graphs": 201,
+          "verified": 170,
+          "retained": 31
+        },
+        {
+          "inputs": 147,
+          "graphs": 189,
+          "verified": 155,
+          "retained": 34
+        },
+        {
+          "inputs": 147,
+          "graphs": 184,
+          "verified": 148,
+          "retained": 36
+        },
+        {
+          "inputs": 147,
+          "graphs": 185,
+          "verified": 148,
+          "retained": 37
+        },
+        {
+          "inputs": 147,
+          "graphs": 179,
+          "verified": 144,
+          "retained": 35
+        },
+        {
+          "inputs": 147,
+          "graphs": 190,
+          "verified": 149,
+          "retained": 41
+        },
+        {
+          "inputs": 148,
+          "graphs": 196,
+          "verified": 152,
+          "retained": 44
+        },
+        {
+          "inputs": 147,
+          "graphs": 193,
+          "verified": 158,
+          "retained": 35
+        },
+        {
+          "inputs": 147,
+          "graphs": 186,
+          "verified": 146,
+          "retained": 40
+        },
+        {
+          "inputs": 147,
+          "graphs": 180,
+          "verified": 146,
+          "retained": 34
+        },
+        {
+          "inputs": 147,
+          "graphs": 188,
+          "verified": 147,
+          "retained": 41
+        },
+        {
+          "inputs": 147,
+          "graphs": 184,
+          "verified": 143,
+          "retained": 41
+        },
+        {
+          "inputs": 147,
+          "graphs": 185,
+          "verified": 142,
+          "retained": 43
+        },
+        {
+          "inputs": 147,
+          "graphs": 188,
+          "verified": 138,
+          "retained": 50
+        }
+      ]
+    },
+    {
+      "label": "full-4",
+      "inputs": 167,
+      "graphs": 47,
+      "verified": 45,
+      "raw_retained": 2,
+      "nonisomorphic_retained": 1,
+      "parts": [
+        {
+          "inputs": 11,
+          "graphs": 4,
+          "verified": 4,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 2,
+          "verified": 2,
+          "retained": 0
+        },
+        {
+          "inputs": 11,
+          "graphs": 7,
+          "verified": 7,
+          "retained": 0
+        },
+        {
+          "inputs": 11,
+          "graphs": 4,
+          "verified": 4,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 11,
+          "graphs": 1,
+          "verified": 1,
+          "retained": 0
+        },
+        {
+          "inputs": 11,
+          "graphs": 1,
+          "verified": 1,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 5,
+          "verified": 5,
+          "retained": 0
+        },
+        {
+          "inputs": 11,
+          "graphs": 7,
+          "verified": 6,
+          "retained": 1
+        },
+        {
+          "inputs": 11,
+          "graphs": 6,
+          "verified": 5,
+          "retained": 1
+        },
+        {
+          "inputs": 10,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 2,
+          "verified": 2,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 2,
+          "verified": 2,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 2,
+          "verified": 2,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 3,
+          "verified": 3,
+          "retained": 0
+        },
+        {
+          "inputs": 10,
+          "graphs": 1,
+          "verified": 1,
+          "retained": 0
+        }
+      ]
+    },
+    {
+      "label": "full-5",
+      "inputs": 1,
+      "graphs": 0,
+      "verified": 0,
+      "raw_retained": 0,
+      "nonisomorphic_retained": 0,
+      "parts": [
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 0,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        },
+        {
+          "inputs": 1,
+          "graphs": 0,
+          "verified": 0,
+          "retained": 0
+        }
+      ]
+    }
+  ],
+  "inputs": {
+    "/tmp/treewidth41/classify30-broad/family.g6": "aaea3276eb227340c4bb59223c825ac81989c22e6a886406491256a8abf2165b",
+    "/tmp/treewidth41/quartic18/summary.json": "b76479521945e203a29bd7ecdfc57c876d0786c9fbe04718b755026366927517",
+    "/home/ttuser/open-problems/sources/treewidth34-family29.g6": "5af8bc17af1607e50cd1e3a338ba80789d3fa1c97284644c180a49d540c8dbe4",
+    "/home/ttuser/open-problems/sources/treewidth35-all-family.g6": "1fcf89ffba866b13dc95de22bdac1c98a284d03687b9d61b927f00daca52fca6",
+    "/tmp/treewidth41/classify31/family.g6": "fd8cfa9c4716a5a86c4d7641a33bcfef4aaa18676c0fbd0a7d50015202ffa1e4"
+  },
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/classify_treewidth36.py": "5cd97b1528c132b8367d5dbb3e8adf9cc45ee2cdeb40f436bffe6a0895fd0f6e",
+    "/home/ttuser/open-problems/scripts/treewidth_parallel_classification.py": "cbae113503efdd3e7268eb28a64e3bcf8813cf5624c5346c49e23671341091b1",
+    "/home/ttuser/open-problems/scripts/treewidth_cached_classification.py": "aa72b1e4723c851a0166be154a27ffbacc6b0ed580c7605dcb8a4887e2ad2af4",
+    "/home/ttuser/open-problems/scripts/treewidth_core_extensions.c": "40b187bca8fc7ec10d1231a7398e6f0bee0f330f08facfda351624172006e06c",
+    "/home/ttuser/open-problems/scripts/treewidth_delta_extensions.c": "6ce5a7ce1bc27f350e1978fadbbac47d5d7f2531f6751f538d2b4ba81d34e0be",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

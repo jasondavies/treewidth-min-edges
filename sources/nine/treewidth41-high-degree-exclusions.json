@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "seven_extensions": 30888,
+  "six_extensions": 1126359,
+  "all_orders_verified": true,
+  "inputs": {
+    "sources/treewidth34-family34.g6": "4f0f5209e9a3cf10c88b151649742ca5485b24b56204b47a62f9e0d99a41503f",
+    "sources/treewidth35-all-family.g6": "1fcf89ffba866b13dc95de22bdac1c98a284d03687b9d61b927f00daca52fca6"
+  },
+  "source_sha256": {
+    "scripts/treewidth_augment.c": "42de55c6cc8b74d11d924dabdfedcbf89b1ce4fbe64e34eaebc5a8f804ca1857",
+    "scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

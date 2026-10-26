@@ -1,0 +1,9 @@
+{
+  "parts": 128,
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/run_treewidth30_cores.py": "dca62608a39962b492d317371b5e6ed0f640f4df652f94c04760a45fe59edcf8",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba",
+    "/usr/share/nauty/geng.c": "c52ea36a688968d571a3e3572cb55542b6b9f1cf0144de49238aebaf86d596b8"
+  },
+  "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0"
+}
