@@ -258,7 +258,7 @@ to the verified C checker through its `OUTPROC` hook. Markus Meringer's
 GENREG provides an independent cross-check through a shortcode reader.
 Both enumerate 86,221,634 connected quartic graphs on 17 vertices and leave
 the same sole witness up to isomorphism. The general generator `geng` remains
-appropriate for the 29-edge cores, whose degrees need not all be equal.
+appropriate for the 29-edge graphs, whose degrees need not all be equal.
 
 The two specialized generators performed similarly in the checked runs:
 
@@ -290,6 +290,8 @@ The complete argument is in [proof.md](proof.md).
   verifier, used as a `geng` plugin or standalone graph6 checker.
 - [scripts/reference.py](scripts/reference.py): separate Python reference
   algorithms.
+- [scripts/draw_witness16.py](scripts/draw_witness16.py): generate the SVG
+  drawing of the 16-vertex graph.
 
 ### Graphs and saved results
 

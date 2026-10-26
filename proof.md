@@ -387,7 +387,7 @@ To reverse the second case, start from $K_8$ or $F$, choose a triangle and
 one edge to retain, delete its other two edges, and add a new vertex adjacent
 to all three triangle vertices. This reverses the single edge-losing step
 and gives 29 edges. There are $3(56+4)=180$ such starting graphs, in addition
-to the 124 cores of the first case.
+to the 124 survivors of the first case.
 
 From each of these **304** starting graphs, perform every sequence of
 ordinary triangle-to-star replacements that could lead to $H$:
