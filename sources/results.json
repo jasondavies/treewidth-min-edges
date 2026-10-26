@@ -1,9 +1,9 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "nauty_version": "2.8.8",
  "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
  "sha256": {
-  "scripts/reproduce.py": "871b480d22c86d456dd53dd046fc6025721358caa81f8929f5953a8397dd4711",
+  "scripts/reproduce.py": "fd5afc1328bc0d984550f3d7ede11dccfecb154d5561a3d39be89cfd93ba105d",
   "scripts/reference.py": "51ff9c5191dda7c25ec429f17560f0ed020a7357b3ba2d2fc73f827ec91cc200",
   "scripts/treewidth.c": "ddd9867ea4dcce73e194fb814ae7576f97802bc1a2e77713d0045e963fc974b6",
   "sources/witness34.json": "ae84fec818004ee75e2fdd33b7a6d5b9bddcdfe67fe662c39c692280c9379410"
@@ -71,7 +71,7 @@
    "search": 27,
    "verified": 101336,
    "counterexamples": 0,
-   "cpu_seconds": 0.099,
+   "cpu_seconds": 0.1,
    "edges": {
     "28": 101336
    },
@@ -94,7 +94,7 @@
    "search": 992,
    "verified": 9555744,
    "counterexamples": 0,
-   "cpu_seconds": 8.568,
+   "cpu_seconds": 8.577,
    "edges": {
     "28": 9555744
    },
@@ -117,7 +117,7 @@
    "search": 12094,
    "verified": 62893241,
    "counterexamples": 1,
-   "cpu_seconds": 67.288,
+   "cpu_seconds": 67.41,
    "edges": {
     "28": 62893242
    },
@@ -142,7 +142,7 @@
    "search": 17676,
    "verified": 24203296,
    "counterexamples": 0,
-   "cpu_seconds": 51.096,
+   "cpu_seconds": 51.392,
    "edges": {
     "28": 24203296
    },
@@ -165,7 +165,7 @@
    "search": 349,
    "verified": 88168,
    "counterexamples": 0,
-   "cpu_seconds": 4.099,
+   "cpu_seconds": 4.112,
    "edges": {
     "28": 88168
    },

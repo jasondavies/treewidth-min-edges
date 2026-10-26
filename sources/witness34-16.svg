@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="36 36 528 528" width="528" height="528" role="img" aria-labelledby="title description">
+<title id="title">A 16-vertex, 34-edge graph of treewidth eight</title>
+<desc id="description">Twelve white vertices of degree four form the outer ring; its six additional matching edges curve outside. Four blue vertices of degree five form an inner four-cycle. Each blue vertex is joined to three ring vertices. Edge crossings are not vertices.</desc>
+<style>
+  .e { fill: none; stroke: #7d8590; stroke-width: 1.5; stroke-linecap: round; }
+  .v { fill: #ffffff; stroke: #57606a; stroke-width: 1.8; }
+  .v.in { fill: #54aeff; stroke: #0550ae; }
+</style>
+<path class="e" data-edge="0 4" d="M300.0,110.0 C205.1,15.1 15.1,205.1 110.0,300.0"/>
+<path class="e" data-edge="1 4" d="M135.5,395.0 L110.0,300.0"/>
+<path class="e" data-edge="0 5" d="M300.0,110.0 L395.0,135.5"/>
+<path class="e" data-edge="2 5" d="M464.5,395.0 C594.2,360.3 524.6,100.7 395.0,135.5"/>
+<path class="e" data-edge="1 6" d="M135.5,395.0 C100.7,524.6 360.3,594.2 395.0,464.5"/>
+<path class="e" data-edge="2 6" d="M464.5,395.0 L395.0,464.5"/>
+<path class="e" data-edge="0 7" d="M300.0,110.0 L435.0,300.0"/>
+<path class="e" data-edge="1 7" d="M135.5,395.0 L435.0,300.0"/>
+<path class="e" data-edge="2 7" d="M464.5,395.0 L435.0,300.0"/>
+<path class="e" data-edge="3 7" d="M300.0,435.0 L435.0,300.0"/>
+<path class="e" data-edge="3 8" d="M300.0,435.0 L135.5,205.0"/>
+<path class="e" data-edge="4 8" d="M110.0,300.0 L135.5,205.0"/>
+<path class="e" data-edge="3 9" d="M300.0,435.0 L165.0,300.0"/>
+<path class="e" data-edge="4 9" d="M110.0,300.0 L165.0,300.0"/>
+<path class="e" data-edge="5 9" d="M395.0,135.5 L165.0,300.0"/>
+<path class="e" data-edge="6 9" d="M395.0,464.5 L165.0,300.0"/>
+<path class="e" data-edge="3 10" d="M300.0,435.0 L300.0,490.0"/>
+<path class="e" data-edge="6 10" d="M395.0,464.5 L300.0,490.0"/>
+<path class="e" data-edge="3 11" d="M300.0,435.0 L464.5,205.0"/>
+<path class="e" data-edge="5 11" d="M395.0,135.5 L464.5,205.0"/>
+<path class="e" data-edge="0 12" d="M300.0,110.0 L205.0,135.5"/>
+<path class="e" data-edge="8 12" d="M135.5,205.0 L205.0,135.5"/>
+<path class="e" data-edge="10 12" d="M300.0,490.0 C60.7,554.1 -34.3,199.6 205.0,135.5"/>
+<path class="e" data-edge="1 13" d="M135.5,395.0 L205.0,464.5"/>
+<path class="e" data-edge="10 13" d="M300.0,490.0 L205.0,464.5"/>
+<path class="e" data-edge="11 13" d="M464.5,205.0 C639.7,380.2 380.2,639.7 205.0,464.5"/>
+<path class="e" data-edge="2 14" d="M464.5,395.0 L490.0,300.0"/>
+<path class="e" data-edge="8 14" d="M135.5,205.0 C199.6,-34.3 554.1,60.7 490.0,300.0"/>
+<path class="e" data-edge="11 14" d="M464.5,205.0 L490.0,300.0"/>
+<path class="e" data-edge="7 15" d="M435.0,300.0 L300.0,165.0"/>
+<path class="e" data-edge="9 15" d="M165.0,300.0 L300.0,165.0"/>
+<path class="e" data-edge="12 15" d="M205.0,135.5 L300.0,165.0"/>
+<path class="e" data-edge="13 15" d="M205.0,464.5 L300.0,165.0"/>
+<path class="e" data-edge="14 15" d="M490.0,300.0 L300.0,165.0"/>
+<circle id="v0" class="v" cx="300.0" cy="110.0" r="7.5"><title>Vertex 0, degree 4</title></circle>
+<circle id="v5" class="v" cx="395.0" cy="135.5" r="7.5"><title>Vertex 5, degree 4</title></circle>
+<circle id="v11" class="v" cx="464.5" cy="205.0" r="7.5"><title>Vertex 11, degree 4</title></circle>
+<circle id="v14" class="v" cx="490.0" cy="300.0" r="7.5"><title>Vertex 14, degree 4</title></circle>
+<circle id="v2" class="v" cx="464.5" cy="395.0" r="7.5"><title>Vertex 2, degree 4</title></circle>
+<circle id="v6" class="v" cx="395.0" cy="464.5" r="7.5"><title>Vertex 6, degree 4</title></circle>
+<circle id="v10" class="v" cx="300.0" cy="490.0" r="7.5"><title>Vertex 10, degree 4</title></circle>
+<circle id="v13" class="v" cx="205.0" cy="464.5" r="7.5"><title>Vertex 13, degree 4</title></circle>
+<circle id="v1" class="v" cx="135.5" cy="395.0" r="7.5"><title>Vertex 1, degree 4</title></circle>
+<circle id="v4" class="v" cx="110.0" cy="300.0" r="7.5"><title>Vertex 4, degree 4</title></circle>
+<circle id="v8" class="v" cx="135.5" cy="205.0" r="7.5"><title>Vertex 8, degree 4</title></circle>
+<circle id="v12" class="v" cx="205.0" cy="135.5" r="7.5"><title>Vertex 12, degree 4</title></circle>
+<circle id="v7" class="v in" cx="435.0" cy="300.0" r="7.5"><title>Vertex 7, degree 5</title></circle>
+<circle id="v3" class="v in" cx="300.0" cy="435.0" r="7.5"><title>Vertex 3, degree 5</title></circle>
+<circle id="v9" class="v in" cx="165.0" cy="300.0" r="7.5"><title>Vertex 9, degree 5</title></circle>
+<circle id="v15" class="v in" cx="300.0" cy="165.0" r="7.5"><title>Vertex 15, degree 5</title></circle>
+</svg>

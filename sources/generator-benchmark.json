@@ -1,0 +1,35 @@
+{
+ "date": "2026-10-26",
+ "n": 16,
+ "degree": 4,
+ "connected": true,
+ "mode": "generation and counting only, no treewidth checker",
+ "compiler_flags": "-O3 (GENREG additionally -D__UNIX__)",
+ "nauty_version": "2.8.8",
+ "genreg_revision": 5,
+ "rows": [
+  {
+   "generator": "genquarticg",
+   "arguments": [
+    "-c",
+    "-u",
+    "16"
+   ],
+   "graphs": 8037418,
+   "wall_seconds": 23.665085254935548,
+   "cpu_seconds": 19.493113,
+   "executable_sha256": "c6f3c41da33f30d143cf7fce6e980246a94d3813f9eedcb5673a17b04136110c"
+  },
+  {
+   "generator": "genreg",
+   "arguments": [
+    "16",
+    "4"
+   ],
+   "graphs": 8037418,
+   "wall_seconds": 19.585257150931284,
+   "cpu_seconds": 19.574149,
+   "executable_sha256": "e774721cd4287f1d61b3da20a61197adaaa02fa81f4fd232d81fa911c4b5babb"
+  }
+ ]
+}

@@ -192,7 +192,7 @@ def main():
     destination.write_text(json.dumps(out, indent=1) + "\n")
     print(f"Results saved to {destination}", flush=True)
     verify_certificates.main()
-    print("PASS: every computational step of proof.md verified.")
+    print("PASS: every computational step of Sections 1–7 of proof.md verified.")
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 """Check the saved certificates using only Python's standard library.
 
 This checks source hashes, the exact treewidth of K8, F, and the 34-edge
-graph, and the width-six orders for every reduction of K8 and F. It does NOT
+graphs, and the width-six orders for every reduction of K8 and F. It does NOT
 repeat geng's enumeration of the 96,841,893 cores; run reproduce.py for that.
 """
 import hashlib
@@ -54,8 +54,17 @@ def main():
     assert result["witness34_graph6"] == witness["graph6"]
     exact_width(a, witness["width_eight_order"], witness["width_seven_closed_prefixes"], 8)
 
+    second = json.loads((ROOT / "sources/witness34-16.json").read_text())
+    b = decode(second["graph6"])
+    assert len(b) == second["n"] == 16
+    assert sum(map(len, b)) // 2 == second["edges"] == 34
+    assert [sorted(ns) for ns in b] == second["adjacency_lists"]
+    assert (ROOT / "sources/witness34-16.g6").read_text().strip() == second["graph6"]
+    assert not triangles(b)
+    exact_width(b, second["width_eight_order"], second["width_seven_closed_prefixes"], 8)
+
     print(f"PASS: K8 and F have treewidth 7, all {checked} of their reductions have "
-          "treewidth at most 6, and the 34-edge graph has treewidth 8.")
+          "treewidth at most 6, and both 34-edge graphs have treewidth 8.")
     print("Certificate-only check: the core enumeration is not repeated here.")
 
 
