@@ -27,7 +27,7 @@ EXPECTED_EXCEPTIONS = {9: 1, 10: 0, 11: 0, 12: 77, 13: 40, 14: 6}
 TRACKED = ("scripts/reproduce_uniqueness.py", "scripts/extend29.py",
            "scripts/check_quartic.c", "scripts/quartic_plugin.c", "scripts/treewidth.c",
            "scripts/reference.py", "scripts/reproduce.py", "sources/witness34-16.json",
-           "sources/witness34.json")
+           "sources/witness34-17.json")
 GENREG_FILES = ("gendef.h", "genreg.c", "main.c", "optmid.c")
 
 
@@ -73,7 +73,7 @@ def identify_quartic(row, found, count, generator):
     assert count == row["total"] == 86221634
     assert row["verified"] == count - 1 and row["counterexamples"] == 1
     assert len(found) == 1
-    witness = decode((ROOT / "sources/witness34.g6").read_text().strip())
+    witness = decode((ROOT / "sources/witness34-17.g6").read_text().strip())
     permutation = isomorphism(decode(found[0]), witness)
     row.update(exceptions=found, generator_count=count, generator=generator,
                isomorphism_to_witness=permutation)

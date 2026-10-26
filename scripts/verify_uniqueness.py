@@ -24,7 +24,7 @@ def main():
     for path, expected in result["sha256"].items():
         assert hashlib.sha256((ROOT / path).read_bytes()).hexdigest() == expected, path
     witnesses = []
-    for filename, n in (("witness34-16", 16), ("witness34", 17)):
+    for filename, n in (("witness34-16", 16), ("witness34-17", 17)):
         witness = json.loads((ROOT / f"sources/{filename}.json").read_text())
         a = decode(witness["graph6"])
         assert len(a) == witness["n"] == n

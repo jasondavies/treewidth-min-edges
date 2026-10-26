@@ -149,7 +149,7 @@ def certify_exception(checker, encoding):
 
 def check_witness(checker):
     """The 34-edge graph has treewidth exactly eight."""
-    witness = json.loads((ROOT / "sources/witness34.json").read_text())
+    witness = json.loads((ROOT / "sources/witness34-17.json").read_text())
     a = decode(witness["graph6"])
     assert len(a) == 17 and sum(map(len, a)) == 68
     assert verify_width_lower(masks(a), 7, set(witness["width_seven_closed_prefixes"]))
@@ -168,7 +168,7 @@ def main():
            "compiler": run(CC + ["--version"]).stdout.splitlines()[0],
            "sha256": {path: digest(ROOT / path) for path in (
                "scripts/reproduce.py", "scripts/reference.py",
-               "scripts/treewidth.c", "sources/witness34.json")},
+               "scripts/treewidth.c", "sources/witness34-17.json")},
            "geng_sha256": digest(GENG)}
     with TemporaryDirectory(prefix="treewidth-min-edges-") as name:
         tmp = Path(name)
@@ -186,7 +186,7 @@ def main():
                                     for n in sorted(EXCEPTIONS) for s in EXCEPTIONS[n]]
         print("K8 and F: treewidth 7; every edge deletion and triangle-to-star "
               "replacement has treewidth at most 6.", flush=True)
-        out["witness34_graph6"] = check_witness(checker)
+        out["witness34_17_graph6"] = check_witness(checker)
         print("34-edge graph: treewidth exactly 8.", flush=True)
     destination = ROOT / "sources/results.json"
     destination.write_text(json.dumps(out, indent=1) + "\n")

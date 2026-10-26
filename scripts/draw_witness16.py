@@ -1,4 +1,4 @@
-"""Draw the 16-vertex witness in the visual style of witness34.svg.
+"""Draw the 16-vertex witness in the visual style of witness34-17.svg.
 
 Uses only the standard library. Edge/vertex IDs retain the certificate labels.
 The twelve degree-four vertices form a Hamiltonian cycle plus a matching;

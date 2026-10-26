@@ -21,7 +21,7 @@ SIDES = [1, 1, -1, 1, -1, -1]
 
 
 def main():
-    a = decode(json.loads((ROOT / "sources/witness34.json").read_text())["graph6"])
+    a = decode(json.loads((ROOT / "sources/witness34-17.json").read_text())["graph6"])
     positions = {HUB: (300.0, 300.0)}
     for i, v in enumerate(RING):
         theta = -math.pi / 2 + 2 * math.pi * i / 12
@@ -69,7 +69,7 @@ def main():
 </style>
 '''
     svg += "\n".join(paths + circles) + "\n</svg>\n"
-    destination = ROOT / "sources/witness34.svg"
+    destination = ROOT / "sources/witness34-17.svg"
     destination.write_text(svg)
     print(destination)
 

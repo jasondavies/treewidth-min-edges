@@ -67,7 +67,7 @@ was found by the classification in
 All seventeen vertices have degree four.
 
 <p align="center">
-  <img src="sources/witness34.svg" width="360"
+  <img src="sources/witness34-17.svg" width="360"
        alt="A 17-vertex, 4-regular graph with 34 edges and treewidth 8">
 </p>
 
@@ -83,7 +83,7 @@ Ps`aa?aGOgAGBCA`@L?@K?ES
 ```
 
 Its [adjacency lists](proof.md#6-a-34-edge-graph-of-treewidth-eight) and
-[certificates](sources/witness34.json) likewise establish treewidth exactly
+[certificates](sources/witness34-17.json) likewise establish treewidth exactly
 eight. It is from House of Graphs' quartic archive.
 
 ## Proof outline
@@ -301,12 +301,12 @@ The complete argument is in [proof.md](proof.md).
 - [sources/uniqueness.json](sources/uniqueness.json) and
   [reconstruction certificates](sources/uniqueness-reconstruction.json.gz):
   enumeration counts, survivors, hashes, and checked elimination orders.
-- [sources/witness34.json](sources/witness34.json),
-  [graph6 file](sources/witness34.g6), and [drawing](sources/witness34.svg):
+- [sources/witness34-16.json](sources/witness34-16.json),
+  [graph6 file](sources/witness34-16.g6), and [drawing](sources/witness34-16.svg):
+  the 16-vertex extremal graph and its certificates.
+- [sources/witness34-17.json](sources/witness34-17.json),
+  [graph6 file](sources/witness34-17.g6), and [drawing](sources/witness34-17.svg):
   the 17-vertex extremal graph and its certificates.
-- [sources/witness34-16.json](sources/witness34-16.json) and
-  [graph6 file](sources/witness34-16.g6), plus the
-  [drawing](sources/witness34-16.svg): the 16-vertex extremal graph and certificates.
 
 ## References and attribution
 

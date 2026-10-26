@@ -3,10 +3,10 @@
  "nauty_version": "2.8.8",
  "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
  "sha256": {
-  "scripts/reproduce.py": "fd5afc1328bc0d984550f3d7ede11dccfecb154d5561a3d39be89cfd93ba105d",
+  "scripts/reproduce.py": "be0f1f6093d59a0e7baf9508899acf37ffe3e7d23ed0979ea4e6f008071259a3",
   "scripts/reference.py": "51ff9c5191dda7c25ec429f17560f0ed020a7357b3ba2d2fc73f827ec91cc200",
   "scripts/treewidth.c": "ddd9867ea4dcce73e194fb814ae7576f97802bc1a2e77713d0045e963fc974b6",
-  "sources/witness34.json": "ae84fec818004ee75e2fdd33b7a6d5b9bddcdfe67fe662c39c692280c9379410"
+  "sources/witness34-17.json": "ae84fec818004ee75e2fdd33b7a6d5b9bddcdfe67fe662c39c692280c9379410"
  },
  "geng_sha256": "c52ea36a688968d571a3e3572cb55542b6b9f1cf0144de49238aebaf86d596b8",
  "checker_audit": {
@@ -94,7 +94,7 @@
    "search": 992,
    "verified": 9555744,
    "counterexamples": 0,
-   "cpu_seconds": 8.577,
+   "cpu_seconds": 8.604,
    "edges": {
     "28": 9555744
    },
@@ -117,7 +117,7 @@
    "search": 12094,
    "verified": 62893241,
    "counterexamples": 1,
-   "cpu_seconds": 67.41,
+   "cpu_seconds": 67.628,
    "edges": {
     "28": 62893242
    },
@@ -142,7 +142,7 @@
    "search": 17676,
    "verified": 24203296,
    "counterexamples": 0,
-   "cpu_seconds": 51.392,
+   "cpu_seconds": 53.458,
    "edges": {
     "28": 24203296
    },
@@ -165,7 +165,7 @@
    "search": 349,
    "verified": 88168,
    "counterexamples": 0,
-   "cpu_seconds": 4.112,
+   "cpu_seconds": 6.992,
    "edges": {
     "28": 88168
    },
@@ -3023,5 +3023,5 @@
    ]
   }
  ],
- "witness34_graph6": "Ps`aa?aGOgAGBCA`@L?@K?ES"
+ "witness34_17_graph6": "Ps`aa?aGOgAGBCA`@L?@K?ES"
 }

@@ -45,13 +45,13 @@ def main():
             verify_order(b, record["width_six_order"], 6)
             checked += 1
 
-    witness = json.loads((ROOT / "sources/witness34.json").read_text())
+    witness = json.loads((ROOT / "sources/witness34-17.json").read_text())
     a = decode(witness["graph6"])
     assert len(a) == witness["n"] == 17
     assert sum(map(len, a)) // 2 == witness["edges"] == 34
     assert [sorted(ns) for ns in a] == witness["adjacency_lists"]
-    assert (ROOT / "sources/witness34.g6").read_text().strip() == witness["graph6"]
-    assert result["witness34_graph6"] == witness["graph6"]
+    assert (ROOT / "sources/witness34-17.g6").read_text().strip() == witness["graph6"]
+    assert result["witness34_17_graph6"] == witness["graph6"]
     exact_width(a, witness["width_eight_order"], witness["width_seven_closed_prefixes"], 8)
 
     second = json.loads((ROOT / "sources/witness34-16.json").read_text())
