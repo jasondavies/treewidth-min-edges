@@ -4,7 +4,7 @@
     "scripts/check_quartic.c": "b76a8ce48818dd91d9df79abfd7096b7d0d02bef8f4cdb9690fa71bd31d0f5da",
     "scripts/draw_witness16.py": "7b88b888713b9e63511703668de1d9e09a5167972009bd3f8a9140c724321a4a",
     "scripts/draw_witness17.py": "9d58b1280b0e73aebfb7d6f22cdf4f271627d90f9a60063a5413f50e5a8f4993",
-    "scripts/draw_witness42.py": "113f1aab1e8b0be72749fac46cbdf0192da193997dddc6cb26aa6553b9a5f02c",
+    "scripts/draw_witness42.py": "e4b7539b8828f3e699f9f950240701eea5690373a0ac5f2ea9bf230b1a51ef21",
     "scripts/extend29.py": "c30e05a026f92682a0b684786d7579d32e6e321bc752c198a234eee2a79e9506",
     "scripts/nine/audit_genreg_treewidth.py": "f96e6b2942f193f0d5ca60e68db85679f2d58f11ef4218753ac303b273aa5c96",
     "scripts/nine/audit_prefix.py": "ce3f0218bd31b336ba3c4364a1cc7c18462c350a9754388d6acccf7c010a792a",
@@ -95,6 +95,6 @@
     "sources/witness34-17.svg": "e238851062c4a22f2bc1cb28c34cb854844f05d247592865b204a96f0d44cc72",
     "sources/witness42.g6": "e042887b4d663d0f0a5c8ce4a1f5dc428f3e854c7a0e773e7223389050e0e3ee",
     "sources/witness42.json": "1504d010bb34b184f112d73cd95036fd5d18bec6237b448758c42ef3765720dd",
-    "sources/witness42.svg": "48a0aa53ef685b0419d68c24b13360b1d640ff328aaa8d4f6fb33e415d6f16ea"
+    "sources/witness42.svg": "3dfe4cbcd2e44b8b86a5464b5446b0ea692b2e77368d737fb01371a423935cf6"
   }
 }
