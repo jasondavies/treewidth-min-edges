@@ -1,0 +1,14 @@
+{
+  "status": "all_verified",
+  "vertices": 23,
+  "edges": 46,
+  "graphs": 3917,
+  "verified_width_nine": 3917,
+  "candidates": 0,
+  "seconds": 4.30322812916711,
+  "source_sha256": {
+    "/home/ttuser/open-problems/scripts/check_treewidth_ten_girth.py": "39e1cc0e96c212b5884e852a59fe980c6b01a81b324a4443c44580884ace69a7",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba",
+    "/tmp/treewidth40/genreg/plain": "efa4e5dfe50c308fc2eafb9c9958137c045350acee39736c91ece7f9c74610d2"
+  }
+}

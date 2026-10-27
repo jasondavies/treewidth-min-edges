@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 540" width="540" height="540" role="img" aria-labelledby="title description">
+<title id="title">A 23-vertex, 47-edge graph of treewidth ten</title>
+<desc id="description">The blue edge joins the two blue degree-five vertices at the top. Deleting this edge leaves a quartic graph of girth five. The other twenty-one vertices are white and have degree four. The drawing is symmetric about its vertical axis. Edge crossings are not vertices.</desc>
+<style>
+  .e { fill: none; stroke: #7d8590; stroke-width: 1.5; stroke-linecap: round; }
+  .e.added { stroke: #0969da; stroke-width: 2.5; }
+  .v { fill: #ffffff; stroke: #57606a; stroke-width: 1.8; }
+  .v.in { fill: #54aeff; stroke: #0550ae; }
+</style>
+<path class="e" data-edge="0 1" d="M454.0,202.7 L481.8,40.0"><title>Edge 0–1</title></path>
+<path class="e" data-edge="0 2" d="M454.0,202.7 L397.9,81.1"><title>Edge 0–2</title></path>
+<path class="e" data-edge="0 3" d="M454.0,202.7 L435.3,452.8"><title>Edge 0–3</title></path>
+<path class="e" data-edge="0 4" d="M454.0,202.7 L309.2,285.1"><title>Edge 0–4</title></path>
+<path class="e" data-edge="1 5" d="M481.8,40.0 L314.9,207.1"><title>Edge 1–5</title></path>
+<path class="e" data-edge="1 6" d="M481.8,40.0 L497.7,500.0"><title>Edge 1–6</title></path>
+<path class="e" data-edge="1 7" d="M481.8,40.0 L142.1,81.1"><title>Edge 1–7</title></path>
+<path class="e" data-edge="2 8" d="M397.9,81.1 L202.2,131.7"><title>Edge 2–8</title></path>
+<path class="e" data-edge="2 9" d="M397.9,81.1 L417.0,283.7"><title>Edge 2–9</title></path>
+<path class="e" data-edge="2 10" d="M397.9,81.1 L58.2,40.0"><title>Edge 2–10</title></path>
+<path class="e" data-edge="3 11" d="M435.3,452.8 L361.3,343.1"><title>Edge 3–11</title></path>
+<path class="e" data-edge="3 12" d="M435.3,452.8 L104.7,452.8"><title>Edge 3–12</title></path>
+<path class="e" data-edge="3 13" d="M435.3,452.8 L42.3,500.0"><title>Edge 3–13</title></path>
+<path class="e" data-edge="4 14" d="M309.2,285.1 L230.8,285.1"><title>Edge 4–14</title></path>
+<path class="e" data-edge="4 15" d="M309.2,285.1 L177.2,422.1"><title>Edge 4–15</title></path>
+<path class="e" data-edge="4 16" d="M309.2,285.1 L225.1,207.1"><title>Edge 4–16</title></path>
+<path class="e" data-edge="5 8" d="M314.9,207.1 L202.2,131.7"><title>Edge 5–8</title></path>
+<path class="e" data-edge="5 11" d="M314.9,207.1 L361.3,343.1"><title>Edge 5–11</title></path>
+<path class="e" data-edge="5 14" d="M314.9,207.1 L230.8,285.1"><title>Edge 5–14</title></path>
+<path class="e" data-edge="6 9" d="M497.7,500.0 L417.0,283.7"><title>Edge 6–9</title></path>
+<path class="e" data-edge="6 12" d="M497.7,500.0 L104.7,452.8"><title>Edge 6–12</title></path>
+<path class="e" data-edge="6 15" d="M497.7,500.0 L177.2,422.1"><title>Edge 6–15</title></path>
+<path class="e" data-edge="7 17" d="M142.1,81.1 L123.0,283.7"><title>Edge 7–17</title></path>
+<path class="e" data-edge="7 18" d="M142.1,81.1 L337.8,131.7"><title>Edge 7–18</title></path>
+<path class="e" data-edge="7 19" d="M142.1,81.1 L86.0,202.7"><title>Edge 7–19</title></path>
+<path class="e" data-edge="8 17" d="M202.2,131.7 L123.0,283.7"><title>Edge 8–17</title></path>
+<path class="e" data-edge="8 20" d="M202.2,131.7 L178.7,343.1"><title>Edge 8–20</title></path>
+<path class="e" data-edge="9 18" d="M417.0,283.7 L337.8,131.7"><title>Edge 9–18</title></path>
+<path class="e" data-edge="9 21" d="M417.0,283.7 L362.8,422.1"><title>Edge 9–21</title></path>
+<path class="e" data-edge="10 13" d="M58.2,40.0 L42.3,500.0"><title>Edge 10–13</title></path>
+<path class="e" data-edge="10 16" d="M58.2,40.0 L225.1,207.1"><title>Edge 10–16</title></path>
+<path class="e" data-edge="10 19" d="M58.2,40.0 L86.0,202.7"><title>Edge 10–19</title></path>
+<path class="e" data-edge="11 18" d="M361.3,343.1 L337.8,131.7"><title>Edge 11–18</title></path>
+<path class="e" data-edge="11 22" d="M361.3,343.1 L270.0,396.2"><title>Edge 11–22</title></path>
+<path class="e" data-edge="12 19" d="M104.7,452.8 L86.0,202.7"><title>Edge 12–19</title></path>
+<path class="e" data-edge="12 20" d="M104.7,452.8 L178.7,343.1"><title>Edge 12–20</title></path>
+<path class="e" data-edge="13 17" d="M42.3,500.0 L123.0,283.7"><title>Edge 13–17</title></path>
+<path class="e" data-edge="13 21" d="M42.3,500.0 L362.8,422.1"><title>Edge 13–21</title></path>
+<path class="e" data-edge="14 19" d="M230.8,285.1 L86.0,202.7"><title>Edge 14–19</title></path>
+<path class="e" data-edge="14 21" d="M230.8,285.1 L362.8,422.1"><title>Edge 14–21</title></path>
+<path class="e" data-edge="15 17" d="M177.2,422.1 L123.0,283.7"><title>Edge 15–17</title></path>
+<path class="e" data-edge="15 22" d="M177.2,422.1 L270.0,396.2"><title>Edge 15–22</title></path>
+<path class="e" data-edge="16 18" d="M225.1,207.1 L337.8,131.7"><title>Edge 16–18</title></path>
+<path class="e" data-edge="16 20" d="M225.1,207.1 L178.7,343.1"><title>Edge 16–20</title></path>
+<path class="e" data-edge="20 22" d="M178.7,343.1 L270.0,396.2"><title>Edge 20–22</title></path>
+<path class="e" data-edge="21 22" d="M362.8,422.1 L270.0,396.2"><title>Edge 21–22</title></path>
+<path class="e added" data-edge="1 10" d="M481.8,40.0 L58.2,40.0"><title>Edge 1–10</title></path>
+<circle id="v0" class="v" cx="454.0" cy="202.7" r="7.5"><title>Vertex 0, degree 4</title></circle>
+<circle id="v1" class="v in" cx="481.8" cy="40.0" r="7.5"><title>Vertex 1, degree 5</title></circle>
+<circle id="v2" class="v" cx="397.9" cy="81.1" r="7.5"><title>Vertex 2, degree 4</title></circle>
+<circle id="v3" class="v" cx="435.3" cy="452.8" r="7.5"><title>Vertex 3, degree 4</title></circle>
+<circle id="v4" class="v" cx="309.2" cy="285.1" r="7.5"><title>Vertex 4, degree 4</title></circle>
+<circle id="v5" class="v" cx="314.9" cy="207.1" r="7.5"><title>Vertex 5, degree 4</title></circle>
+<circle id="v6" class="v" cx="497.7" cy="500.0" r="7.5"><title>Vertex 6, degree 4</title></circle>
+<circle id="v7" class="v" cx="142.1" cy="81.1" r="7.5"><title>Vertex 7, degree 4</title></circle>
+<circle id="v8" class="v" cx="202.2" cy="131.7" r="7.5"><title>Vertex 8, degree 4</title></circle>
+<circle id="v9" class="v" cx="417.0" cy="283.7" r="7.5"><title>Vertex 9, degree 4</title></circle>
+<circle id="v10" class="v in" cx="58.2" cy="40.0" r="7.5"><title>Vertex 10, degree 5</title></circle>
+<circle id="v11" class="v" cx="361.3" cy="343.1" r="7.5"><title>Vertex 11, degree 4</title></circle>
+<circle id="v12" class="v" cx="104.7" cy="452.8" r="7.5"><title>Vertex 12, degree 4</title></circle>
+<circle id="v13" class="v" cx="42.3" cy="500.0" r="7.5"><title>Vertex 13, degree 4</title></circle>
+<circle id="v14" class="v" cx="230.8" cy="285.1" r="7.5"><title>Vertex 14, degree 4</title></circle>
+<circle id="v15" class="v" cx="177.2" cy="422.1" r="7.5"><title>Vertex 15, degree 4</title></circle>
+<circle id="v16" class="v" cx="225.1" cy="207.1" r="7.5"><title>Vertex 16, degree 4</title></circle>
+<circle id="v17" class="v" cx="123.0" cy="283.7" r="7.5"><title>Vertex 17, degree 4</title></circle>
+<circle id="v18" class="v" cx="337.8" cy="131.7" r="7.5"><title>Vertex 18, degree 4</title></circle>
+<circle id="v19" class="v" cx="86.0" cy="202.7" r="7.5"><title>Vertex 19, degree 4</title></circle>
+<circle id="v20" class="v" cx="178.7" cy="343.1" r="7.5"><title>Vertex 20, degree 4</title></circle>
+<circle id="v21" class="v" cx="362.8" cy="422.1" r="7.5"><title>Vertex 21, degree 4</title></circle>
+<circle id="v22" class="v" cx="270.0" cy="396.2" r="7.5"><title>Vertex 22, degree 4</title></circle>
+</svg>

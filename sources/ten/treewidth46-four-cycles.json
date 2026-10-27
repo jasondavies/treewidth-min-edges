@@ -1,0 +1,223 @@
+{
+  "status": "all_verified",
+  "results": [
+    {
+      "inputs": 28,
+      "graphs": 52920,
+      "verified": 52920,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 13
+    },
+    {
+      "inputs": 28,
+      "graphs": 52920,
+      "verified": 52920,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 11
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 7
+    },
+    {
+      "inputs": 28,
+      "graphs": 52920,
+      "verified": 52920,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 15
+    },
+    {
+      "inputs": 28,
+      "graphs": 52920,
+      "verified": 52920,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 9
+    },
+    {
+      "inputs": 28,
+      "graphs": 52920,
+      "verified": 52920,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 10
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 8
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 1
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 5
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 3
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 6
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 0
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 2
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 0
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 3
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 1
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 4
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 4
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 5
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 8
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 7
+    },
+    {
+      "inputs": 29,
+      "graphs": 54810,
+      "verified": 54810,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 2
+    },
+    {
+      "inputs": 1,
+      "graphs": 6545,
+      "verified": 6545,
+      "candidates": 0,
+      "common_neighbors": 3,
+      "part": 6
+    },
+    {
+      "inputs": 28,
+      "graphs": 52920,
+      "verified": 52920,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 14
+    },
+    {
+      "inputs": 28,
+      "graphs": 52920,
+      "verified": 52920,
+      "candidates": 0,
+      "common_neighbors": 2,
+      "part": 12
+    },
+    {
+      "inputs": 1,
+      "graphs": 46376,
+      "verified": 46376,
+      "candidates": 0,
+      "common_neighbors": 4,
+      "part": 0
+    }
+  ],
+  "graphs": 969011,
+  "candidates": 0,
+  "sha256": {
+    "/home/ttuser/open-problems/scripts/run_treewidth46_four_cycles.py": "480465b4f5d553ec24af504eb42aa6a1132cdc89d34dac5cf074d0256af41271",
+    "/home/ttuser/open-problems/scripts/treewidth46_four_cycles.c": "d010287a1b055666ae26235297ed0e4f0ecb510304d207b342e71cc11ffc56c2",
+    "/home/ttuser/open-problems/scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba",
+    "/home/ttuser/open-problems/sources/treewidth36-family.g6": "0f62f3d14d543515b12567c1d650d290a9a5369ab9931220e5d398a9d3999214",
+    "/home/ttuser/open-problems/sources/treewidth35-all-family.g6": "1fcf89ffba866b13dc95de22bdac1c98a284d03687b9d61b927f00daca52fca6",
+    "/home/ttuser/open-problems/sources/treewidth34-family34.g6": "4f0f5209e9a3cf10c88b151649742ca5485b24b56204b47a62f9e0d99a41503f"
+  }
+}

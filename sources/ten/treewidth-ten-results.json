@@ -1,0 +1,47 @@
+{
+  "status": "complete",
+  "minimum_edges_for_treewidth_ten": 47,
+  "witness": "Vs`AA?cGb?A_C_CA@_?S?AA?@`OAgOAT??aG?CW??G`_",
+  "construction": {
+    "base_quartic_graph6": "Vs`AA?cG`?A_C_CA@_?S?AA?@`OAgOAT??aG?CW??G`_",
+    "added_edge": [
+      1,
+      10
+    ]
+  },
+  "four_cycle_extensions": 969011,
+  "girth_five_graphs": 3917,
+  "independent_witness_closed_states": 410333,
+  "dependencies": {
+    "minimum_edges_for_treewidth_nine": 42,
+    "minimum_edges_for_treewidth_eight": 34
+  },
+  "artifact_sha256": {
+    "treewidth46-four-cycles.json": "8a88edcfc360cc36e781268329fc96b3746f28ca1fc04dcf81dc787cc3faa6b8",
+    "treewidth46-four-cycle-audit.json": "093693563eb994b87c9cb11f604dc7f6457aebefc502090d71bf4d59edd22580",
+    "treewidth46-girth5.json": "47f4354032fe6cd5a1eff510e1102d63d37e2d26896790ee3b5122c373ffc8af",
+    "treewidth46-girth5.g6": "6a3a163990242bd963f628138b94ae77044f300893aed41a705dd21267c9a88a",
+    "treewidth-ten-witness47.json.gz": "c6b94c517a8e7ba16fc50b6eaf0b0898600e3accd5c92bb35f3f441968c89e6c",
+    "treewidth36-family.g6": "0f62f3d14d543515b12567c1d650d290a9a5369ab9931220e5d398a9d3999214",
+    "treewidth35-all-family.g6": "1fcf89ffba866b13dc95de22bdac1c98a284d03687b9d61b927f00daca52fca6",
+    "treewidth34-family34.g6": "4f0f5209e9a3cf10c88b151649742ca5485b24b56204b47a62f9e0d99a41503f"
+  },
+  "genreg_source_sha256": {
+    "gendef.h": "8cf36cf5d0d0a550c1c2c749945036705b850a4213e56b52a04fb3e2ce6fc893",
+    "genreg.c": "5831e836d010ceef51ef8e3ae69c2476dfde838b89e66b2a509ec692739a06fd",
+    "main.c": "45ab087ef5be42055353d0f0e552313f46f143f5b87e7b208c44025ec53d5516",
+    "optmid.c": "5671e82f319d9c398e94460297c20570ab3f302b81631766b1e7b25c5048efbb"
+  },
+  "fresh_genreg_build_matches_shortcodes": true,
+  "fresh_genreg_binary_sha256": "e774721cd4287f1d61b3da20a61197adaaa02fa81f4fd232d81fa911c4b5babb",
+  "source_sha256": {
+    "scripts/check_treewidth_ten_girth.py": "39e1cc0e96c212b5884e852a59fe980c6b01a81b324a4443c44580884ace69a7",
+    "scripts/treewidth46_four_cycles.c": "d010287a1b055666ae26235297ed0e4f0ecb510304d207b342e71cc11ffc56c2",
+    "scripts/run_treewidth46_four_cycles.py": "480465b4f5d553ec24af504eb42aa6a1132cdc89d34dac5cf074d0256af41271",
+    "scripts/audit_treewidth46_four_cycles.py": "74d66d821287d9184de747ee04d25a6971bd48001b924f40598a5fe11ce97bc8",
+    "scripts/treewidth47_add_edge.c": "0125667499f74df62494ca6c88ca3eacefec6d6184eb1a48647610125b0c2b8b",
+    "scripts/certify_treewidth_ten_witness.py": "8cb8636492bf4efbe21d1f8a41dc0ff98efe0364111a84748560e3296ede3512",
+    "scripts/verify_treewidth_ten_witness.py": "c052c9465bf95ada116771914fdc5914a218b23cb696144851a624d7841e8955",
+    "scripts/treewidth_edge_geng.c": "6fea31f0abd33e2b5ffd0073f66c49a105f278f1b36d8ce055db7a0e9f0044ba"
+  }
+}

@@ -24,12 +24,14 @@ isomorphism, on 16 and 17 vertices. See
 | 7 | 28 | 28 |
 | 8 | 36 | **34** |
 | 9 | 45 | **42** |
+| 10 | 55 | **47** |
 
 For every $k \le 7$, the clique is optimal for the number of edges. At $k=7$,
 the 12-vertex graph $F$ also attains the minimum of 28 edges.
 
-The extension to treewidth nine gives **42 edges**, with a separate
-[proof and full reproduction pipeline](proof-nine.md).
+The extensions give **42 edges at treewidth nine** and **47 at treewidth
+ten**, with separate [treewidth-nine](proof-nine.md) and
+[treewidth-ten](proof-ten.md) proofs and reproduction pipelines.
 
 This repository contains the [proof](proof.md), the code for its
 computer-assisted steps, and the saved certificates. The results have not yet
@@ -131,6 +133,53 @@ python3 scripts/reproduce_nine.py --full \
 The full run needs nauty, a C compiler, and the external GENREG sources.
 It is a substantial computation. See [requirements, checkpoints, and the
 distinction between these two modes](proof-nine.md#reproduction).
+
+## Treewidth ten: 47 edges are necessary and sufficient
+
+<p align="center">
+  <img src="sources/witness47.svg" width="360"
+       alt="A symmetric 23-vertex graph of treewidth ten, with the added edge and its degree-five endpoints highlighted in blue">
+</p>
+
+*The blue edge joins the two degree-five vertices. Deleting it leaves a
+quartic graph of girth five; all twenty-one white vertices have degree four.*
+
+A 23-vertex graph with **47 edges** has treewidth exactly ten. It is obtained
+by adding one edge to a quartic graph of girth five; two vertices have degree
+five and the other 21 have degree four. Its [graph6 file](sources/witness47.g6)
+and [certificate](sources/witness47.json.gz) are included. The certificate
+contains a width-ten order and 410,333 closed states excluding width nine.
+
+The [optimality proof](proof-ten.md) reuses the smaller classifications from
+the treewidth-nine work. Any counterexample with at most 46 edges would have
+to be triangle-free and quartic on 23 vertices. Four-cycles reduce it to
+**969,011** reconstructions from existing residue families; all have width
+at most nine. The remaining **3,917** girth-five graphs do too.
+
+Regenerate the drawing using only Python:
+
+```sh
+python3 scripts/draw_witness47.py
+```
+
+Check the saved witness and all new final certificates:
+
+```sh
+python3 scripts/reproduce_ten.py --output /tmp/treewidth-ten-check --workers 16
+```
+
+Regenerate the new girth-five enumeration as well:
+
+```sh
+python3 scripts/reproduce_ten.py \
+  --genreg-source /path/to/genreg \
+  --output /tmp/treewidth-ten-new --workers 16
+```
+
+Add `--full` with a fresh output directory to regenerate the earlier
+classifications too. See [reproduction details](proof-ten.md#6-reproduction)
+for requirements and exactly what each mode establishes. No uniqueness
+claim is made for the 47-edge witness.
 
 ## Proof outline
 
@@ -320,10 +369,16 @@ These are local measurements, not a general ranking of the software. The
 ## Files
 
 The arguments are in [proof.md](proof.md) for treewidth eight and
-[proof-nine.md](proof-nine.md) for treewidth nine.
+[proof-nine.md](proof-nine.md) for treewidth nine, and
+[proof-ten.md](proof-ten.md) for treewidth ten.
 
 ### Scripts
 
+- [scripts/draw_witness47.py](scripts/draw_witness47.py): generate the
+  47-edge witness SVG, highlighting the edge added to the quartic graph.
+- [scripts/reproduce_ten.py](scripts/reproduce_ten.py): reproduction of the
+  treewidth-ten result, with checks in [scripts/ten](scripts/ten) reusing
+  the earlier checker and reference code.
 - [scripts/reproduce_nine.py](scripts/reproduce_nine.py): isolated, checkpointed
   reproduction of the treewidth-nine result; its classifiers and verifiers
   are in [scripts/nine](scripts/nine).
@@ -348,6 +403,11 @@ The arguments are in [proof.md](proof.md) for treewidth eight and
 
 ### Graphs and saved results
 
+- [sources/witness47.g6](sources/witness47.g6), its
+  [certificate](sources/witness47.json.gz), and [drawing](sources/witness47.svg):
+  the 47-edge witness of treewidth ten.
+- [sources/ten](sources/ten/README.md): counts and independent audit reports
+  for the exclusion through 46 edges.
 - [sources/witness42.json](sources/witness42.json),
   [graph6 file](sources/witness42.g6), and [drawing](sources/witness42.svg):
   the 21-vertex witness of treewidth nine.
