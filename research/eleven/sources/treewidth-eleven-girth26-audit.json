@@ -1,0 +1,12 @@
+{
+  "status": "verified_complete",
+  "partitions": 256,
+  "leaves": 2530277,
+  "covers": 7189400459,
+  "attempts": 11893309854,
+  "archive_sha256": "1aac71d8de290e71ba042e67a7bf88204c742886b494e6812cffa700551d20eb",
+  "archive_bytes": 58567,
+  "archive_reextraction_verified": true,
+  "wall_seconds": 3734.620378880063,
+  "cpu_seconds": 56992.2
+}

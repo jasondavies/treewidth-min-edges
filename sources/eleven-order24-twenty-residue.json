@@ -1,0 +1,86 @@
+{
+  "format": "order24-twenty-residue-v1",
+  "recipes": [
+    {
+      "catalogue_index": 3,
+      "deleted_highs": [
+        0,
+        1,
+        2
+      ],
+      "suppressed_high": 7
+    },
+    {
+      "catalogue_index": 13,
+      "deleted_highs": [
+        0,
+        3,
+        5
+      ],
+      "suppressed_high": 1
+    },
+    {
+      "catalogue_index": 29,
+      "deleted_highs": [
+        0,
+        1,
+        4
+      ],
+      "suppressed_high": 5
+    },
+    {
+      "catalogue_index": 32,
+      "deleted_highs": [
+        5,
+        6,
+        7
+      ],
+      "suppressed_high": 2
+    },
+    {
+      "catalogue_index": 33,
+      "deleted_highs": [
+        1,
+        5,
+        6
+      ],
+      "suppressed_high": 4
+    },
+    {
+      "catalogue_index": 209,
+      "deleted_highs": [
+        1,
+        3,
+        5
+      ],
+      "suppressed_high": 0
+    },
+    {
+      "catalogue_index": 243,
+      "deleted_highs": [
+        3,
+        4,
+        5
+      ],
+      "suppressed_high": 2
+    },
+    {
+      "catalogue_index": 298,
+      "deleted_highs": [
+        0,
+        1,
+        4
+      ],
+      "suppressed_high": 2
+    },
+    {
+      "catalogue_index": 308,
+      "deleted_highs": [
+        0,
+        3,
+        4
+      ],
+      "suppressed_high": 2
+    }
+  ]
+}

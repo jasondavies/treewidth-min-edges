@@ -1,0 +1,200 @@
+{
+  "format": "order24-high-smoothing-v1",
+  "cases": [
+    {
+      "catalogue_index": 2,
+      "delete": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "eliminate": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "catalogue_index": 30,
+      "delete": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "eliminate": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "catalogue_index": 87,
+      "delete": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "eliminate": [
+        1,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "catalogue_index": 94,
+      "delete": [
+        0,
+        5,
+        6,
+        7
+      ],
+      "eliminate": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "catalogue_index": 95,
+      "delete": [
+        0,
+        5,
+        6,
+        7
+      ],
+      "eliminate": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "catalogue_index": 96,
+      "delete": [
+        0,
+        5,
+        6,
+        7
+      ],
+      "eliminate": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "catalogue_index": 97,
+      "delete": [
+        0,
+        5,
+        6,
+        7
+      ],
+      "eliminate": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "catalogue_index": 98,
+      "delete": [
+        0,
+        5,
+        6,
+        7
+      ],
+      "eliminate": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "catalogue_index": 107,
+      "delete": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "eliminate": [
+        5,
+        6,
+        7,
+        4
+      ]
+    },
+    {
+      "catalogue_index": 119,
+      "delete": [
+        0,
+        4,
+        6,
+        7
+      ],
+      "eliminate": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "catalogue_index": 130,
+      "delete": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "eliminate": [
+        2,
+        3,
+        6,
+        7
+      ]
+    },
+    {
+      "catalogue_index": 164,
+      "delete": [
+        0,
+        1,
+        6,
+        7
+      ],
+      "eliminate": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "catalogue_index": 188,
+      "delete": [
+        0,
+        1,
+        2,
+        6
+      ],
+      "eliminate": [
+        3,
+        4,
+        5,
+        7
+      ]
+    }
+  ]
+}

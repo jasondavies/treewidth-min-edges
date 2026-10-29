@@ -1,0 +1,108 @@
+{
+  "status": "complete_original_family",
+  "roots": [
+    {
+      "key": "0bf513fb181ffbeddb57f4adfcaa7dd17c6f5f9c3d839c913b76ac0c6ecbe089",
+      "prefix": "26 5 30 225 801 7169 57345 6 2 2 4 4 8 8 8 16 16 16 0 0 0 0 0 0 0 0 0 0",
+      "covered": true
+    },
+    {
+      "key": "a92db0b9db845334823fca1bd1bdb147da2df0af08df8a96d1ecc6b2799deee8",
+      "prefix": "26 5 30 225 801 3137 12417 6 10 18 4 4 8 8 16 16 0 0 0 0 0 0 0 0 0 0 0 0",
+      "covered": true
+    },
+    {
+      "key": "bdacabc4aa9c4100b165a64dff58737018b8d5173309cf39b3ebe2d3efef3635",
+      "prefix": "26 5 30 417 1601 6209 24609 18 12 2 2 4 4 8 8 16 16 0 0 0 0 0 0 0 0 0 0 0",
+      "covered": true
+    },
+    {
+      "key": "dfdd3cb44ed5d09f092bb27a3ad58d66c04852730b2882f745ff675a0a81b51f",
+      "prefix": "26 5 30 225 801 3137 28673 6 10 2 4 4 8 8 16 16 16 0 0 0 0 0 0 0 0 0 0 0",
+      "covered": true
+    },
+    {
+      "key": "edc98cf74cc08803d42c2fb524ff5905da939f2961d62f09aef8832a64a95332",
+      "prefix": "26 5 30 353 673 3201 12353 6 18 12 2 4 8 8 16 16 0 0 0 0 0 0 0 0 0 0 0 0",
+      "covered": true
+    }
+  ],
+  "covered_roots": 5,
+  "audits": [
+    {
+      "status": "partial_accounting_consistent",
+      "roots": 5,
+      "covered_roots": 0,
+      "reachable_nodes": 12947,
+      "completed_terminal_nodes": 12047,
+      "split_nodes": 681,
+      "pending_nodes": 219,
+      "splits_regenerated": true,
+      "state_sha256": "843d3d5ba93e3729ac0e901843c8bea87ce8eae8965923b8b64c6323afe7838c"
+    },
+    {
+      "status": "partial_accounting_consistent",
+      "roots": 219,
+      "covered_roots": 166,
+      "reachable_nodes": 18103,
+      "completed_terminal_nodes": 17230,
+      "split_nodes": 770,
+      "pending_nodes": 103,
+      "splits_regenerated": true,
+      "state_sha256": "dd5c3b628792245f77cbf21567d89391e7b33bc6bb4a2056ee307a10ba28af0a"
+    },
+    {
+      "status": "partial_accounting_consistent",
+      "roots": 103,
+      "covered_roots": 83,
+      "reachable_nodes": 14968,
+      "completed_terminal_nodes": 14099,
+      "split_nodes": 711,
+      "pending_nodes": 158,
+      "splits_regenerated": true,
+      "state_sha256": "d80c0debdabd60894d2d294153ac3fb42a8117fb0bd9c3bfee57e2d416f6bc1e"
+    },
+    {
+      "status": "partial_accounting_consistent",
+      "roots": 158,
+      "covered_roots": 143,
+      "reachable_nodes": 111957,
+      "completed_terminal_nodes": 109313,
+      "split_nodes": 2481,
+      "pending_nodes": 163,
+      "slices_replayed": false,
+      "cuts_replayed": true,
+      "replayed_records": 2481,
+      "state_sha256": "e53ef26c8b7fa437f9d6ec9faa3a1ddcc28781a2d94da8eabfdb7651c3f30f39",
+      "script_sha256": "f1beb26f294e1c63454587fa1f348045cc347b12ae407317c4816728c55b22c8"
+    },
+    {
+      "status": "complete_supplied_family",
+      "roots": 163,
+      "covered_roots": 163,
+      "reachable_nodes": 14094,
+      "completed_terminal_nodes": 13842,
+      "split_nodes": 252,
+      "pending_nodes": 0,
+      "slices_replayed": false,
+      "cuts_replayed": true,
+      "replayed_records": 252,
+      "state_sha256": "063b033478ea082ba18a25b97c9868125c6e2c68f6d225e939cd415ca24ad33b",
+      "script_sha256": "f1beb26f294e1c63454587fa1f348045cc347b12ae407317c4816728c55b22c8"
+    }
+  ],
+  "runs": [
+    "/tmp/treewidth11/square-corner-completion",
+    "/tmp/treewidth11/square-propagated-completion",
+    "/tmp/treewidth11/square-no-paths-completion",
+    "/tmp/treewidth11/square-cooperative-completion",
+    "/tmp/treewidth11/square-fair-audit-snapshot"
+  ],
+  "frontier_sha256": {
+    "/tmp/treewidth11/square-corner-frontier": "5dbe488ec7ddd66c98783a4ad177600b82e85bb2214310edd9a7c9205f555ce9",
+    "/tmp/treewidth11/square-propagated-frontier": "3456de7b3fb95959ea7aa632e47067120596e9d6000abc659d85cd3743558053",
+    "/tmp/treewidth11/square-no-paths-frontier": "1c4f75158c9e09b0f4cf2a495102a433697140d54d197bd356c9d0d99a53f053",
+    "/tmp/treewidth11/square-cooperative-frontier": "29353418166e4339092210b1c3858e2232966bcb3200f2a7797850f428aa499d"
+  },
+  "script_sha256": "e1ff340c8ff53d51755436f9adaf033a902c9f07d0794e20bfbd8193053254c2"
+}

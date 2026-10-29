@@ -1,0 +1,35 @@
+{
+  "format": "order24-high-smoothing29-v1",
+  "cases": [
+    {
+      "catalogue_index": 202,
+      "delete": [
+        0,
+        2,
+        3,
+        6
+      ],
+      "eliminate": [
+        1,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "catalogue_index": 203,
+      "delete": [
+        0,
+        2,
+        3,
+        6
+      ],
+      "eliminate": [
+        1,
+        4,
+        5,
+        7
+      ]
+    }
+  ]
+}

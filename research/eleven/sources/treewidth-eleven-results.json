@@ -1,0 +1,77 @@
+{
+  "status": "complete",
+  "date": "2026-10-28",
+  "minimum_edges_for_treewidth_eleven": 53,
+  "scope": "Finite simple undirected graphs; the lower bound excludes treewidth at least eleven with at most 52 edges.",
+  "witness": {
+    "graph6": "WAIWCA?OP@AOA_W??RA@CGPEA@?AC?@GCGODCA@g?BE?_F@",
+    "vertices": 24,
+    "edges": 53,
+    "treewidth": 11,
+    "closed_width_ten_states": 673718,
+    "verification_log": "PASS: 53 edges, treewidth eleven; 673718 closed states and all 53 edge deletions verified."
+  },
+  "minimum_order_52_edge_cases_excluded": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "order25": {
+    "profiles": 40,
+    "initial_restrictions": 7,
+    "cubic_reductions": 3,
+    "earlier_probes_and_shared_cases": 17,
+    "completed_profiles": 11,
+    "final_core_profiles": 2,
+    "newly_replayed_required_cuts": 327,
+    "positive_core_residue_orders": 51,
+    "final_paw_recursive_calls": 2209
+  },
+  "dependencies": {
+    "minimum_edges_for_treewidth_ten": 47,
+    "minimum_edges_for_treewidth_nine": 42,
+    "minimum_edges_for_treewidth_eight": 34
+  },
+  "proof": "problems/a3nm-021-smallest-treewidth-achieved-by-a-graph-with-less-edges-than-the-complete-graph/treewidth-eleven-optimal.md",
+  "proof_sha256": "3b981c121f469f8c512e903f0a3bc3bb6a261c4ff57f96d701f28bf038b0aebe",
+  "artifact_sha256": {
+    "treewidth-ten-results.json": "c3e8275d72119fb0643ca108bfabbffe60fa5de7c7b849961303917d1ad449ed",
+    "treewidth-eleven-witness53.g6": "91efb54bdf788e5ab7fed1b163118df535d2f4dd555f8c9cf76cdd368ad854e1",
+    "treewidth-eleven-witness53.json.gz": "23e387c7a8b712e322ca3e7c92fc879a3cf4adff58d31c3ed52660816c457fdb",
+    "treewidth-eleven-order23-audit.json": "6cc20dd5eedd0c464f546b783ca94b5a84846f3c50366e0fa3e0bb1f686a7744",
+    "treewidth-eleven-order24-audit.json": "b1266dbb6663afb6ffad6efdf32e8f55c46fbb291c088451988e4b34055b94c1",
+    "treewidth-eleven-quartic-complete-results.json": "95ca7ff7d145bcdb4677e0c96c585dbb5bf8c89b335919f3dd81da052dcbdf89",
+    "treewidth-eleven-quartic-complete-audit.json": "bd4da25a8a936e60e8ddefa58865683bc6253ec6be6c8852226deed2b0d6acd5",
+    "treewidth-eleven-order25-completed-profiles-audit.json": "9c83d1b279d9696686508693bb57e77fde0f86eb89443997a27cd7111366e568",
+    "treewidth-eleven-order25-complete-audit.json": "f591e429151a8bd457505489bfcc3c5593f46a4e203db48ab6b858744ed3a4af",
+    "treewidth-eleven-order25-profile-partition.json": "44f1fc5965824c1a8673b7089ac0e78309e82ea9cde2bd73446a07c90820a935",
+    "treewidth-eleven-order25-rebuild-audit.json": "b5663f4016522859952803779f927b3ecdd072233e6067cc24133e74224d1291",
+    "treewidth-eleven-c4-core-exclusion.json": "70ea3a60d561667b203bdb4d27efabccbc08fab9f68d670a251eda8417cef190",
+    "treewidth-eleven-paw-core-reduction.json": "ddd2cbf0f2385cf17a4d44b8e8277b8f14f0b0137fe52938f1abd13f6bc99ed6",
+    "treewidth-eleven-paw-complete-exclusion.json": "26df3462763d1ca403133afe21277fcaa17d75678351259ed485c692e996e309",
+    "treewidth-eleven-paw-caps-audit.json": "19a41104cb8708709b315e14b522b219533f9b4025dd60bf4207cbd3a00e6694",
+    "treewidth-eleven-neighbor-caps-audit.json": "e783f73e56c056952a44b77ef493af96b9ee655991d4281a77b54f127933ce9d",
+    "treewidth-eleven-order25-complete-checkpoints.tar.gz": "8827ab9ae826dfa40205e749ca0d43d2c15a253c4801ae5948f5edd8c519631c",
+    "treewidth-eleven-c4-core-checkpoints.tar.gz": "a31925796647e7cd769ffbe5631ac0344e8f45a56b15ed44e88b677af64aec0b",
+    "treewidth-eleven-paw-core-checkpoints.tar.gz": "824d80ec6c765fe40ac99a81ff918eaf576c3621b31910261251ba3bc82e7dfb",
+    "treewidth-eleven-quartic-complete-checkpoints.tar.gz": "e84878305b3e25496cafadf8fea4783268d8db8c5fc900322276cf4730deecd8"
+  },
+  "source_sha256": {
+    "scripts/audit_treewidth25_complete.py": "e6f8ab8b58b46ffc95d8c61b4f6d46ab129b57c23bdd05dfb9c3c2238170822c",
+    "scripts/audit_treewidth25_profile_partition.py": "1a7f0da9c47eaeb40eac5962c1c18c28dbe1225622ac0f508cdd4b2f22b5ba58",
+    "scripts/audit_treewidth_completed_profiles.py": "78fa5702a3c0c15f7f686dcd6aead5e144efb63524c6dd76b58c45fbc782a80c",
+    "scripts/verify_treewidth_cooperative_builds.py": "75d3214424c691f7072373d40f2c6b688174f0b6f1e0949fe15eb185016800c7",
+    "scripts/verify_treewidth_eleven_witness53.py": "8bc9a00bd0339398351ef687ea11e27d5e330e68801194046990f8e39715976e",
+    "scripts/treewidth52_cubic_paw_caps.c": "1ce89fa985ebde32f8898e93e3466a2793180984aaed1a2350fa925f5436cd87",
+    "scripts/treewidth52_paw_cubic_caps.h": "60abff48c20e367c015b13a0a3f23a715a4d0b79ecd12c3e9116ff5bd9a00736",
+    "scripts/treewidth42_paw_core_extensions.c": "24dbd0ce39b010f0a3c27793fd57f7dbdb473a35480568e54ac068565b999dfb",
+    "scripts/treewidth42_c4_core_extensions.c": "a2a646518a959c2471632ee5db8fddc15ad8f30e70cedd7fb1ae0a052f5ac5c7",
+    "scripts/check_treewidth42_paw_patterns.py": "fad731453e3d82a92c638390248f98a4979d21c4e3afccfd019417f6628952a2",
+    "scripts/check_treewidth42_c4_patterns.py": "119bb1aaaab1c241431d2bd0681269db43de5a962712f33f28444df32d113993"
+  },
+  "reproduction_note": "Saved checkpoint manifests use /home/ttuser/open-problems and /tmp/treewidth11. See the proof for replay and fresh-construction instructions.",
+  "research_priority_claimed": false
+}

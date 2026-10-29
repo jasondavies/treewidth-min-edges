@@ -25,13 +25,15 @@ isomorphism, on 16 and 17 vertices. See
 | 8 | 36 | **34** |
 | 9 | 45 | **42** |
 | 10 | 55 | **47** |
+| 11 | 66 | **53** |
 
 For every $k \le 7$, the clique is optimal for the number of edges. At $k=7$,
 the 12-vertex graph $F$ also attains the minimum of 28 edges.
 
-The extensions give **42 edges at treewidth nine** and **47 at treewidth
-ten**, with separate [treewidth-nine](proof-nine.md) and
-[treewidth-ten](proof-ten.md) proofs and reproduction pipelines.
+The extensions give **42 edges at treewidth nine**, **47 at treewidth ten**,
+and **53 at treewidth eleven**, with separate [treewidth-nine](proof-nine.md),
+[treewidth-ten](proof-ten.md), and [treewidth-eleven](proof-eleven.md) proofs
+and reproduction instructions.
 
 This repository contains the [proof](proof.md), the code for its
 computer-assisted steps, and the saved certificates. The results have not yet
@@ -180,6 +182,60 @@ Add `--full` with a fresh output directory to regenerate the earlier
 classifications too. See [reproduction details](proof-ten.md#6-reproduction)
 for requirements and exactly what each mode establishes. No uniqueness
 claim is made for the 47-edge witness.
+
+## Treewidth eleven: 53 edges are necessary and sufficient
+
+<p align="center">
+  <img src="sources/witness53.svg" width="360"
+       alt="A 24-vertex graph with 53 edges and treewidth eleven; ten blue vertices have degree five and fourteen white vertices have degree four">
+</p>
+
+*The drawing has exact reflection symmetry. The ten blue vertices have
+degree five; the fourteen white vertices have degree four. Edge crossings
+are not vertices.*
+
+A certified 24-vertex graph has **53 edges and treewidth exactly eleven**:
+
+```text
+W?dkC@?G?`AAO_GOOE?_FOP?aGG?c?@ACAC@?Q?gG@``?@w
+```
+
+The [proof](proof-eleven.md) excludes every graph with at most 52 edges and
+treewidth at least eleven. It reduces a minimum-order counterexample to
+21–26 vertices, then handles each case by a hand argument, certificate,
+or exhaustive enumeration.
+
+Check the pictured witness using Python's standard library:
+
+```sh
+python3 scripts/verify_witness53.py
+```
+
+Its **26,256-byte certificate** contains a width-eleven elimination order
+and 675,532 closed states excluding width ten. This verifies the witness;
+it does not by itself establish the minimum edge count.
+
+For the lower bound, use the [complete verification guide](verification-eleven.md).
+It selects the finished certificates for orders 23–25 and preserves the
+archived enumeration for the remaining quartic case. One command runs the
+selected checks, including regeneration of the earlier classifications:
+
+```sh
+python3 scripts/reproduce_eleven_full.py --genreg-source /path/to/genreg-r5 \
+  --output /tmp/treewidth-eleven-full --workers 8
+```
+
+The guide lists platform requirements, how to resume, and validation status.
+The fresh prerequisite and certificate checks passed; the new full rerun was
+deliberately stopped during enumeration. The original completed computations
+remain the evidence for those cases.
+`reproduce_eleven.py` checks file integrity and the pictured witness; it is
+**not** a full lower-bound reproduction. Regenerate the drawing with
+`python3 scripts/draw_witness53.py`.
+
+The [retained enumeration inputs](research/eleven/README.md) support the selected
+proof route. Alternative searches and unfinished certificate experiments are
+kept outside this repository. No uniqueness claim is made for the witness.
 
 ## Proof outline
 

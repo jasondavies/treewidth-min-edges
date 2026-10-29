@@ -1,0 +1,2 @@
+# Preserve exact bytes of the source-hashed enumeration inputs.
+research/eleven/** -text -whitespace

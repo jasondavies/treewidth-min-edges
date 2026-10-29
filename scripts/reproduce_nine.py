@@ -131,10 +131,11 @@ def main():
         (data/'treewidth30-cores.g6').write_text('\n'.join(cores)+'\n')
         install(results/'core30/summary.json','treewidth30-core-results.json')
         step('classify35','nine/classify_treewidth35.py','--cores',results/'core30','--output',results/'classify35')
-        for suffix in ('30','35'):
+        for suffix, reference in (('30', 'treewidth35-family30.g6'),
+                                  ('35', 'treewidth35-family.g6')):
             source=results/f'classify35/family{suffix}.g6'
-            compare(source,f'treewidth35-family{suffix}.g6')
-            install(source,f'treewidth35-family{suffix}.g6')
+            compare(source,reference)
+            install(source,reference)
         step('quartic-residues','nine/classify_treewidth30_quartic.py','--cores',results/'core30',
              '--output',results/'quartic-residues')
         source=results/'quartic-residues/family.g6'
